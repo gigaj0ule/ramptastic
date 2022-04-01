@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=A_GND Pin=NT_1-1
+Removed Pin From Net: NetName=GND Pin=NT_1-2
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=NT_1
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component RLED_2 0402WGF1001TCE
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component RLED_3 0402WGF1001TCE

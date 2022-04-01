@@ -1,0 +1,16 @@
+Added Component: Designator=QBD_8A(TO-252AA)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Extended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C326372"; VariantName = "[No Variations]"
+Added Component: Designator=QBD_8B(TO-252AA)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Extended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C326372"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GQBD Pin=QBD_8A-1
+Added Pin To Net: NetName=PACK+ Pin=QBD_8A-2
+Added Pin To Net: NetName=GQS Pin=QBD_8A-3
+Added Pin To Net: NetName=GQBD Pin=QBD_8B-1
+Added Pin To Net: NetName=CELL14 Pin=QBD_8B-2
+Added Pin To Net: NetName=GQS Pin=QBD_8B-3
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component QBD_8A NCE60P12K
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component QBD_8B NCE60P12K

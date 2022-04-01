@@ -1,0 +1,16 @@
+Change Physical Footprint: Designator=J100 Old Footprint=DX07S016JA1R1500 New Footprint=DX07S016JA1R1500
+Change Physical Footprint: Designator=L100 Old Footprint=L_0603 New Footprint=L_0603
+Change Physical Footprint: Designator=QBD_1A Old Footprint=TO-252AA New Footprint=TO-252AA
+Change Physical Footprint: Designator=QBD_1B Old Footprint=TO-252AA New Footprint=TO-252AA
+Change Physical Footprint: Designator=QBD_2A Old Footprint=TO-252AA New Footprint=TO-252AA
+Change Physical Footprint: Designator=QBD_2B Old Footprint=TO-252AA New Footprint=TO-252AA
+Change Physical Footprint: Designator=QBD_3A Old Footprint=TO-252AA New Footprint=TO-252AA
+Change Physical Footprint: Designator=QBD_3B Old Footprint=TO-252AA New Footprint=TO-252AA
+Change Physical Footprint: Designator=QBD_4A Old Footprint=TO-252AA New Footprint=TO-252AA
+Change Physical Footprint: Designator=QBD_4B Old Footprint=TO-252AA New Footprint=TO-252AA
+Change Physical Footprint: Designator=QBD_5A Old Footprint=TO-252AA New Footprint=TO-252AA
+Change Physical Footprint: Designator=QBD_5B Old Footprint=TO-252AA New Footprint=TO-252AA
+Change Physical Footprint: Designator=RC7 Old Footprint=R_0402 New Footprint=R_0402
+Change Physical Footprint: Designator=SW1 Old Footprint=TS-1187A-C-C-B New Footprint=TS-1187A-C-C-B
+Change Physical Footprint: Designator=SW_WAKE Old Footprint=TS-1187A-C-C-B New Footprint=TS-1187A-C-C-B
+Change Physical Footprint: Designator=U2 Old Footprint=TSSOP-24-P0.65MM-W4.4MM New Footprint=TSSOP-24-P0.65MM-W4.4MM

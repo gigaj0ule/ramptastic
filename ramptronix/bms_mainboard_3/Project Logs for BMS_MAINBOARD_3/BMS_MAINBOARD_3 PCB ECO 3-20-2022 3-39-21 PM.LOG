@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=DATA_BUS_A2 Pin=U100-14
+Added Pin To Net: NetName=DATA_BUS_A2 Pin=U100-39

@@ -1,0 +1,23 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: BMS_MAINBOARD_3.PcbDoc   3/23/2022  4:47:58 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : BMS_MAINBOARD_3-RoundHoles.TXT
+ASCII SlotHoles File : BMS_MAINBOARD_3-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.254mm (10mil)                                           Round             447       PTH        0.00mm (0.00inch)
+T2      0.55mm (22mil)                                            Slot              4         PTH        0.00mm (0.00inch)
+T3      0.6mm (24mil)                                             Round             13        PTH        0.00mm (0.00inch)
+T4      1mm (39mil)                                               Slot              2         PTH        0.00mm (0.00inch)
+T5      2.8mm (110mil)                                            Round             2         PTH        0.00mm (0.00inch)
+T6      0.65mm (26mil)                                            Round             2         NPTH       0.00mm (0.00inch)
+T7      2.388mm (94mil)                                           Round             7         NPTH       0.00mm (0.00inch)
+T8      3.175mm (125mil)                                          Round             14        NPTH       0.00mm (0.00inch)
+T9      3.454mm (136mil)                                          Round             14        NPTH       0.00mm (0.00inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              505
+
+Total Processing Time (hh:mm:ss) : 00:00:00

@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=3V3_EN Pin=U100-30
+Added Pin To Net: NetName=3V3_EN Pin=U100-3

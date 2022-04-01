@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\user\Nextcloud\PC-SYNC\Projects\_source_codes\_all_git_repos\ramptastic\ramptronix\bms_mainboard_2\BMS_MAINBOARD_2.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=bms_mainboard_2-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=bms_mainboard_2-slotholes.txt|DrillLayers=gtl,gbl

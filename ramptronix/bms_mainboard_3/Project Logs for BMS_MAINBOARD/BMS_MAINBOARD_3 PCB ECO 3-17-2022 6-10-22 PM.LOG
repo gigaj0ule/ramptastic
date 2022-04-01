@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=CELL1 Pin=J1-2
+Removed Pin From Net: NetName=CELL1 Pin=J1-4
+Removed Pin From Net: NetName=CELL1 Pin=NT_C1-1
+Added Component: Designator=NT_C8(NET_TIE)
+Add component. Clean all parameters for all variants
+Added Component: Designator=NT_C11(NET_TIE)
+Add component. Clean all parameters for all variants
+Added Component: Designator=NT_C13(NET_TIE)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=C8 Pin=NT_C8-1
+Added Pin To Net: NetName=CELL8 Pin=NT_C8-2
+Added Pin To Net: NetName=CELL11 Pin=NT_C11-1
+Added Pin To Net: NetName=C11 Pin=NT_C11-2
+Added Pin To Net: NetName=CELL13 Pin=NT_C13-1
+Added Pin To Net: NetName=C13 Pin=NT_C13-2
+Change Net Name : Old Net Name=CELL1 New Net Name=C1
+Added Pin To Net: NetName=CELL1 Pin=J1-2
+Added Pin To Net: NetName=CELL1 Pin=J1-4
+Added Pin To Net: NetName=CELL1 Pin=NT_C1-1
+Added Net: Name=CELL1
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component NT_C8 0
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component NT_C11 0
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component NT_C13 0

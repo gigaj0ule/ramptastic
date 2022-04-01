@@ -1,0 +1,10 @@
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=J_BATT
+Added Component: Designator=J?(XT60PW_F)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "X"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=PACK- Pin=J?-MINUS
+Added Pin To Net: NetName=GND Pin=J?-M
+Added Pin To Net: NetName=GND Pin=J?-M
+Added Pin To Net: NetName=PACK+ Pin=J?-PLUS
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component J? XT60PW_F

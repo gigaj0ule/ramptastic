@@ -1,0 +1,15 @@
+Added Component: Designator=NT_C0(NET_TIE)
+Add component. Clean all parameters for all variants
+Added Component: Designator=NT_C2(NET_TIE)
+Add component. Clean all parameters for all variants
+Added Component: Designator=NT_C4(NET_TIE)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=C0 Pin=NT_C0-1
+Added Pin To Net: NetName=GND Pin=NT_C0-2
+Added Pin To Net: NetName=C2 Pin=NT_C2-1
+Added Pin To Net: NetName=CELL2 Pin=NT_C2-2
+Added Pin To Net: NetName=C4 Pin=NT_C4-1
+Added Pin To Net: NetName=CELL4 Pin=NT_C4-2
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component NT_C0 0
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component NT_C2 0
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component NT_C4 0

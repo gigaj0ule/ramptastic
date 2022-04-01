@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=VCC_3V3_2 Pin=CR3-1
+Removed Pin From Net: NetName=VCC_3V3_SW Pin=NT_2-1
+Removed Pin From Net: NetName=VCC_3V3_2 Pin=NT_2-2
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=NT_2
+Added Component: Designator=R3V(R_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C17168"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC_3V3_SW Pin=CR3-1
+Added Pin To Net: NetName=VCC_3V3_2 Pin=R3V-1
+Added Pin To Net: NetName=VCC_3V3_SW Pin=R3V-2
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component R3V 0402WGF0000TCE

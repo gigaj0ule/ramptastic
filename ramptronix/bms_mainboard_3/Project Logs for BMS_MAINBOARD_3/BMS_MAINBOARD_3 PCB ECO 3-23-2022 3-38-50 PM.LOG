@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=WAKEUP_D_R Pin=U100-31
+Added Pin To Net: NetName=WAKEUP_D_R Pin=U100-10

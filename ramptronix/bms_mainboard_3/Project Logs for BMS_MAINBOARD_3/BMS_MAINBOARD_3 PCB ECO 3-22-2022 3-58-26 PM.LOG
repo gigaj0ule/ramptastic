@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=AFE_WAKE Pin=U100-26
+Added Pin To Net: NetName=AFE_WAKE Pin=U100-25

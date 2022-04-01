@@ -1,0 +1,16 @@
+Added Component: Designator=Q18(TO-236AB)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C8545"; VariantName = "[No Variations]"
+Added Component: Designator=R_Q18G(R_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C25744"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=WAKEUP_D_R Pin=Q18-1
+Added Pin To Net: NetName=GND Pin=Q18-2
+Added Pin To Net: NetName=NetQ18_3 Pin=Q18-3
+Added Pin To Net: NetName=WAKEUP_D_R Pin=R_Q18G-1
+Added Pin To Net: NetName=GND Pin=R_Q18G-2
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component Q18 2N7002
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component R_Q18G 0402WGF1002TCE

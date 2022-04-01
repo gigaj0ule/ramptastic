@@ -1,0 +1,20 @@
+Change Component Designator: OldDesignator=RBUS_1 NewDesignator=R_VBUS1
+Change Component Designator: OldDesignator=RBUS_2 NewDesignator=R_VBUS2
+Change Component Designator: OldDesignator=RBUS_3 NewDesignator=R_VBUS3
+Added Component: Designator=R_STBY1(R_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C25744"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R_STBY2(R_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C25744"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VSTBY_SNS Pin=R_STBY1-1
+Added Pin To Net: NetName=VCC_STBY Pin=R_STBY1-2
+Added Pin To Net: NetName=GND Pin=R_STBY2-1
+Added Pin To Net: NetName=VSTBY_SNS Pin=R_STBY2-2
+Change Net Name : Old Net Name=NetRBUS_1_1 New Net Name=NetR_VBUS1_1
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component R_STBY1 0402WGF1002TCE
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component R_STBY2 0402WGF1002TCE

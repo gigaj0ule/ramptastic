@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [BUSBAR_18650_12S.PcbDoc]
+   Generated File[BUSBAR_18650_12S-RoundHoles.TXT]
+   Generated File[BUSBAR_18650_12S-SlotHoles.TXT]
+   Generated File[BUSBAR_18650_12S.LDP]
+   Generated File[BUSBAR_18650_12S.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 1:35:10 PM On 2/16/2022

@@ -1,0 +1,777 @@
+Removed Pin From Net: NetName=BATT_1 Pin=CC0A-1
+Removed Pin From Net: NetName=BATT_1-2 Pin=CC0B-2
+Removed Pin From Net: NetName=BATT_1-2 Pin=CC1-1
+Removed Pin From Net: NetName=BATT_2-3 Pin=CC1-2
+Removed Pin From Net: NetName=BATT_2-3 Pin=CC2-1
+Removed Pin From Net: NetName=BATT_3-4 Pin=CC2-2
+Removed Pin From Net: NetName=BATT_3-4 Pin=CC3-1
+Removed Pin From Net: NetName=C4 Pin=CC3-2
+Removed Pin From Net: NetName=C4 Pin=CC4-1
+Removed Pin From Net: NetName=BATT_4-5 Pin=CC4-2
+Removed Pin From Net: NetName=BATT_4-5 Pin=CC5A-1
+Removed Pin From Net: NetName=BATT_5-6 Pin=CC5B-2
+Removed Pin From Net: NetName=BATT_5-6 Pin=CC6-1
+Removed Pin From Net: NetName=BATT_6-7 Pin=CC6-2
+Removed Pin From Net: NetName=BATT_6-7 Pin=CC7-1
+Removed Pin From Net: NetName=BATT_7-8 Pin=CC7-2
+Removed Pin From Net: NetName=BATT_7-8 Pin=CC8-1
+Removed Pin From Net: NetName=C9 Pin=CC8-2
+Removed Pin From Net: NetName=C9 Pin=CC9-1
+Removed Pin From Net: NetName=BATT_8-9 Pin=CC9-2
+Removed Pin From Net: NetName=BATT_8-9 Pin=CC10A-1
+Removed Pin From Net: NetName=BATT_9-10 Pin=CC10B-2
+Removed Pin From Net: NetName=BATT_9-10 Pin=CC11-1
+Removed Pin From Net: NetName=BATT_10-11 Pin=CC11-2
+Removed Pin From Net: NetName=BATT_10-11 Pin=CC12-1
+Removed Pin From Net: NetName=C13 Pin=CC12-2
+Removed Pin From Net: NetName=C13 Pin=CC13-1
+Removed Pin From Net: NetName=BATT_11-12 Pin=CC13-2
+Removed Pin From Net: NetName=BATT_11-12 Pin=CC14-1
+Removed Pin From Net: NetName=BATT_12 Pin=CC14-2
+Removed Pin From Net: NetName=BATT_12 Pin=CC15-2
+Removed Pin From Net: NetName=TS_A_GND Pin=CTS_0A-1
+Removed Pin From Net: NetName=TS_0 Pin=CTS_0A-2
+Removed Pin From Net: NetName=TS_B_GND Pin=CTS_0b-1
+Removed Pin From Net: NetName=TS_0 Pin=CTS_0b-2
+Removed Pin From Net: NetName=TS_A_GND Pin=CTS_1A-1
+Removed Pin From Net: NetName=TS_1 Pin=CTS_1A-2
+Removed Pin From Net: NetName=TS_B_GND Pin=CTS_1B-1
+Removed Pin From Net: NetName=TS_1 Pin=CTS_1B-2
+Removed Pin From Net: NetName=TS_A_GND Pin=CTS_2A-1
+Removed Pin From Net: NetName=TS_2 Pin=CTS_2A-2
+Removed Pin From Net: NetName=TS_B_GND Pin=CTS_2B-1
+Removed Pin From Net: NetName=TS_2 Pin=CTS_2B-2
+Removed Pin From Net: NetName=TS_A_GND Pin=CTS_3A-1
+Removed Pin From Net: NetName=TS_3 Pin=CTS_3A-2
+Removed Pin From Net: NetName=TS_B_GND Pin=CTS_3B-1
+Removed Pin From Net: NetName=TS_3 Pin=CTS_3B-2
+Removed Pin From Net: NetName=TS_A_GND Pin=CTS_4A-1
+Removed Pin From Net: NetName=TS_4 Pin=CTS_4A-2
+Removed Pin From Net: NetName=TS_B_GND Pin=CTS_4B-1
+Removed Pin From Net: NetName=TS_4 Pin=CTS_4B-2
+Removed Pin From Net: NetName=TS_A_GND Pin=CTS_5A-1
+Removed Pin From Net: NetName=TS_5 Pin=CTS_5A-2
+Removed Pin From Net: NetName=TS_B_GND Pin=CTS_5B-1
+Removed Pin From Net: NetName=TS_5 Pin=CTS_5B-2
+Removed Pin From Net: NetName=TS_A_GND Pin=CTS_6A-1
+Removed Pin From Net: NetName=TS_6 Pin=CTS_6A-2
+Removed Pin From Net: NetName=TS_B_GND Pin=CTS_6B-1
+Removed Pin From Net: NetName=TS_6 Pin=CTS_6B-2
+Removed Pin From Net: NetName=TS_A_GND Pin=CTS_7A-1
+Removed Pin From Net: NetName=TS_B_GND Pin=CTS_7B-1
+Removed Pin From Net: NetName=TS_A_GND Pin=CTS_8A-1
+Removed Pin From Net: NetName=TS_B_GND Pin=CTS_8B-1
+Removed Pin From Net: NetName=TS_A_GND Pin=CTS_9A-1
+Removed Pin From Net: NetName=TS_B_GND Pin=CTS_9B-1
+Removed Pin From Net: NetName=TS_A_GND Pin=CTS_10A-1
+Removed Pin From Net: NetName=TS_B_GND Pin=CTS_10B-1
+Removed Pin From Net: NetName=TS_A_GND Pin=CTS_11A-1
+Removed Pin From Net: NetName=TS_B_GND Pin=CTS_11B-1
+Removed Pin From Net: NetName=TS_A_GND Pin=CTS_12A-1
+Removed Pin From Net: NetName=TS_B_GND Pin=CTS_12B-1
+Removed Pin From Net: NetName=TS_A_GND Pin=CTS_13A-1
+Removed Pin From Net: NetName=TS_B_GND Pin=CTS_13B-1
+Removed Pin From Net: NetName=TS_A_GND Pin=CTS_14A-1
+Removed Pin From Net: NetName=TS_B_GND Pin=CTS_14B-1
+Removed Pin From Net: NetName=BATT_12 Pin=DS_1-1
+Removed Pin From Net: NetName=BATT_1 Pin=NT_0-1
+Removed Pin From Net: NetName=BATT_12 Pin=QSHUNT-3
+Removed Pin From Net: NetName=BATT_1 Pin=RC0-2
+Removed Pin From Net: NetName=BATT_1-2 Pin=RC1-2
+Removed Pin From Net: NetName=BATT_2-3 Pin=RC2-2
+Removed Pin From Net: NetName=BATT_3-4 Pin=RC3-2
+Removed Pin From Net: NetName=C4 Pin=RC4-2
+Removed Pin From Net: NetName=BATT_4-5 Pin=RC5A-2
+Removed Pin From Net: NetName=BATT_4-5 Pin=RC5B-2
+Removed Pin From Net: NetName=BATT_5-6 Pin=RC6-2
+Removed Pin From Net: NetName=BATT_6-7 Pin=RC7-2
+Removed Pin From Net: NetName=BATT_7-8 Pin=RC8-2
+Removed Pin From Net: NetName=C9 Pin=RC9-2
+Removed Pin From Net: NetName=BATT_8-9 Pin=RC10A-2
+Removed Pin From Net: NetName=BATT_8-9 Pin=RC10B-2
+Removed Pin From Net: NetName=BATT_9-10 Pin=RC11-2
+Removed Pin From Net: NetName=BATT_10-11 Pin=RC12-2
+Removed Pin From Net: NetName=C13 Pin=RC13-2
+Removed Pin From Net: NetName=BATT_11-12 Pin=RC14-2
+Removed Pin From Net: NetName=TS_0 Pin=RT_0A-1
+Removed Pin From Net: NetName=TS_0 Pin=RT_0b-1
+Removed Pin From Net: NetName=TS_1 Pin=RT_1A-1
+Removed Pin From Net: NetName=TS_1 Pin=RT_1B-1
+Removed Pin From Net: NetName=TS_2 Pin=RT_2A-1
+Removed Pin From Net: NetName=TS_2 Pin=RT_2B-1
+Removed Pin From Net: NetName=TS_3 Pin=RT_3A-1
+Removed Pin From Net: NetName=TS_3 Pin=RT_3B-1
+Removed Pin From Net: NetName=TS_4 Pin=RT_4A-1
+Removed Pin From Net: NetName=TS_4 Pin=RT_4B-1
+Removed Pin From Net: NetName=TS_5 Pin=RT_5A-1
+Removed Pin From Net: NetName=TS_5 Pin=RT_5B-1
+Removed Pin From Net: NetName=TS_6 Pin=RT_6A-1
+Removed Pin From Net: NetName=TS_6 Pin=RT_6B-1
+Removed Pin From Net: NetName=TS_A_GND Pin=TSQ1A-3
+Removed Pin From Net: NetName=TS_B_GND Pin=TSQ1b-3
+Removed Pin From Net: NetName=TS_6 Pin=U2-3
+Removed Pin From Net: NetName=TS_5 Pin=U2-4
+Removed Pin From Net: NetName=TS_4 Pin=U2-5
+Removed Pin From Net: NetName=TS_3 Pin=U2-6
+Removed Pin From Net: NetName=TS_2 Pin=U2-7
+Removed Pin From Net: NetName=TS_1 Pin=U2-8
+Removed Pin From Net: NetName=TS_0 Pin=U2-9
+Removed Member From Class: ClassName=v0 Member=C10
+Removed Member From Class: ClassName=v0 Member=CAP1
+Removed Member From Class: ClassName=v0 Member=CAP2
+Removed Member From Class: ClassName=v0 Member=CAP3
+Removed Member From Class: ClassName=v0 Member=CAPSRC
+Removed Member From Class: ClassName=v0 Member=CC0A
+Removed Member From Class: ClassName=v0 Member=CC0B
+Removed Member From Class: ClassName=v0 Member=CC1
+Removed Member From Class: ClassName=v0 Member=CC2
+Removed Member From Class: ClassName=v0 Member=CC3
+Removed Member From Class: ClassName=v0 Member=CC4
+Removed Member From Class: ClassName=v0 Member=CC5A
+Removed Member From Class: ClassName=v0 Member=CC5B
+Removed Member From Class: ClassName=v0 Member=CC6
+Removed Member From Class: ClassName=v0 Member=CC7
+Removed Member From Class: ClassName=v0 Member=CC8
+Removed Member From Class: ClassName=v0 Member=CC9
+Removed Member From Class: ClassName=v0 Member=CC10A
+Removed Member From Class: ClassName=v0 Member=CC10B
+Removed Member From Class: ClassName=v0 Member=CC11
+Removed Member From Class: ClassName=v0 Member=CC12
+Removed Member From Class: ClassName=v0 Member=CC13
+Removed Member From Class: ClassName=v0 Member=CC14
+Removed Member From Class: ClassName=v0 Member=CC15
+Removed Member From Class: ClassName=v0 Member=CR1
+Removed Member From Class: ClassName=v0 Member=CR2
+Removed Member From Class: ClassName=v0 Member=CR3
+Removed Member From Class: ClassName=v0 Member=CSNS0
+Removed Member From Class: ClassName=v0 Member=CSNS1
+Removed Member From Class: ClassName=v0 Member=CSNS2
+Removed Member From Class: ClassName=v0 Member=CTS_0A
+Removed Member From Class: ClassName=v0 Member=CTS_0b
+Removed Member From Class: ClassName=v0 Member=CTS_1A
+Removed Member From Class: ClassName=v0 Member=CTS_1B
+Removed Member From Class: ClassName=v0 Member=CTS_2A
+Removed Member From Class: ClassName=v0 Member=CTS_2B
+Removed Member From Class: ClassName=v0 Member=CTS_3A
+Removed Member From Class: ClassName=v0 Member=CTS_3B
+Removed Member From Class: ClassName=v0 Member=CTS_4A
+Removed Member From Class: ClassName=v0 Member=CTS_4B
+Removed Member From Class: ClassName=v0 Member=CTS_5A
+Removed Member From Class: ClassName=v0 Member=CTS_5B
+Removed Member From Class: ClassName=v0 Member=CTS_6A
+Removed Member From Class: ClassName=v0 Member=CTS_6B
+Removed Member From Class: ClassName=v0 Member=CTS_7A
+Removed Member From Class: ClassName=v0 Member=CTS_7B
+Removed Member From Class: ClassName=v0 Member=CTS_8A
+Removed Member From Class: ClassName=v0 Member=CTS_8B
+Removed Member From Class: ClassName=v0 Member=CTS_9A
+Removed Member From Class: ClassName=v0 Member=CTS_9B
+Removed Member From Class: ClassName=v0 Member=CTS_10A
+Removed Member From Class: ClassName=v0 Member=CTS_10B
+Removed Member From Class: ClassName=v0 Member=CTS_11A
+Removed Member From Class: ClassName=v0 Member=CTS_11B
+Removed Member From Class: ClassName=v0 Member=CTS_12A
+Removed Member From Class: ClassName=v0 Member=CTS_12B
+Removed Member From Class: ClassName=v0 Member=CTS_13A
+Removed Member From Class: ClassName=v0 Member=CTS_13B
+Removed Member From Class: ClassName=v0 Member=CTS_14A
+Removed Member From Class: ClassName=v0 Member=CTS_14B
+Removed Member From Class: ClassName=v0 Member=CTS_15
+Removed Member From Class: ClassName=v0 Member=D1
+Removed Member From Class: ClassName=v0 Member=D2
+Removed Member From Class: ClassName=v0 Member=D10
+Removed Member From Class: ClassName=v0 Member=D11
+Removed Member From Class: ClassName=v0 Member=D_ADR_0
+Removed Member From Class: ClassName=v0 Member=D_ADR_1
+Removed Member From Class: ClassName=v0 Member=D_ADR_2
+Removed Member From Class: ClassName=v0 Member=D_ADR_3
+Removed Member From Class: ClassName=v0 Member=D_ADR_4
+Removed Member From Class: ClassName=v0 Member=D_ADR_5
+Removed Member From Class: ClassName=v0 Member=D_ADR_6
+Removed Member From Class: ClassName=v0 Member=D_ADR_VCC
+Removed Member From Class: ClassName=v0 Member=D_BB_0
+Removed Member From Class: ClassName=v0 Member=D_BB_1
+Removed Member From Class: ClassName=v0 Member=D_BB_2
+Removed Member From Class: ClassName=v0 Member=D_BB_3
+Removed Member From Class: ClassName=v0 Member=D_BB_4
+Removed Member From Class: ClassName=v0 Member=D_BB_5
+Removed Member From Class: ClassName=v0 Member=D_BB_6
+Removed Member From Class: ClassName=v0 Member=D_BB_VCC
+Removed Member From Class: ClassName=v0 Member=DC5
+Removed Member From Class: ClassName=v0 Member=DC10
+Removed Member From Class: ClassName=v0 Member=DC15
+Removed Member From Class: ClassName=v0 Member=DQB2
+Removed Member From Class: ClassName=v0 Member=DS_1
+Removed Member From Class: ClassName=v0 Member=DS_2
+Removed Member From Class: ClassName=v0 Member=DS_3
+Removed Member From Class: ClassName=v0 Member=DS_4
+Removed Member From Class: ClassName=v0 Member=DS_5
+Removed Member From Class: ClassName=v0 Member=DS_6
+Removed Member From Class: ClassName=v0 Member=DS_VCC
+Removed Member From Class: ClassName=v0 Member=DSHUNT
+Removed Member From Class: ClassName=v0 Member=NT_0
+Removed Member From Class: ClassName=v0 Member=NT_1
+Removed Member From Class: ClassName=v0 Member=Q2B2G
+Removed Member From Class: ClassName=v0 Member=Q10
+Removed Member From Class: ClassName=v0 Member=Q11
+Removed Member From Class: ClassName=v0 Member=Q12
+Removed Member From Class: ClassName=v0 Member=Q13
+Removed Member From Class: ClassName=v0 Member=Q14
+Removed Member From Class: ClassName=v0 Member=Q15
+Removed Member From Class: ClassName=v0 Member=Q18
+Removed Member From Class: ClassName=v0 Member=Q19
+Removed Member From Class: ClassName=v0 Member=QB1a
+Removed Member From Class: ClassName=v0 Member=QB1
+Removed Member From Class: ClassName=v0 Member=QB2a
+Removed Member From Class: ClassName=v0 Member=QB2
+Removed Member From Class: ClassName=v0 Member=QSHUNT
+Removed Member From Class: ClassName=v0 Member=R10
+Removed Member From Class: ClassName=v0 Member=R11
+Removed Member From Class: ClassName=v0 Member=R18
+Removed Member From Class: ClassName=v0 Member=R_CMOS
+Removed Member From Class: ClassName=v0 Member=RC0
+Removed Member From Class: ClassName=v0 Member=RC1
+Removed Member From Class: ClassName=v0 Member=RC2
+Removed Member From Class: ClassName=v0 Member=RC3
+Removed Member From Class: ClassName=v0 Member=RC4
+Removed Member From Class: ClassName=v0 Member=RC5A
+Removed Member From Class: ClassName=v0 Member=RC5B
+Removed Member From Class: ClassName=v0 Member=RC6
+Removed Member From Class: ClassName=v0 Member=RC7
+Removed Member From Class: ClassName=v0 Member=RC8
+Removed Member From Class: ClassName=v0 Member=RC9
+Removed Member From Class: ClassName=v0 Member=RC10A
+Removed Member From Class: ClassName=v0 Member=RC10B
+Removed Member From Class: ClassName=v0 Member=RC11
+Removed Member From Class: ClassName=v0 Member=RC12
+Removed Member From Class: ClassName=v0 Member=RC13
+Removed Member From Class: ClassName=v0 Member=RC14
+Removed Member From Class: ClassName=v0 Member=RQB1
+Removed Member From Class: ClassName=v0 Member=RQB2
+Removed Member From Class: ClassName=v0 Member=RQB2G
+Removed Member From Class: ClassName=v0 Member=RS_0
+Removed Member From Class: ClassName=v0 Member=RS_1
+Removed Member From Class: ClassName=v0 Member=RS_2
+Removed Member From Class: ClassName=v0 Member=RS_3
+Removed Member From Class: ClassName=v0 Member=RS_4
+Removed Member From Class: ClassName=v0 Member=RS_5
+Removed Member From Class: ClassName=v0 Member=RS_6
+Removed Member From Class: ClassName=v0 Member=RS_7
+Removed Member From Class: ClassName=v0 Member=RS_8
+Removed Member From Class: ClassName=v0 Member=RS_9
+Removed Member From Class: ClassName=v0 Member=RS_10
+Removed Member From Class: ClassName=v0 Member=RS_11
+Removed Member From Class: ClassName=v0 Member=RS_12
+Removed Member From Class: ClassName=v0 Member=RS_13
+Removed Member From Class: ClassName=v0 Member=RS_14
+Removed Member From Class: ClassName=v0 Member=RS_15
+Removed Member From Class: ClassName=v0 Member=RS_16
+Removed Member From Class: ClassName=v0 Member=RS_17
+Removed Member From Class: ClassName=v0 Member=RS_18
+Removed Member From Class: ClassName=v0 Member=RS_19
+Removed Member From Class: ClassName=v0 Member=RS_20
+Removed Member From Class: ClassName=v0 Member=RS_21
+Removed Member From Class: ClassName=v0 Member=RS_22
+Removed Member From Class: ClassName=v0 Member=RS_23
+Removed Member From Class: ClassName=v0 Member=RS_24
+Removed Member From Class: ClassName=v0 Member=RS_25
+Removed Member From Class: ClassName=v0 Member=RS_26
+Removed Member From Class: ClassName=v0 Member=RS_27
+Removed Member From Class: ClassName=v0 Member=RS_28
+Removed Member From Class: ClassName=v0 Member=RS_29
+Removed Member From Class: ClassName=v0 Member=RSCL
+Removed Member From Class: ClassName=v0 Member=RSDA
+Removed Member From Class: ClassName=v0 Member=RSHUNT2
+Removed Member From Class: ClassName=v0 Member=RSHUNT3
+Removed Member From Class: ClassName=v0 Member=RSHUNT
+Removed Member From Class: ClassName=v0 Member=RSNS
+Removed Member From Class: ClassName=v0 Member=RSNSN
+Removed Member From Class: ClassName=v0 Member=RSNSP
+Removed Member From Class: ClassName=v0 Member=RT_0A
+Removed Member From Class: ClassName=v0 Member=RT_0b
+Removed Member From Class: ClassName=v0 Member=RT_1A
+Removed Member From Class: ClassName=v0 Member=RT_1B
+Removed Member From Class: ClassName=v0 Member=RT_2A
+Removed Member From Class: ClassName=v0 Member=RT_2B
+Removed Member From Class: ClassName=v0 Member=RT_3A
+Removed Member From Class: ClassName=v0 Member=RT_3B
+Removed Member From Class: ClassName=v0 Member=RT_4A
+Removed Member From Class: ClassName=v0 Member=RT_4B
+Removed Member From Class: ClassName=v0 Member=RT_5A
+Removed Member From Class: ClassName=v0 Member=RT_5B
+Removed Member From Class: ClassName=v0 Member=RT_6A
+Removed Member From Class: ClassName=v0 Member=RT_6B
+Removed Member From Class: ClassName=v0 Member=RT_7A
+Removed Member From Class: ClassName=v0 Member=RT_7B
+Removed Member From Class: ClassName=v0 Member=RT_8A
+Removed Member From Class: ClassName=v0 Member=RT_8B
+Removed Member From Class: ClassName=v0 Member=RT_9A
+Removed Member From Class: ClassName=v0 Member=RT_9B
+Removed Member From Class: ClassName=v0 Member=RT_10A
+Removed Member From Class: ClassName=v0 Member=RT_10B
+Removed Member From Class: ClassName=v0 Member=RT_11A
+Removed Member From Class: ClassName=v0 Member=RT_11B
+Removed Member From Class: ClassName=v0 Member=RT_12A
+Removed Member From Class: ClassName=v0 Member=RT_12B
+Removed Member From Class: ClassName=v0 Member=RT_13A
+Removed Member From Class: ClassName=v0 Member=RT_13B
+Removed Member From Class: ClassName=v0 Member=RT_14A
+Removed Member From Class: ClassName=v0 Member=RT_14B
+Removed Member From Class: ClassName=v0 Member=RT_15B
+Removed Member From Class: ClassName=v0 Member=RTS2
+Removed Member From Class: ClassName=v0 Member=TSQ1A
+Removed Member From Class: ClassName=v0 Member=TSQ1b
+Removed Member From Class: ClassName=v0 Member=U1
+Removed Member From Class: ClassName=v0 Member=U2
+Change Component Description : Designator=NT_3_4 Old Description=Net Tie New Description=R - Net Tie
+Change Component Description : Designator=NT_8_9 Old Description=Net Tie New Description=R - Net Tie
+Change Component Description : Designator=NT_13_14 Old Description=Net Tie New Description=R - Net Tie
+Change Component Description : Designator=NT_13_14_2 Old Description=Net Tie New Description=R - Net Tie
+Change Component Description : Designator=TSB_1-2 Old Description=NTC THERMISTOR - 10k 1% 0402 New Description=RT - NTC THERMISTOR - 10k - 1% - 0402
+Change Component Description : Designator=TSB_1 Old Description=NTC THERMISTOR - 10k 1% 0402 New Description=RT - NTC THERMISTOR - 10k - 1% - 0402
+Change Component Description : Designator=TSB_2_3 Old Description=NTC THERMISTOR - 10k 1% 0402 New Description=RT - NTC THERMISTOR - 10k - 1% - 0402
+Change Component Description : Designator=TSB_3-4 Old Description=NTC THERMISTOR - 10k 1% 0402 New Description=RT - NTC THERMISTOR - 10k - 1% - 0402
+Change Component Description : Designator=TSB_4_5 Old Description=NTC THERMISTOR - 10k 1% 0402 New Description=RT - NTC THERMISTOR - 10k - 1% - 0402
+Change Component Description : Designator=TSB_5-6 Old Description=NTC THERMISTOR - 10k 1% 0402 New Description=RT - NTC THERMISTOR - 10k - 1% - 0402
+Change Component Description : Designator=TSB_6_7 Old Description=NTC THERMISTOR - 10k 1% 0402 New Description=RT - NTC THERMISTOR - 10k - 1% - 0402
+Change Component Description : Designator=TSB_7-8 Old Description=NTC THERMISTOR - 10k 1% 0402 New Description=RT - NTC THERMISTOR - 10k - 1% - 0402
+Change Component Description : Designator=TSB_8_9 Old Description=NTC THERMISTOR - 10k 1% 0402 New Description=RT - NTC THERMISTOR - 10k - 1% - 0402
+Change Component Description : Designator=TSB_9-10 Old Description=NTC THERMISTOR - 10k 1% 0402 New Description=RT - NTC THERMISTOR - 10k - 1% - 0402
+Change Component Description : Designator=TSB_10_11 Old Description=NTC THERMISTOR - 10k 1% 0402 New Description=RT - NTC THERMISTOR - 10k - 1% - 0402
+Change Component Description : Designator=TSB_11-12 Old Description=NTC THERMISTOR - 10k 1% 0402 New Description=RT - NTC THERMISTOR - 10k - 1% - 0402
+Change Component Description : Designator=TSB_12 Old Description=NTC THERMISTOR - 10k 1% 0402 New Description=RT - NTC THERMISTOR - 10k - 1% - 0402
+Change Component Description : Designator=RC_0 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_1 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_2 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_3 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_4 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_5 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_6 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_7 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_8 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_9 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_10 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_11 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_12 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_13 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_14 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_15 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_16 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_17 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_18 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_19 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_20 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_21 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_22 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_23 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_24 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_25 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_26 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_27 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_28 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_29 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_30 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_31 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_32 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_33 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_34 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_35 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_36 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_37 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_38 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_39 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_40 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_41 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_42 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_43 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_44 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_45 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_46 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_47 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_48 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_49 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_50 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_51 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_52 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_53 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_54 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_55 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_56 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_57 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_58 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_59 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_60 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_61 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_62 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_63 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_64 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_65 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_66 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_67 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_68 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_69 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_70 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_71 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_72 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_73 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_74 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_75 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_76 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_77 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_78 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_79 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_80 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_81 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_82 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_83 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_84 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_85 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_86 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_87 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_88 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_89 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_90 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_91 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_92 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_93 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_94 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_95 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_96 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_97 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_98 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_99 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_100 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_101 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_102 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_103 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_104 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_105 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_106 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_107 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_108 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_109 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_110 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_111 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_112 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_113 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_114 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_115 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_116 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_117 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_118 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_119 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_120 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_121 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_122 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_123 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_124 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_125 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_126 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_127 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_128 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_129 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_130 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_131 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_132 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_133 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_134 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_135 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_136 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_137 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_138 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_139 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_140 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_141 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_142 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_143 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_144 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_145 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_146 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_147 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_148 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_149 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_150 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_151 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_152 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_153 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_154 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_155 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_156 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_157 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_158 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_159 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_160 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_161 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_162 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_163 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_164 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_165 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_166 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_167 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_168 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_169 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_170 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_171 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_172 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_173 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_174 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_175 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_176 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_177 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_178 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_179 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_180 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_181 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_182 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_183 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_184 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_185 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_186 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_187 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_188 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_189 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_190 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_191 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_192 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_193 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_194 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_195 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_196 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_197 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_198 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_199 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_200 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_201 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_202 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_203 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_204 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_205 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_206 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_207 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_208 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_209 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_210 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_211 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_212 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_213 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_214 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_215 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_216 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_217 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_218 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_219 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_220 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_221 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_222 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_223 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_224 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_225 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_226 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_227 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_228 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_229 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_230 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_231 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_232 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_233 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_234 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_235 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_236 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_237 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_238 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_239 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_240 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_241 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_242 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_243 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_244 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_245 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_246 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_247 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_248 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_249 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_250 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_251 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_252 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_253 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_254 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_255 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_256 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_257 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_258 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_259 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_260 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_261 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_262 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_263 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_264 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_265 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_266 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_267 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_268 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_269 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_270 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_271 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_272 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_273 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_274 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_275 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_276 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_277 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_278 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_279 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_280 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_281 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_282 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_283 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_284 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_285 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_286 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_287 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_288 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_289 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_290 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_291 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_292 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_293 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_294 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_295 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_296 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_297 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_298 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_299 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_300 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_301 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_302 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_303 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_304 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_305 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_306 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_307 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_308 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_309 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_310 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_311 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_312 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_313 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_314 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_315 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_316 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_317 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_318 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_319 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_320 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_321 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_322 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_323 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_324 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_325 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_326 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_327 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_328 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_329 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_330 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_331 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_332 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_333 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_334 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_335 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_336 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_337 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_338 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_339 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_340 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_341 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_342 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_343 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_344 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_345 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_346 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_347 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_348 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_349 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_350 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_351 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_352 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_353 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_354 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_355 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_356 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_357 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_358 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_359 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_360 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_361 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_362 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_363 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_364 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_365 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_366 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_367 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_368 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_369 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_370 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_371 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_372 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_373 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_374 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_375 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_376 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_377 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_378 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_379 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_380 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_381 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_382 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_383 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_384 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_385 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_386 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_387 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_388 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_389 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_390 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_391 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_392 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_393 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_394 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_395 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_396 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_397 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_398 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_399 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_400 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_401 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_402 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_403 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_404 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_405 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_406 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_407 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_408 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_409 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_410 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_411 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_412 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_413 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_414 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_415 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_416 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_417 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_418 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_419 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_420 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_421 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_422 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_423 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_424 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_425 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_426 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_427 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_428 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_429 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_430 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Change Component Description : Designator=RC_431 Old Description=RESISTOR SMD - 0R 1% 0603 New Description=R - RESISTOR - SMD - 0R - 1% - 0603
+Added Pin To Net: NetName=BATT_1 Pin=JB13-4
+Change Class Name : Old Net Name=v0 New Net Name=BUSBAR_18650_12S
+Added Room: Name=BUSBAR_18650_12S

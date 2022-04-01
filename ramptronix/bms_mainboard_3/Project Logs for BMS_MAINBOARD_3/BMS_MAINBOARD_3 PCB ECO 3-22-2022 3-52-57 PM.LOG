@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=VBUS_SNS Pin=U100-18
+Removed Pin From Net: NetName=VSTBY_SNS Pin=U100-19
+Added Pin To Net: NetName=VBUS_SNS Pin=U100-19

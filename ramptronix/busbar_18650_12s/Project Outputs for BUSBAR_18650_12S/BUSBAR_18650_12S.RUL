@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: C:\Users\user\Nextcloud\PC-SYNC\Projects\_source_codes\_all_git_repos\bitsnap_snaps\pcba\snaps\BUSBAR_18650_12S\BUSBAR_18650_12S.PcbDoc
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=7.87
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=7.87
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
