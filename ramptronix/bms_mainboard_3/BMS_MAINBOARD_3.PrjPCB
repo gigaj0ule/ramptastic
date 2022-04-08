@@ -89,7 +89,7 @@ GenerateClassCluster=0
 DocumentUniqueId=RBBHVTJF
 
 [Document4]
-DocumentPath=..\..\..\bitsnap_snaps\pcba\_dependencies\CUSTOM_PARTS.PcbLib
+DocumentPath=BMS_MAINBOARD_3.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -103,10 +103,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=RQNWQJQL
 
 [Document5]
-DocumentPath=..\..\..\bitsnap_snaps\pcba\_dependencies\JLC_PCB.SchLib
+DocumentPath=..\..\..\..\_all_git_repos\bitsnap_snaps\pcba\_dependencies\CUSTOM_PARTS.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -123,7 +123,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document6]
-DocumentPath=..\..\..\bitsnap_snaps\pcba\_dependencies\SILICON.PcbLib
+DocumentPath=..\..\..\..\_all_git_repos\bitsnap_snaps\pcba\_dependencies\JLC_PCB.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -137,10 +137,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=MMYJRUSX
 
 [Document7]
-DocumentPath=..\..\..\bitsnap_snaps\pcba\_dependencies\STANDARD_PARTS.PcbLib
+DocumentPath=..\..\..\..\_all_git_repos\bitsnap_snaps\pcba\_dependencies\SILICON.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -157,7 +157,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8]
-DocumentPath=BMS_MAINBOARD_3.PcbDoc
+DocumentPath=..\..\..\..\_all_git_repos\bitsnap_snaps\pcba\_dependencies\STANDARD_PARTS.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -171,7 +171,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=RQNWQJQL
+DocumentUniqueId=
 
 [Configuration1]
 Name=Sources

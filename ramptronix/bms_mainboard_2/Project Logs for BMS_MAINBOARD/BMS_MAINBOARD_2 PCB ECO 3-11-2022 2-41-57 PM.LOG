@@ -1,3 +1,0 @@
-Removed Pin From Net: NetName=WAKEUP Pin=U100-10
-Added Pin To Net: NetName=NetD10_1 Pin=U100-10
-Change Net Name : Old Net Name=NetD10_1 New Net Name=WAKEUP_D
