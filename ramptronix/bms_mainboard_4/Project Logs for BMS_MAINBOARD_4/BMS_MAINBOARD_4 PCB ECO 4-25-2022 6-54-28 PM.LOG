@@ -1,0 +1,22 @@
+Change Component DesignItemId : Designator=RBG_9 Old DesignItemId=0402WGF1002TCE New DesignItemId=0402WGF1003TCE
+Change Component Comment : Designator=RBG_9 Old Comment=0402WGF1002TCE New Comment=0402WGF1003TCE
+Change Component Description : Designator=RBG_9 Old Description=R - RESISTOR - SMD - 10k - 1% - 0402 New Description=R - RESISTOR - SMD - 100k - 1% -  0402
+Change component parameters: Designator = "RBG_9"; Footprint = "R_0402"; UniqueID = "\CTXCKLVP"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C25741"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Added Component: Designator=C9_D5(SOD-323)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "If"; Value = "150mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C2128"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PIV"; Value = "100V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Trr"; Value = "4ns"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetQB_9_1 Pin=C9_D5-1
+Change Net Name : Old Net Name=NetQB_9_1 New Net Name=NetC9_D5_1
+Added Pin To Net: NetName=NetC9_D5_2 Pin=C9_D5-2
+Added Pin To Net: NetName=NetC9_D5_2 Pin=C9_R9-1
+Added Pin To Net: NetName=NetC9_D5_2 Pin=QB_9-3
+Added Net: Name=NetC9_D5_2
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component C9_D5 1N4148WS

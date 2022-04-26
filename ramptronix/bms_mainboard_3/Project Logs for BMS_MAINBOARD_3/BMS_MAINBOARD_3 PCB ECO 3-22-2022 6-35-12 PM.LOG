@@ -1,5 +1,0 @@
-Removed Pin From Net: NetName=BATT_EN Pin=Q_HTR2-1
-Removed Pin From Net: NetName=BATT_EN Pin=R_QHTR3-1
-Added Pin To Net: NetName=HTR_EN Pin=Q_HTR2-1
-Added Pin To Net: NetName=HTR_EN Pin=R_QHTR3-1
-Added Net: Name=HTR_EN

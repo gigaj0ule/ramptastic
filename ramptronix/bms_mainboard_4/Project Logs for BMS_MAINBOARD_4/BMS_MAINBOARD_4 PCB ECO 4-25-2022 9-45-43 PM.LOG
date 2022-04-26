@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=NetC3_R8_1 Pin=C3_R10-1
+Removed Pin From Net: NetName=NetC3_D5_2 Pin=C3_R11-1
+Removed Pin From Net: NetName=NetC4_R8_1 Pin=C4_R10-1
+Removed Pin From Net: NetName=NetC4_D5_2 Pin=C4_R11-1
+Change Component Comment : Designator=C4_R11 Old Comment=0402WGF1001TCE New Comment=0402WGF1000TCE
+Change component parameters: Designator = "C4_R11"; Footprint = "R_0402"; UniqueID = "\JNBEGSDN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C25076"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC3_D5_2 Pin=C3_R10-1
+Added Pin To Net: NetName=NetC3_R8_1 Pin=C3_R10-2
+Added Pin To Net: NetName=CELL2 Pin=C3_R11-1
+Added Pin To Net: NetName=NetC4_D5_2 Pin=C4_R10-1
+Added Pin To Net: NetName=NetC4_R8_1 Pin=C4_R10-2
+Added Pin To Net: NetName=CELL3 Pin=C4_R11-1
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component C3_R10 0402WGF1000TCE
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component C3_R11 0402WGF1000TCE
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component C4_R10 0402WGF1000TCE
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component C4_R11 0402WGF1000TCE

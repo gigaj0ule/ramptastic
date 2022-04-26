@@ -1,3 +1,0 @@
-Removed Pin From Net: NetName=VCC_5V1 Pin=D5V1_SB-1
-Removed Pin From Net: NetName=VCC_STBY Pin=D5V1_SB-2
-Removed Member From Class: ClassName=BMS_MAINBOARD Member=D5V1_SB

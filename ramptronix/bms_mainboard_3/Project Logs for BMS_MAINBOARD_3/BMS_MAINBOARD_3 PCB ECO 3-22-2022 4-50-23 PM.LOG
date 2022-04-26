@@ -1,9 +1,0 @@
-Removed Pin From Net: NetName=A_GND Pin=CTS_15-1
-Removed Pin From Net: NetName=TS_15 Pin=CTS_15-2
-Removed Pin From Net: NetName=GND Pin=R_STBY2-1
-Removed Pin From Net: NetName=TS_15 Pin=RT_15B-1
-Removed Pin From Net: NetName=VCC_3V3_SW Pin=RT_15B-2
-Removed Member From Class: ClassName=BMS_MAINBOARD Member=CTS_15
-Removed Member From Class: ClassName=BMS_MAINBOARD Member=R_STBY1
-Removed Member From Class: ClassName=BMS_MAINBOARD Member=R_STBY2
-Removed Member From Class: ClassName=BMS_MAINBOARD Member=RT_15B

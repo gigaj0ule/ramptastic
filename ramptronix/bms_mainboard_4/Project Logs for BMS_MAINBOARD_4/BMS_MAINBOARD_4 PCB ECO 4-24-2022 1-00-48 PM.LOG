@@ -1,0 +1,30 @@
+Change Component Designator: OldDesignator=C300 NewDesignator=C301
+Change Component Designator: OldDesignator=C500 NewDesignator=C501
+Change Component Designator: OldDesignator=U_BAL NewDesignator=U900
+Added Component: Designator=C300(C_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C1525"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "WVDC"; Value = "16"; VariantName = "[No Variations]"
+Added Component: Designator=C500(C_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C1525"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "WVDC"; Value = "16"; VariantName = "[No Variations]"
+Added Component: Designator=C900(C_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C1525"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "WVDC"; Value = "16"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C300-1
+Added Pin To Net: NetName=VCC_3V3_SW Pin=C300-2
+Added Pin To Net: NetName=GND Pin=C500-1
+Added Pin To Net: NetName=VCC_3V3_SW Pin=C500-2
+Added Pin To Net: NetName=GND Pin=C900-1
+Added Pin To Net: NetName=VCC_3V3_SW Pin=C900-2
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component C301 CL05B104KO5NNNC
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component C501 CL05B104KO5NNNC
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component C900 CL05B104KO5NNNC

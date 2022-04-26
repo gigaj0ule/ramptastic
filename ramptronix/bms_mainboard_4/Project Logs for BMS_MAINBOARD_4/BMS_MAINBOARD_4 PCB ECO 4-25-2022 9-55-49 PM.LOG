@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=NetC12_D5_2 Pin=C12_R11-1
+Removed Pin From Net: NetName=NetC13_R8_1 Pin=C13_R10-1
+Removed Pin From Net: NetName=NetC13_D5_2 Pin=C13_R10-2
+Removed Pin From Net: NetName=NetC14_R8_1 Pin=C14_R11-1
+Added Pin To Net: NetName=NetC12_D5_2 Pin=C12_R10-1
+Added Pin To Net: NetName=CELL11 Pin=C12_R11-1
+Added Pin To Net: NetName=NetC13_D5_2 Pin=C13_R10-1
+Added Pin To Net: NetName=NetC13_R8_1 Pin=C13_R10-2
+Added Pin To Net: NetName=CELL12 Pin=C13_R11-1
+Added Pin To Net: NetName=CELL13 Pin=C14_R11-1
+Added Pin To Net: NetName=NetC14_R8_1 Pin=C14_R11-2
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component C12_R10 0402WGF1000TCE
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component C12_R11 0402WGF1000TCE
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component C13_R10 0402WGF1000TCE
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component C13_R11 0402WGF1000TCE
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component C14_R10 0402WGF1000TCE
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component C14_R11 0402WGF1000TCE
