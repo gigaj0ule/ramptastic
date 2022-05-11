@@ -1,5 +1,0 @@
-Removed Pin From Net: NetName=NetC5_R8_1 Pin=C5_R11-1
-Added Pin To Net: NetName=CELL4 Pin=C5_R11-1
-Added Pin To Net: NetName=NetC5_R8_1 Pin=C5_R11-2
-Added Member To Class: ClassName=BMS_MAINBOARD Member=Component C5_R10 0402WGF1000TCE
-Added Member To Class: ClassName=BMS_MAINBOARD Member=Component C5_R11 0402WGF1000TCE

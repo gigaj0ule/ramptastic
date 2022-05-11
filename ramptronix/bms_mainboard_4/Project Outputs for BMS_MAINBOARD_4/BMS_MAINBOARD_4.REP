@@ -2,51 +2,67 @@
 FileName = BMS_MAINBOARD_4.GBR
 AutoAperture = True
 *************************************************************
-Generating : Top Pad Master
-      File : BMS_MAINBOARD_4.GPT
+Generating : Board Outline (M30)
+      File : BMS_MAINBOARD_4.GM30
 
-    Adding Layer      : Top Layer
+    Adding Layer      : Board Outline (M30)
+
+
+Used DCodes :
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : BMS_MAINBOARD_4.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : BMS_MAINBOARD_4.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : BMS_MAINBOARD_4.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
-    D44
-    D45
-    D46
-    D47
-    D48
-    D49
-    D50
-    D51
-    D52
-    D53
-    D145
-    D146
-    D147
-    D148
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : BMS_MAINBOARD_4.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D87
+    D88
+    D89
+    D90
+    D91
 *************************************************************
 
 *************************************************************
@@ -61,7 +77,6 @@ Generating : Top Solder
 
 
 Used DCodes :
-    D54
     D55
     D56
     D57
@@ -97,6 +112,8 @@ Used DCodes :
     D87
     D88
     D89
+    D90
+    D91
 *************************************************************
 
 *************************************************************
@@ -109,81 +126,10 @@ Generating : Bottom Pad Master
 
 
 Used DCodes :
-    D145
-    D146
-    D147
-    D148
-*************************************************************
-
-*************************************************************
-Generating : Top Paste
-      File : BMS_MAINBOARD_4.GTP
-
-    Adding Layer      : Top Paste
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
-    D44
-    D45
-    D46
-    D47
-    D48
-    D49
-    D50
-    D51
-    D52
-    D53
-*************************************************************
-
-*************************************************************
-Generating : Bottom Paste
-      File : BMS_MAINBOARD_4.GBP
-
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Board Outline (M30)
-      File : BMS_MAINBOARD_4.GM30
-
-    Adding Layer      : Board Outline (M30)
-
-
-Used DCodes :
-    D12
+    D152
+    D153
+    D154
+    D155
 *************************************************************
 
 *************************************************************
@@ -230,8 +176,7 @@ Used DCodes :
     D51
     D52
     D53
-    D90
-    D91
+    D54
     D92
     D93
     D94
@@ -293,70 +238,60 @@ Used DCodes :
     D150
     D151
     D152
-*************************************************************
-
-*************************************************************
-Generating : Keep-Out Layer
-      File : BMS_MAINBOARD_4.GKO
-
-    Adding Layer      : Keep-Out Layer
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : BMS_MAINBOARD_4.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Bottom Layer
-      File : BMS_MAINBOARD_4.GBL
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D10
-    D90
-    D91
-    D92
-    D145
-    D146
-    D147
-    D148
-    D149
-    D150
-    D151
-    D152
     D153
+    D154
+    D155
+    D156
+    D157
+    D158
+    D159
 *************************************************************
 
 *************************************************************
-Generating : Bottom Solder
-      File : BMS_MAINBOARD_4.GBS
+Generating : Top Paste
+      File : BMS_MAINBOARD_4.GTP
 
-    Adding Layer      : Bottom Solder
+    Adding Layer      : Top Paste
 
-    Adding Layer      : Bottom Layer
+    Adding Layer      : Top Layer
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D85
-    D86
-    D87
-    D88
-    D89
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
 *************************************************************
 
 *************************************************************
@@ -379,5 +314,80 @@ Used DCodes :
     D19
     D20
     D21
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : BMS_MAINBOARD_4.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D92
+    D93
+    D95
+    D152
+    D153
+    D154
+    D155
+    D156
+    D157
+    D158
+    D159
+    D160
+    D161
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : BMS_MAINBOARD_4.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D152
+    D153
+    D154
+    D155
 *************************************************************
 
