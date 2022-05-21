@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=GND Pin=Q_EX_1-2
+Removed Pin From Net: NetName=EXCITER Pin=Q_EX_1-3
+Removed Pin From Net: NetName=+12V Pin=Q_EX_2-2
+Removed Pin From Net: NetName=EXCITER Pin=Q_EX_2-3
+Change Component DesignItemId : Designator=Q_EX_1 Old DesignItemId=2N7002 New DesignItemId=SS8550
+Change Component DesignItemId : Designator=Q_EX_2 Old DesignItemId=AO3401A New DesignItemId=MMBT3904
+Change Component Comment : Designator=Q_EX_1 Old Comment=2N7002 New Comment=SS8550
+Change Component Comment : Designator=Q_EX_2 Old Comment=AO3401A New Comment=MMBT3904
+Change Component Description : Designator=Q_EX_1 Old Description=Q - TRANSISTOR - MOSFET (N) - 60V - 200mW New Description=Q - TRANSISTOR - BJT - PNP - 25V 1.5A
+Change Component Description : Designator=Q_EX_2 Old Description=Q - TRANSISTOR - MOSFET (P) - 30V - 1.4A - 0.44 Ohm New Description=Q - TRANSISTOR - BJT - NPN - 40V 200mA
+Change component parameters: Designator = "Q_EX_1"; Footprint = "TO-236AB"; UniqueID = "\EKBFHVBY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C8542"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q_EX_2"; Footprint = "TO-236AB"; UniqueID = "\TOLHBBVO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C20526"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=EXCITER Pin=Q_EX_1-2
+Added Pin To Net: NetName=GND Pin=Q_EX_1-3
+Added Pin To Net: NetName=EXCITER Pin=Q_EX_2-2
+Added Pin To Net: NetName=+12V Pin=Q_EX_2-3
