@@ -1,0 +1,25 @@
+Added Pin To Net: NetName=GND Pin=C6_Q2-2
+Added Pin To Net: NetName=GND Pin=C6_Q2R-2
+Added Pin To Net: NetName=CELL_VSENSE Pin=C6_RSNS-2
+Added Pin To Net: NetName=C6_SENSE Pin=C6_Q2-1
+Added Pin To Net: NetName=C6_SENSE Pin=C6_Q2R-1
+Added Net: Name=C6_SENSE
+Added Pin To Net: NetName=NetC6_D1_1 Pin=C6_D1-1
+Added Pin To Net: NetName=NetC6_D1_1 Pin=C6_Q1-1
+Added Pin To Net: NetName=NetC6_D1_1 Pin=C6_QR1-2
+Added Pin To Net: NetName=NetC6_D1_1 Pin=C6_QR2-1
+Added Net: Name=NetC6_D1_1
+Added Pin To Net: NetName=NetC6_D1_2 Pin=C6_D1-2
+Added Pin To Net: NetName=NetC6_D1_2 Pin=C6_Q1-3
+Added Pin To Net: NetName=NetC6_D1_2 Pin=C6_RSNS-1
+Added Net: Name=NetC6_D1_2
+Added Pin To Net: NetName=SG_6 Pin=C6_Q2-3
+Added Pin To Net: NetName=SG_6 Pin=C6_QR2-2
+Added Net: Name=SG_6
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component C6_D1 1N4148WS
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component C6_Q1 AO3401A
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component C6_Q2R 0402WGF1002TCE
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component C6_Q2 2N7002
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component C6_QR1 0402WGF1002TCE
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component C6_QR2 0402WGF1002TCE
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component C6_RSNS 0402WGF1002TCE

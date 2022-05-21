@@ -1,0 +1,28 @@
+Change Component Designator: OldDesignator=C? NewDesignator=C9_D1
+Added Pin To Net: NetName=GND Pin=C8_Q2-2
+Added Pin To Net: NetName=GND Pin=C8_Q2R-2
+Added Pin To Net: NetName=CELL_VSENSE Pin=C8_RSNS-2
+Change Net Name : Old Net Name=NetC9_Q1_1 New Net Name=NetC9_D1_1
+Change Net Name : Old Net Name=NetC9_Q1_3 New Net Name=NetC9_D1_2
+Added Pin To Net: NetName=C8_SENSE Pin=C8_Q2-1
+Added Pin To Net: NetName=C8_SENSE Pin=C8_Q2R-1
+Added Net: Name=C8_SENSE
+Added Pin To Net: NetName=NetC8_D1_1 Pin=C8_D1-1
+Added Pin To Net: NetName=NetC8_D1_1 Pin=C8_Q1-1
+Added Pin To Net: NetName=NetC8_D1_1 Pin=C8_QR1-2
+Added Pin To Net: NetName=NetC8_D1_1 Pin=C8_QR2-1
+Added Net: Name=NetC8_D1_1
+Added Pin To Net: NetName=NetC8_D1_2 Pin=C8_D1-2
+Added Pin To Net: NetName=NetC8_D1_2 Pin=C8_Q1-3
+Added Pin To Net: NetName=NetC8_D1_2 Pin=C8_RSNS-1
+Added Net: Name=NetC8_D1_2
+Added Pin To Net: NetName=SG_8 Pin=C8_Q2-3
+Added Pin To Net: NetName=SG_8 Pin=C8_QR2-2
+Added Net: Name=SG_8
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component C8_D1 1N4148WS
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component C8_Q1 AO3401A
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component C8_Q2R 0402WGF1002TCE
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component C8_Q2 2N7002
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component C8_QR1 0402WGF1002TCE
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component C8_QR2 0402WGF1002TCE
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component C8_RSNS 0402WGF1002TCE

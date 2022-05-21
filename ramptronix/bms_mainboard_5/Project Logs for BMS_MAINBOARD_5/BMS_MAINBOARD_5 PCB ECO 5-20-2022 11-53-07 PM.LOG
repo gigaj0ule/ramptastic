@@ -1,0 +1,41 @@
+Removed Pin From Net: NetName=GND Pin=Q_EX_1-3
+Removed Pin From Net: NetName=+12V Pin=Q_EX_2-3
+Removed Pin From Net: NetName=EXCITER_DRV Pin=Q_EX_3-1
+Removed Pin From Net: NetName=GND Pin=Q_EX_3-2
+Removed Pin From Net: NetName=+12V Pin=R_EX_1-2
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=Q_EX_1
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=Q_EX_2
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=Q_EX_3
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=R_EX_1
+Added Component: Designator=R_QHTR3(R_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C25741"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C1_Q2-2
+Added Pin To Net: NetName=GND Pin=C1_Q2R-2
+Added Pin To Net: NetName=CELL_VSENSE Pin=C1_RSNS-2
+Added Pin To Net: NetName=HTR_EN Pin=R_QHTR3-1
+Added Pin To Net: NetName=GND Pin=R_QHTR3-2
+Added Pin To Net: NetName=C1_SENSE Pin=C1_Q2-1
+Added Pin To Net: NetName=C1_SENSE Pin=C1_Q2R-1
+Added Net: Name=C1_SENSE
+Added Pin To Net: NetName=NetC1_D1_1 Pin=C1_D1-1
+Added Pin To Net: NetName=NetC1_D1_1 Pin=C1_Q1-1
+Added Pin To Net: NetName=NetC1_D1_1 Pin=C1_QR1-2
+Added Pin To Net: NetName=NetC1_D1_1 Pin=C1_QR2-1
+Added Net: Name=NetC1_D1_1
+Added Pin To Net: NetName=NetC1_D1_2 Pin=C1_D1-2
+Added Pin To Net: NetName=NetC1_D1_2 Pin=C1_Q1-3
+Added Pin To Net: NetName=NetC1_D1_2 Pin=C1_RSNS-1
+Added Net: Name=NetC1_D1_2
+Added Pin To Net: NetName=SG_1 Pin=C1_Q2-3
+Added Pin To Net: NetName=SG_1 Pin=C1_QR2-2
+Added Net: Name=SG_1
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component C1_Q1 AO3401A
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component C1_Q2R 0402WGF1002TCE
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component C1_Q2 2N7002
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component C1_QR1 0402WGF1002TCE
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component C1_QR2 0402WGF1002TCE
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component C1_RSNS 0402WGF1002TCE
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component R_QHTR3 0402WGF1003TCE

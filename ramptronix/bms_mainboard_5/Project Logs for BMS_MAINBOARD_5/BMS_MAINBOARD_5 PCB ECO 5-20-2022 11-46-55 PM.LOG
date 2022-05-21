@@ -1,0 +1,24 @@
+Added Pin To Net: NetName=GND Pin=C3_Q2-2
+Added Pin To Net: NetName=GND Pin=C3_Q2R-2
+Added Pin To Net: NetName=CELL_VSENSE Pin=C3_RSNS-2
+Added Pin To Net: NetName=C3_SENSE Pin=C3_Q2-1
+Added Pin To Net: NetName=C3_SENSE Pin=C3_Q2R-1
+Added Net: Name=C3_SENSE
+Added Pin To Net: NetName=NetC3_D1_1 Pin=C3_D1-1
+Added Pin To Net: NetName=NetC3_D1_1 Pin=C3_Q1-1
+Added Pin To Net: NetName=NetC3_D1_1 Pin=C3_QR1-2
+Added Pin To Net: NetName=NetC3_D1_1 Pin=C3_QR2-1
+Added Net: Name=NetC3_D1_1
+Added Pin To Net: NetName=NetC3_D1_2 Pin=C3_D1-2
+Added Pin To Net: NetName=NetC3_D1_2 Pin=C3_Q1-3
+Added Pin To Net: NetName=NetC3_D1_2 Pin=C3_RSNS-1
+Added Net: Name=NetC3_D1_2
+Added Pin To Net: NetName=SG_3 Pin=C3_Q2-3
+Added Pin To Net: NetName=SG_3 Pin=C3_QR2-2
+Added Net: Name=SG_3
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component C3_Q1 AO3401A
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component C3_Q2R 0402WGF1002TCE
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component C3_Q2 2N7002
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component C3_QR1 0402WGF1002TCE
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component C3_QR2 0402WGF1002TCE
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component C3_RSNS 0402WGF1002TCE

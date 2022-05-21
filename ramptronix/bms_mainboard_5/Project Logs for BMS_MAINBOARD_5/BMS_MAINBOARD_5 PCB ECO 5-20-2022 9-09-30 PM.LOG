@@ -1,0 +1,69 @@
+Removed Pin From Net: NetName=CELL10_FN Pin=C11_D1_1-1
+Removed Pin From Net: NetName=CELL10_FN Pin=C11_Q1_1-1
+Removed Pin From Net: NetName=CELL10_FP Pin=C11_Q1_1-2
+Removed Pin From Net: NetName=CELL10_FP Pin=C11_QR1_1-1
+Removed Pin From Net: NetName=CELL10_FN Pin=C11_QR1_1-2
+Removed Pin From Net: NetName=CELL10_FN Pin=C11_QR2_1-1
+Added Component: Designator=C10_D1(SOD-323)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "If"; Value = "150mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C2128"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PIV"; Value = "100V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Trr"; Value = "4ns"; VariantName = "[No Variations]"
+Added Component: Designator=C10_Q1(TO-236AB)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C15127"; VariantName = "[No Variations]"
+Added Component: Designator=C10_Q2R(R_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C25744"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=C10_Q2(TO-236AB)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C8545"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "WVDC"; Value = "60"; VariantName = "[No Variations]"
+Added Component: Designator=C10_QR1(R_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C25744"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=C10_QR2(R_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C25744"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=C10_RSNS(R_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C25744"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=CELL11 Pin=C10_Q1-2
+Added Pin To Net: NetName=GND Pin=C10_Q2-2
+Added Pin To Net: NetName=GND Pin=C10_Q2R-2
+Added Pin To Net: NetName=CELL11 Pin=C10_QR1-1
+Added Pin To Net: NetName=CELL_VSENSE Pin=C10_RSNS-2
+Added Pin To Net: NetName=C10_SENSE Pin=C10_Q2-1
+Added Pin To Net: NetName=C10_SENSE Pin=C10_Q2R-1
+Added Net: Name=C10_SENSE
+Added Pin To Net: NetName=NetC10_D1_1 Pin=C10_D1-1
+Added Pin To Net: NetName=NetC10_D1_1 Pin=C10_Q1-1
+Added Pin To Net: NetName=NetC10_D1_1 Pin=C10_QR1-2
+Added Pin To Net: NetName=NetC10_D1_1 Pin=C10_QR2-1
+Added Net: Name=NetC10_D1_1
+Added Pin To Net: NetName=NetC10_D1_2 Pin=C10_D1-2
+Added Pin To Net: NetName=NetC10_D1_2 Pin=C10_Q1-3
+Added Pin To Net: NetName=NetC10_D1_2 Pin=C10_RSNS-1
+Added Net: Name=NetC10_D1_2
+Added Pin To Net: NetName=SG_10 Pin=C10_Q2-3
+Added Pin To Net: NetName=SG_10 Pin=C10_QR2-2
+Added Net: Name=SG_10
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component C10_D1 1N4148WS
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component C10_Q1 AO3401A
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component C10_Q2R 0402WGF1002TCE
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component C10_Q2 2N7002
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component C10_QR1 0402WGF1002TCE
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component C10_QR2 0402WGF1002TCE
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component C10_RSNS 0402WGF1002TCE

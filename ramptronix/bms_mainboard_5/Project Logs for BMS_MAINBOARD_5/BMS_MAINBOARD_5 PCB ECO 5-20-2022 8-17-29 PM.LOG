@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=CELL14_FP Pin=C14_Q_1-2
+Removed Pin From Net: NetName=CELL14_FP Pin=C14_QR_1-1
+Added Component: Designator=Q?(TO-236AB)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C2150"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=CELL14 Pin=C14_Q_1-2
+Added Pin To Net: NetName=CELL14 Pin=C14_QR_1-1
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component Q? SS8050

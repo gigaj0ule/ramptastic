@@ -1,0 +1,15 @@
+Added Pin To Net: NetName=NetC4_D1_1 Pin=C4_D1-1
+Added Pin To Net: NetName=NetC4_D1_2 Pin=C4_D1-2
+Added Pin To Net: NetName=NetC4_D1_1 Pin=C4_Q1-1
+Added Pin To Net: NetName=NetC4_D1_2 Pin=C4_Q1-3
+Added Pin To Net: NetName=C4_SENSE Pin=C4_Q2-1
+Added Pin To Net: NetName=GND Pin=C4_Q2-2
+Added Pin To Net: NetName=SG_4 Pin=C4_Q2-3
+Added Pin To Net: NetName=C4_SENSE Pin=C4_Q2R-1
+Added Pin To Net: NetName=GND Pin=C4_Q2R-2
+Added Pin To Net: NetName=NetC4_D1_1 Pin=C4_QR1-2
+Added Pin To Net: NetName=NetC4_D1_1 Pin=C4_QR2-1
+Added Pin To Net: NetName=SG_4 Pin=C4_QR2-2
+Added Pin To Net: NetName=NetC4_D1_2 Pin=C4_RSNS-1
+Added Pin To Net: NetName=CELL_VSENSE Pin=C4_RSNS-2
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component C4_QR2 0402WGF1002TCE

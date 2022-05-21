@@ -1,0 +1,88 @@
+Removed Pin From Net: NetName=CELL3 Pin=C3_Q1-2
+Removed Pin From Net: NetName=CELL3 Pin=C3_QR1-1
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C3_Q1
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C3_Q2
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C3_Q2R
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C3_QR2
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C3_RSNS
+Added Component: Designator=C3_C2(C_1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Extended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C46348"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "WVDC"; Value = "50"; VariantName = "[No Variations]"
+Added Component: Designator=C3_C3(C_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Extended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C76599"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "WVDC"; Value = "50"; VariantName = "[No Variations]"
+Added Component: Designator=C3_C4(C_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C1525"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "WVDC"; Value = "16"; VariantName = "[No Variations]"
+Added Component: Designator=C3_D2(SOD-323)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "If"; Value = "150mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C2128"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PIV"; Value = "100V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Trr"; Value = "4ns"; VariantName = "[No Variations]"
+Added Component: Designator=C3_D3(SOD-323)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "If"; Value = "150mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C2128"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PIV"; Value = "100V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Trr"; Value = "4ns"; VariantName = "[No Variations]"
+Added Component: Designator=C3_D4(SOD-323)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "If"; Value = "150mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C2128"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PIV"; Value = "100V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Trr"; Value = "4ns"; VariantName = "[No Variations]"
+Added Component: Designator=C3_R5(R_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C25744"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=C3_R7(R_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C25741"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC3_C2_1 Pin=C3_C2-1
+Added Pin To Net: NetName=NetC3_C2_2 Pin=C3_C2-2
+Added Pin To Net: NetName=NetC3_C2_2 Pin=C3_C3-1
+Added Pin To Net: NetName=NetC3_C3_2 Pin=C3_C3-2
+Added Pin To Net: NetName=GND Pin=C3_C4-1
+Added Pin To Net: NetName=CELL_3_SUM_V Pin=C3_C4-2
+Added Pin To Net: NetName=CELL3_FP Pin=C3_D1-1
+Added Pin To Net: NetName=NetC3_C2_1 Pin=C3_D1-2
+Added Pin To Net: NetName=NetC3_C2_1 Pin=C3_D2-1
+Added Pin To Net: NetName=CELL3_FN Pin=C3_D2-2
+Added Pin To Net: NetName=CELL_3_SUM_V Pin=C3_D3-1
+Added Pin To Net: NetName=NetC3_C2_2 Pin=C3_D3-2
+Added Pin To Net: NetName=NetC3_C2_2 Pin=C3_D4-1
+Added Pin To Net: NetName=GND Pin=C3_D4-2
+Added Pin To Net: NetName=NetC3_C3_2 Pin=C3_R5-1
+Added Pin To Net: NetName=EXCITER Pin=C3_R5-2
+Added Pin To Net: NetName=CELL_3_SUM_V Pin=C3_R7-1
+Added Pin To Net: NetName=GND Pin=C3_R7-2
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component C3_C2 1206CG104J500NT
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component C3_C3 C1608C0G1H103JT000N
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component C3_C4 CL05B104KO5NNNC
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component C3_D2 1N4148WS
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component C3_D3 1N4148WS
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component C3_D4 1N4148WS
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component C3_R5 0402WGF1002TCE
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component C3_R7 0402WGF1003TCE
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component C4_Q1 AO3401A
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component C5_D1 1N4148WS
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component C5_Q2R 0402WGF1002TCE
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component C5_Q2 2N7002
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component C5_QR2 0402WGF1002TCE
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component C5_RSNS 0402WGF1002TCE
