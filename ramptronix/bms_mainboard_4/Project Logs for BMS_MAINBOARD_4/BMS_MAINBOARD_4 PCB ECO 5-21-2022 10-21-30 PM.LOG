@@ -1,0 +1,22 @@
+Added Component: Designator=C_REF(C_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C52923"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "WVDC"; Value = "16"; VariantName = "[No Variations]"
+Added Component: Designator=R_REF(R_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C25076"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C_REF-1
+Added Pin To Net: NetName=VREF_ACTUAL Pin=C_REF-2
+Added Pin To Net: NetName=VREF_ACTUAL Pin=CREF_D1-1
+Added Pin To Net: NetName=GND Pin=CREF_D2-2
+Added Pin To Net: NetName=VREF_ACTUAL Pin=R_REF-1
+Added Pin To Net: NetName=CELL_14_SUM_V Pin=U300-19
+Change Net Name : Old Net Name=CELL_14_SUM_V New Net Name=VREF_SAMPLE
+Added Pin To Net: NetName=VCC_3V3 Pin=R_REF-2
+Added Net: Name=VCC_3V3
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component C_REF CL05A105KA5NQNC
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component R_REF 0402WGF1000TCE

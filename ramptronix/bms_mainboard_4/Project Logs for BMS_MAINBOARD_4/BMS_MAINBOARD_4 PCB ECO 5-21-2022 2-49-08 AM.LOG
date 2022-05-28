@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=+3V3_SW Pin=C500-2
+Removed Pin From Net: NetName=+3V3_SW Pin=C900-2
+Removed Pin From Net: NetName=+3V3_SW Pin=U500-24
+Removed Pin From Net: NetName=+3V3_SW Pin=U900-24
+Added Component: Designator=C300(C_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C1525"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "WVDC"; Value = "16"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C300-1
+Added Pin To Net: NetName=+5V Pin=C300-2
+Added Pin To Net: NetName=+3V3 Pin=C500-2
+Added Pin To Net: NetName=+3V3 Pin=C900-2
+Added Pin To Net: NetName=+3V3 Pin=U500-24
+Added Pin To Net: NetName=+3V3 Pin=U900-24
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component C300 CL05B104KO5NNNC

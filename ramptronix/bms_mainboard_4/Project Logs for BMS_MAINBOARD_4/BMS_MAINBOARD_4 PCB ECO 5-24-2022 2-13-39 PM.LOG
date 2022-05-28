@@ -1,0 +1,46 @@
+Change Component DesignItemId : Designator=R_REF Old DesignItemId=0402WGF1000TCE New DesignItemId=0402WGF0000TCE
+Change Component DesignItemId : Designator=RBG_1 Old DesignItemId=0402WGF1002TCE New DesignItemId=0402WGF1000TCE
+Change Component DesignItemId : Designator=RBG_2 Old DesignItemId=0402WGF1002TCE New DesignItemId=0402WGF1001TCE
+Change Component DesignItemId : Designator=RBG_3 Old DesignItemId=0402WGF1002TCE New DesignItemId=0402WGF1001TCE
+Change Component DesignItemId : Designator=RBS_1 Old DesignItemId=0402WGF1002TCE New DesignItemId=0402WGF1001TCE
+Change Component Comment : Designator=R_REF Old Comment=0402WGF1000TCE New Comment=0402WGF0000TCE
+Change Component Comment : Designator=RBG_1 Old Comment=0402WGF1002TCE New Comment=0402WGF1000TCE
+Change Component Comment : Designator=RBG_2 Old Comment=0402WGF1002TCE New Comment=0402WGF1001TCE
+Change Component Comment : Designator=RBG_3 Old Comment=0402WGF1002TCE New Comment=0402WGF1001TCE
+Change Component Comment : Designator=RBS_1 Old Comment=0402WGF1002TCE New Comment=0402WGF1001TCE
+Change Component Description : Designator=RBG_2 Old Description=R - RESISTOR - SMD - 10k - 1% - 0402 New Description=R - RESISTOR - SMD - 1k - 1% - 0402
+Change Component Description : Designator=RBG_3 Old Description=R - RESISTOR - SMD - 10k - 1% - 0402 New Description=R - RESISTOR - SMD - 1k - 1% - 0402
+Change Component Description : Designator=RBS_1 Old Description=R - RESISTOR - SMD - 10k - 1% - 0402 New Description=R - RESISTOR - SMD - 1k - 1% - 0402
+Change Component Description : Designator=RBG_1 Old Description=R - RESISTOR - SMD - 10k - 1% - 0402 New Description=R - RESISTOR - SMD - 100R - 1% - 0402
+Change Component Description : Designator=R_REF Old Description=R - RESISTOR - SMD - 100R - 1% - 0402 New Description=R - RESISTOR - SMD - 0R - 1% - 0402
+Change component parameters: Designator = "R_REF"; Footprint = "R_0402"; UniqueID = "\VFNXXNYK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C17168"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "RBG_1"; Footprint = "R_0402"; UniqueID = "\AYVNEKJC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C25076"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "RBG_2"; Footprint = "R_0402"; UniqueID = "\WEIRKUVO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C11702"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "RBG_3"; Footprint = "R_0402"; UniqueID = "\KIYGDSRY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C11702"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "RBS_1"; Footprint = "R_0402"; UniqueID = "\IGODHXEO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C11702"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "F1"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C11702"; VariantName = "F1"
+Change component parameters (AddParameter): Name = "Value"; Value = "1k"; VariantName = "F1"
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "F4"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C11702"; VariantName = "F4"
+Change component parameters (AddParameter): Name = "Value"; Value = "1k"; VariantName = "F4"

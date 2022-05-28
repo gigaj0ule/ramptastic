@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=TS_EN_a Pin=D1-2
+Removed Pin From Net: NetName=TS_EN_b Pin=D2-2
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=D1
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=D2
+Added Pin To Net: NetName=+5V Pin=U500-15

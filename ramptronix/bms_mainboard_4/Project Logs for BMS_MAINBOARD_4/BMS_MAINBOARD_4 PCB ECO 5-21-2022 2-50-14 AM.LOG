@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=+3V3_SW Pin=3V3R1-1
+Removed Pin From Net: NetName=3V3_EN Pin=3V3R2-2
+Removed Pin From Net: NetName=+3V3_SW Pin=R900-2
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=3V3R1
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=3V3R2
+Added Pin To Net: NetName=+3V3 Pin=R900-2

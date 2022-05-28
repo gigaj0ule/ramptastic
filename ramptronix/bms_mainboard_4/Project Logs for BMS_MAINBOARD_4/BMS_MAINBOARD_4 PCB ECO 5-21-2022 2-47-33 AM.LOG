@@ -1,0 +1,116 @@
+Removed Pin From Net: NetName=+3V3_SW Pin=C300-2
+Removed Pin From Net: NetName=+3V3_SW Pin=U300-24
+Change Component DesignItemId : Designator=C1_R5 Old DesignItemId=0402WGF1002TCE New DesignItemId=0402WGF100JTCE
+Change Component DesignItemId : Designator=C2_R5 Old DesignItemId=0402WGF1002TCE New DesignItemId=0402WGF100JTCE
+Change Component DesignItemId : Designator=C3_R5 Old DesignItemId=0402WGF1002TCE New DesignItemId=0402WGF100JTCE
+Change Component DesignItemId : Designator=C4_R5 Old DesignItemId=0402WGF1002TCE New DesignItemId=0402WGF100JTCE
+Change Component DesignItemId : Designator=C5_R5 Old DesignItemId=0402WGF1002TCE New DesignItemId=0402WGF100JTCE
+Change Component DesignItemId : Designator=C6_R5 Old DesignItemId=0402WGF1002TCE New DesignItemId=0402WGF100JTCE
+Change Component DesignItemId : Designator=C7_R5 Old DesignItemId=0402WGF1002TCE New DesignItemId=0402WGF100JTCE
+Change Component DesignItemId : Designator=C8_R5 Old DesignItemId=0402WGF1002TCE New DesignItemId=0402WGF100JTCE
+Change Component DesignItemId : Designator=C9_R5 Old DesignItemId=0402WGF1002TCE New DesignItemId=0402WGF100JTCE
+Change Component DesignItemId : Designator=C10_R5 Old DesignItemId=0402WGF1002TCE New DesignItemId=0402WGF100JTCE
+Change Component DesignItemId : Designator=C11_R5 Old DesignItemId=0402WGF1002TCE New DesignItemId=0402WGF100JTCE
+Change Component DesignItemId : Designator=C12_R5 Old DesignItemId=0402WGF1002TCE New DesignItemId=0402WGF100JTCE
+Change Component DesignItemId : Designator=C13_R5 Old DesignItemId=0402WGF1002TCE New DesignItemId=0402WGF100JTCE
+Change Component DesignItemId : Designator=C14_R5 Old DesignItemId=0402WGF1002TCE New DesignItemId=0402WGF100JTCE
+Change Component Comment : Designator=C1_R5 Old Comment=0402WGF1002TCE New Comment=0402WGF100JTCE
+Change Component Comment : Designator=C2_R5 Old Comment=0402WGF1002TCE New Comment=0402WGF100JTCE
+Change Component Comment : Designator=C3_R5 Old Comment=0402WGF1002TCE New Comment=0402WGF100JTCE
+Change Component Comment : Designator=C4_R5 Old Comment=0402WGF1002TCE New Comment=0402WGF100JTCE
+Change Component Comment : Designator=C5_R5 Old Comment=0402WGF1002TCE New Comment=0402WGF100JTCE
+Change Component Comment : Designator=C6_R5 Old Comment=0402WGF1002TCE New Comment=0402WGF100JTCE
+Change Component Comment : Designator=C7_R5 Old Comment=0402WGF1002TCE New Comment=0402WGF100JTCE
+Change Component Comment : Designator=C8_R5 Old Comment=0402WGF1002TCE New Comment=0402WGF100JTCE
+Change Component Comment : Designator=C9_R5 Old Comment=0402WGF1002TCE New Comment=0402WGF100JTCE
+Change Component Comment : Designator=C10_R5 Old Comment=0402WGF1002TCE New Comment=0402WGF100JTCE
+Change Component Comment : Designator=C11_R5 Old Comment=0402WGF1002TCE New Comment=0402WGF100JTCE
+Change Component Comment : Designator=C12_R5 Old Comment=0402WGF1002TCE New Comment=0402WGF100JTCE
+Change Component Comment : Designator=C13_R5 Old Comment=0402WGF1002TCE New Comment=0402WGF100JTCE
+Change Component Comment : Designator=C14_R5 Old Comment=0402WGF1002TCE New Comment=0402WGF100JTCE
+Change Component Description : Designator=C1_R5 Old Description=R - RESISTOR - SMD - 10k - 1% - 0402 New Description=R - RESISTOR - SMD - 10R - 1% - 0402
+Change Component Description : Designator=C2_R5 Old Description=R - RESISTOR - SMD - 10k - 1% - 0402 New Description=R - RESISTOR - SMD - 10R - 1% - 0402
+Change Component Description : Designator=C3_R5 Old Description=R - RESISTOR - SMD - 10k - 1% - 0402 New Description=R - RESISTOR - SMD - 10R - 1% - 0402
+Change Component Description : Designator=C4_R5 Old Description=R - RESISTOR - SMD - 10k - 1% - 0402 New Description=R - RESISTOR - SMD - 10R - 1% - 0402
+Change Component Description : Designator=C5_R5 Old Description=R - RESISTOR - SMD - 10k - 1% - 0402 New Description=R - RESISTOR - SMD - 10R - 1% - 0402
+Change Component Description : Designator=C6_R5 Old Description=R - RESISTOR - SMD - 10k - 1% - 0402 New Description=R - RESISTOR - SMD - 10R - 1% - 0402
+Change Component Description : Designator=C7_R5 Old Description=R - RESISTOR - SMD - 10k - 1% - 0402 New Description=R - RESISTOR - SMD - 10R - 1% - 0402
+Change Component Description : Designator=C8_R5 Old Description=R - RESISTOR - SMD - 10k - 1% - 0402 New Description=R - RESISTOR - SMD - 10R - 1% - 0402
+Change Component Description : Designator=C9_R5 Old Description=R - RESISTOR - SMD - 10k - 1% - 0402 New Description=R - RESISTOR - SMD - 10R - 1% - 0402
+Change Component Description : Designator=C10_R5 Old Description=R - RESISTOR - SMD - 10k - 1% - 0402 New Description=R - RESISTOR - SMD - 10R - 1% - 0402
+Change Component Description : Designator=C11_R5 Old Description=R - RESISTOR - SMD - 10k - 1% - 0402 New Description=R - RESISTOR - SMD - 10R - 1% - 0402
+Change Component Description : Designator=C12_R5 Old Description=R - RESISTOR - SMD - 10k - 1% - 0402 New Description=R - RESISTOR - SMD - 10R - 1% - 0402
+Change Component Description : Designator=C13_R5 Old Description=R - RESISTOR - SMD - 10k - 1% - 0402 New Description=R - RESISTOR - SMD - 10R - 1% - 0402
+Change Component Description : Designator=C14_R5 Old Description=R - RESISTOR - SMD - 10k - 1% - 0402 New Description=R - RESISTOR - SMD - 10R - 1% - 0402
+Change component parameters: Designator = "C1_R5"; Footprint = "R_0402"; UniqueID = "\COSQPWJY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C25077"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2_R5"; Footprint = "R_0402"; UniqueID = "\YIQFWFDP"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C25077"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C3_R5"; Footprint = "R_0402"; UniqueID = "\RMKEMVRQ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C25077"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C4_R5"; Footprint = "R_0402"; UniqueID = "\NYNNUAFW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C25077"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C5_R5"; Footprint = "R_0402"; UniqueID = "\ATOKUJWN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C25077"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C6_R5"; Footprint = "R_0402"; UniqueID = "\VHATACUT"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C25077"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C7_R5"; Footprint = "R_0402"; UniqueID = "\XNPMGIFS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C25077"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C8_R5"; Footprint = "R_0402"; UniqueID = "\AQLAHXNE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C25077"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C9_R5"; Footprint = "R_0402"; UniqueID = "\BNREEAKN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C25077"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C10_R5"; Footprint = "R_0402"; UniqueID = "\BSCTWNQG"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C25077"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C11_R5"; Footprint = "R_0402"; UniqueID = "\BLONLRPW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C25077"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C12_R5"; Footprint = "R_0402"; UniqueID = "\PQURKYCC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C25077"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C13_R5"; Footprint = "R_0402"; UniqueID = "\YPIHGYJR"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C25077"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C14_R5"; Footprint = "R_0402"; UniqueID = "\SJMSYQTB"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C25077"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5V Pin=C300-2
+Added Pin To Net: NetName=+5V Pin=U300-24

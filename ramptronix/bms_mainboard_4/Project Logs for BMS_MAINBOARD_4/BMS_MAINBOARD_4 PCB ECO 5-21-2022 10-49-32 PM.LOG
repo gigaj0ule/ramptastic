@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=EN_V_ADC Pin=U300-15
+Added Component: Designator=R_PU_4(R_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C25744"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5V Pin=R_PU_4-1
+Added Pin To Net: NetName=EN_BAL Pin=R_PU_4-2
+Added Pin To Net: NetName=+5V Pin=U300-15
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component R_PU_4 0402WGF1002TCE

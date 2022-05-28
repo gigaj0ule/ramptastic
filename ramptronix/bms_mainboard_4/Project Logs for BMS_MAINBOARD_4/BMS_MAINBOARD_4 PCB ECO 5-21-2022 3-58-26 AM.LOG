@@ -1,0 +1,14 @@
+Change Component Designator: OldDesignator=C14_C2 NewDesignator=CREF_C2
+Change Component Designator: OldDesignator=C14_C3 NewDesignator=CREF_C3
+Change Component Designator: OldDesignator=C14_C4 NewDesignator=CREF_C4
+Change Component Designator: OldDesignator=C14_D1 NewDesignator=CREF_D1
+Change Component Designator: OldDesignator=C14_D2 NewDesignator=CREF_D2
+Change Component Designator: OldDesignator=C14_D3 NewDesignator=CREF_D3
+Change Component Designator: OldDesignator=C14_D4 NewDesignator=CREF_D4
+Change Component Designator: OldDesignator=C14_R5 NewDesignator=CREF_R5
+Change Component Designator: OldDesignator=C14_R7 NewDesignator=CREF_R7
+Change Net Name : Old Net Name=CELL14_FN New Net Name=BIST_FN
+Change Net Name : Old Net Name=CELL14_FP New Net Name=BIST_FP
+Change Net Name : Old Net Name=NetC14_C2_1 New Net Name=NetCREF_C2_1
+Change Net Name : Old Net Name=NetC14_C2_2 New Net Name=NetCREF_C2_2
+Change Net Name : Old Net Name=NetC14_C3_2 New Net Name=NetCREF_C3_2

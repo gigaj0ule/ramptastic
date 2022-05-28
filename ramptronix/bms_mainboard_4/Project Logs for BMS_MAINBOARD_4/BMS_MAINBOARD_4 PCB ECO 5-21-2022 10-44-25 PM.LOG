@@ -1,0 +1,32 @@
+Added Component: Designator=R_PU_0(R_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C25744"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R_PU_1(R_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C25744"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R_PU_2(R_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C25744"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R_PU_3(R_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C25744"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5V Pin=R_PU_0-1
+Added Pin To Net: NetName=DATA_BUS_A0 Pin=R_PU_0-2
+Added Pin To Net: NetName=+5V Pin=R_PU_1-1
+Added Pin To Net: NetName=DATA_BUS_A1 Pin=R_PU_1-2
+Added Pin To Net: NetName=+5V Pin=R_PU_2-1
+Added Pin To Net: NetName=DATA_BUS_A2 Pin=R_PU_2-2
+Added Pin To Net: NetName=+5V Pin=R_PU_3-1
+Added Pin To Net: NetName=DATA_BUS_A3 Pin=R_PU_3-2
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component R_PU_0 0402WGF1002TCE
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component R_PU_1 0402WGF1002TCE
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component R_PU_2 0402WGF1002TCE
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component R_PU_3 0402WGF1002TCE

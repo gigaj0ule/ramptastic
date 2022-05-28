@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=CELL_6_SUM_V Pin=C14_C4-2
+Removed Pin From Net: NetName=CELL_6_SUM_V Pin=C14_D3-1
+Removed Pin From Net: NetName=CELL_6_SUM_V Pin=C14_R7-1
+Added Pin To Net: NetName=CELL_14_SUM_V Pin=C14_C4-2
+Added Pin To Net: NetName=CELL_14_SUM_V Pin=C14_D3-1
+Added Pin To Net: NetName=CELL_14_SUM_V Pin=C14_R7-1

@@ -1,0 +1,96 @@
+Removed Pin From Net: NetName=CELL2 Pin=C3_R8-2
+Removed Pin From Net: NetName=NetC3_D5_2 Pin=C3_R10-1
+Removed Pin From Net: NetName=CELL2 Pin=C3_R11-1
+Removed Pin From Net: NetName=CELL3 Pin=C4_R8-2
+Removed Pin From Net: NetName=NetC4_D5_2 Pin=C4_R10-1
+Removed Pin From Net: NetName=CELL3 Pin=C4_R11-1
+Removed Pin From Net: NetName=CELL4 Pin=C5_R8-2
+Removed Pin From Net: NetName=NetC5_D5_2 Pin=C5_R10-1
+Removed Pin From Net: NetName=CELL4 Pin=C5_R11-1
+Removed Pin From Net: NetName=CELL5 Pin=C6_R8-2
+Removed Pin From Net: NetName=NetC6_D5_2 Pin=C6_R10-1
+Removed Pin From Net: NetName=CELL5 Pin=C6_R11-1
+Removed Pin From Net: NetName=CELL6 Pin=C7_R8-2
+Removed Pin From Net: NetName=NetC7_D5_2 Pin=C7_R10-1
+Removed Pin From Net: NetName=CELL6 Pin=C7_R11-1
+Removed Pin From Net: NetName=CELL7 Pin=C8_R8-2
+Removed Pin From Net: NetName=NetC8_D5_2 Pin=C8_R10-1
+Removed Pin From Net: NetName=CELL7 Pin=C8_R11-1
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C3_R8
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C3_R10
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C3_R11
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C4_R8
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C4_R10
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C4_R11
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C5_R8
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C5_R10
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C5_R11
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C6_R8
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C6_R10
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C6_R11
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C7_R8
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C7_R10
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C7_R11
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C8_R8
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C8_R10
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C8_R11
+Change Component DesignItemId : Designator=C3_R9 Old DesignItemId=0402WGF1000TCE New DesignItemId=1206W4F100JT5E
+Change Component DesignItemId : Designator=C5_R9 Old DesignItemId=0402WGF1000TCE New DesignItemId=1206W4F100JT5E
+Change Component DesignItemId : Designator=C6_R9 Old DesignItemId=0402WGF1000TCE New DesignItemId=1206W4F100JT5E
+Change Component DesignItemId : Designator=C7_R9 Old DesignItemId=0402WGF1000TCE New DesignItemId=1206W4F100JT5E
+Change Component DesignItemId : Designator=C8_R9 Old DesignItemId=0402WGF1000TCE New DesignItemId=1206W4F100JT5E
+Change Component DesignItemId : Designator=C4_R9 Old DesignItemId=0402WGF1001TCE New DesignItemId=1206W4F100JT5E
+Change Component Footprint: Designator=C3_R9 Old Footprint=R_0402 New Footprint=R_1206
+Change Component Footprint: Designator=C4_R9 Old Footprint=R_0402 New Footprint=R_1206
+Change Component Footprint: Designator=C5_R9 Old Footprint=R_0402 New Footprint=R_1206
+Change Component Footprint: Designator=C6_R9 Old Footprint=R_0402 New Footprint=R_1206
+Change Component Footprint: Designator=C7_R9 Old Footprint=R_0402 New Footprint=R_1206
+Change Component Footprint: Designator=C8_R9 Old Footprint=R_0402 New Footprint=R_1206
+Change Component Comment : Designator=C3_R9 Old Comment=0402WGF1000TCE New Comment=1206W4F100JT5E
+Change Component Comment : Designator=C5_R9 Old Comment=0402WGF1000TCE New Comment=1206W4F100JT5E
+Change Component Comment : Designator=C6_R9 Old Comment=0402WGF1000TCE New Comment=1206W4F100JT5E
+Change Component Comment : Designator=C7_R9 Old Comment=0402WGF1000TCE New Comment=1206W4F100JT5E
+Change Component Comment : Designator=C8_R9 Old Comment=0402WGF1000TCE New Comment=1206W4F100JT5E
+Change Component Comment : Designator=C4_R9 Old Comment=0402WGF1001TCE New Comment=1206W4F100JT5E
+Change Component Description : Designator=C4_R9 Old Description=R - RESISTOR - SMD - 1k - 1% - 0402 New Description=R - RESISTOR - SMD - 10R - 1% - 1206
+Change Component Description : Designator=C3_R9 Old Description=R - RESISTOR - SMD - 100R - 1% - 0402 New Description=R - RESISTOR - SMD - 10R - 1% - 1206
+Change Component Description : Designator=C5_R9 Old Description=R - RESISTOR - SMD - 100R - 1% - 0402 New Description=R - RESISTOR - SMD - 10R - 1% - 1206
+Change Component Description : Designator=C6_R9 Old Description=R - RESISTOR - SMD - 100R - 1% - 0402 New Description=R - RESISTOR - SMD - 10R - 1% - 1206
+Change Component Description : Designator=C7_R9 Old Description=R - RESISTOR - SMD - 100R - 1% - 0402 New Description=R - RESISTOR - SMD - 10R - 1% - 1206
+Change Component Description : Designator=C8_R9 Old Description=R - RESISTOR - SMD - 100R - 1% - 0402 New Description=R - RESISTOR - SMD - 10R - 1% - 1206
+Change component parameters: Designator = "C3_R9"; Footprint = "R_1206"; UniqueID = "\JVBJIPEA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C17903"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C4_R9"; Footprint = "R_1206"; UniqueID = "\HUNHWCSQ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C17903"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C5_R9"; Footprint = "R_1206"; UniqueID = "\YCIGDUNN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C17903"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C6_R9"; Footprint = "R_1206"; UniqueID = "\YNTOJDCY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C17903"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C7_R9"; Footprint = "R_1206"; UniqueID = "\JORCHRVV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C17903"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C8_R9"; Footprint = "R_1206"; UniqueID = "\DPMNARWO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C17903"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=CELL2 Pin=C3_R9-2
+Added Pin To Net: NetName=CELL3 Pin=C4_R9-2
+Added Pin To Net: NetName=CELL4 Pin=C5_R9-2
+Added Pin To Net: NetName=CELL5 Pin=C6_R9-2
+Added Pin To Net: NetName=CELL6 Pin=C7_R9-2
+Added Pin To Net: NetName=CELL7 Pin=C8_R9-2

@@ -1,0 +1,111 @@
+Removed Pin From Net: NetName=TS_0 Pin=RT_0_1-1
+Change Component DesignItemId : Designator=R_EX_1 Old DesignItemId=0402WGF1002TCE New DesignItemId=0402WGF1001TCE
+Change Component Comment : Designator=R_EX_1 Old Comment=0402WGF1002TCE New Comment=0402WGF1001TCE
+Change Component Description : Designator=R_EX_1 Old Description=R - RESISTOR - SMD - 10k - 1% - 0402 New Description=R - RESISTOR - SMD - 1k - 1% - 0402
+Change component parameters: Designator = "R_EX_1"; Footprint = "R_0402"; UniqueID = "\HYYDSQWO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C11702"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=B- Pin=J1-1
+Added Pin To Net: NetName=CELL1 Pin=J1-2
+Added Pin To Net: NetName=CELL2 Pin=J1-3
+Added Pin To Net: NetName=CELL1 Pin=J1-4
+Added Pin To Net: NetName=CELL2 Pin=J2-1
+Added Pin To Net: NetName=CELL3 Pin=J2-2
+Added Pin To Net: NetName=CELL4 Pin=J2-3
+Added Pin To Net: NetName=CELL3 Pin=J2-4
+Added Pin To Net: NetName=CELL4 Pin=J3-1
+Added Pin To Net: NetName=CELL5 Pin=J3-2
+Added Pin To Net: NetName=CELL6 Pin=J3-3
+Added Pin To Net: NetName=CELL5 Pin=J3-4
+Added Pin To Net: NetName=CELL6 Pin=J4-1
+Added Pin To Net: NetName=CELL7 Pin=J4-2
+Added Pin To Net: NetName=CELL8 Pin=J4-3
+Added Pin To Net: NetName=CELL7 Pin=J4-4
+Added Pin To Net: NetName=CELL8 Pin=J5-1
+Added Pin To Net: NetName=CELL9 Pin=J5-2
+Added Pin To Net: NetName=CELL10 Pin=J5-3
+Added Pin To Net: NetName=CELL9 Pin=J5-4
+Added Pin To Net: NetName=CELL10 Pin=J6-1
+Added Pin To Net: NetName=CELL11 Pin=J6-2
+Added Pin To Net: NetName=CELL12 Pin=J6-3
+Added Pin To Net: NetName=CELL11 Pin=J6-4
+Added Pin To Net: NetName=CELL12 Pin=J7-1
+Added Pin To Net: NetName=CELL13 Pin=J7-2
+Added Pin To Net: NetName=CELL14 Pin=J7-3
+Added Pin To Net: NetName=CELL13 Pin=J7-4
+Added Pin To Net: NetName=TS_A_GND Pin=TS_C1_A-1
+Added Pin To Net: NetName=TS_A_GND Pin=TS_C2_A-1
+Added Pin To Net: NetName=TS_1 Pin=TS_C2_A-2
+Added Pin To Net: NetName=TS_1 Pin=TS_C2_B-2
+Added Pin To Net: NetName=TS_A_GND Pin=TS_C3_A-1
+Added Pin To Net: NetName=TS_2 Pin=TS_C3_A-2
+Added Pin To Net: NetName=TS_2 Pin=TS_C3_B-2
+Added Pin To Net: NetName=TS_A_GND Pin=TS_C4_A-1
+Added Pin To Net: NetName=TS_3 Pin=TS_C4_A-2
+Added Pin To Net: NetName=TS_3 Pin=TS_C4_B-2
+Added Pin To Net: NetName=TS_A_GND Pin=TS_C5_A-1
+Added Pin To Net: NetName=TS_4 Pin=TS_C5_A-2
+Added Pin To Net: NetName=TS_4 Pin=TS_C5_B-2
+Added Pin To Net: NetName=TS_A_GND Pin=TS_C6_A-1
+Added Pin To Net: NetName=TS_5 Pin=TS_C6_A-2
+Added Pin To Net: NetName=TS_5 Pin=TS_C6_B-2
+Added Pin To Net: NetName=TS_A_GND Pin=TS_C7_A-1
+Added Pin To Net: NetName=TS_6 Pin=TS_C7_A-2
+Added Pin To Net: NetName=TS_6 Pin=TS_C7_B-2
+Added Pin To Net: NetName=TS_A_GND Pin=TS_C8_A-1
+Added Pin To Net: NetName=TS_7 Pin=TS_C8_A-2
+Added Pin To Net: NetName=TS_7 Pin=TS_C8_B-2
+Added Pin To Net: NetName=TS_A_GND Pin=TS_C9_A-1
+Added Pin To Net: NetName=TS_8 Pin=TS_C9_A-2
+Added Pin To Net: NetName=TS_8 Pin=TS_C9_B-2
+Added Pin To Net: NetName=TS_A_GND Pin=TS_C10_A-1
+Added Pin To Net: NetName=TS_9 Pin=TS_C10_A-2
+Added Pin To Net: NetName=TS_9 Pin=TS_C10_B-2
+Added Pin To Net: NetName=TS_A_GND Pin=TS_C11_A-1
+Added Pin To Net: NetName=TS_10 Pin=TS_C11_A-2
+Added Pin To Net: NetName=TS_10 Pin=TS_C11_B-2
+Added Pin To Net: NetName=TS_A_GND Pin=TS_C12_A-1
+Added Pin To Net: NetName=TS_11 Pin=TS_C12_A-2
+Added Pin To Net: NetName=TS_11 Pin=TS_C12_B-2
+Added Pin To Net: NetName=TS_12 Pin=TS_C13_B-2
+Added Pin To Net: NetName=TS_A_GND Pin=TS_C13A-1
+Added Pin To Net: NetName=TS_12 Pin=TS_C13A-2
+Added Pin To Net: NetName=TS_A_GND Pin=TS_C14_A-1
+Added Pin To Net: NetName=TS_13 Pin=TS_C14_A-2
+Added Pin To Net: NetName=TS_13 Pin=TS_C14_B-2
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component J1 Keystone 1048
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component J2 Keystone 1048
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component J3 Keystone 1048
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component J4 Keystone 1048
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component J5 Keystone 1048
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component J7 Keystone 1048
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component TS_C1_A NCP15XH103F03RC
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component TS_C1_B NCP15XH103F03RC
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component TS_C2_A NCP15XH103F03RC
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component TS_C2_B NCP15XH103F03RC
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component TS_C3_A NCP15XH103F03RC
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component TS_C3_B NCP15XH103F03RC
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component TS_C4_A NCP15XH103F03RC
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component TS_C4_B NCP15XH103F03RC
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component TS_C5_A NCP15XH103F03RC
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component TS_C5_B NCP15XH103F03RC
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component TS_C6_A NCP15XH103F03RC
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component TS_C6_B NCP15XH103F03RC
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component TS_C7_A NCP15XH103F03RC
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component TS_C7_B NCP15XH103F03RC
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component TS_C8_A NCP15XH103F03RC
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component TS_C8_B NCP15XH103F03RC
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component TS_C9_A NCP15XH103F03RC
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component TS_C9_B NCP15XH103F03RC
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component TS_C10_A NCP15XH103F03RC
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component TS_C10_B NCP15XH103F03RC
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component TS_C11_A NCP15XH103F03RC
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component TS_C11_B NCP15XH103F03RC
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component TS_C12_A NCP15XH103F03RC
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component TS_C12_B NCP15XH103F03RC
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component TS_C13_B NCP15XH103F03RC
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component TS_C13A NCP15XH103F03RC
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component TS_C14_A NCP15XH103F03RC
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component TS_C14_B NCP15XH103F03RC

@@ -1,0 +1,71 @@
+Removed Pin From Net: NetName=+12V Pin=Q_EX_2-3
+Removed Pin From Net: NetName=+12V Pin=R_EX_1-2
+Removed Pin From Net: NetName=TS_EN_a Pin=U0-56
+Removed Pin From Net: NetName=TS_EN_b Pin=U0-57
+Added Component: Designator=C1000(C_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C52923"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "WVDC"; Value = "16"; VariantName = "[No Variations]"
+Added Component: Designator=C1004(C_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C52923"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "WVDC"; Value = "16"; VariantName = "[No Variations]"
+Added Component: Designator=C1005(C_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C52923"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "WVDC"; Value = "16"; VariantName = "[No Variations]"
+Added Component: Designator=R1001(R_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C17168"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Component: Designator=R1002(R_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C11702"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Added Component: Designator=R1003(R_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C11702"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Added Component: Designator=U1000(TO-252AA)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C75510"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VOut"; Value = "ADJ"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C1000-1
+Added Pin To Net: NetName=+12V Pin=C1000-2
+Added Pin To Net: NetName=GND Pin=C1004-1
+Added Pin To Net: NetName=GND Pin=C1005-1
+Added Pin To Net: NetName=GND Pin=R1002-1
+Added Pin To Net: NetName=EN_BAL Pin=U0-56
+Added Pin To Net: NetName=EN_V_ADC Pin=U0-57
+Added Pin To Net: NetName=+12V Pin=U1000-3
+Added Pin To Net: NetName=NetR1001_1 Pin=R1001-1
+Added Pin To Net: NetName=NetR1001_1 Pin=U1000-2
+Added Net: Name=NetR1001_1
+Added Pin To Net: NetName=NetR1002_2 Pin=R1002-2
+Added Pin To Net: NetName=NetR1002_2 Pin=R1003-1
+Added Pin To Net: NetName=NetR1002_2 Pin=U1000-1
+Added Net: Name=NetR1002_2
+Added Pin To Net: NetName=V_EXCITER Pin=C1004-2
+Added Pin To Net: NetName=V_EXCITER Pin=C1005-2
+Added Pin To Net: NetName=V_EXCITER Pin=Q_EX_2-3
+Added Pin To Net: NetName=V_EXCITER Pin=R1001-2
+Added Pin To Net: NetName=V_EXCITER Pin=R1003-2
+Added Pin To Net: NetName=V_EXCITER Pin=R_EX_1-2
+Added Net: Name=V_EXCITER
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component C1000 CL05A105KA5NQNC
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component C1004 CL05A105KA5NQNC
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component C1005 CL05A105KA5NQNC
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component R1001 0402WGF0000TCE
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component R1002 0402WGF1001TCE
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component R1003 0402WGF1001TCE
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component U1000 LM317AG-TN3-R

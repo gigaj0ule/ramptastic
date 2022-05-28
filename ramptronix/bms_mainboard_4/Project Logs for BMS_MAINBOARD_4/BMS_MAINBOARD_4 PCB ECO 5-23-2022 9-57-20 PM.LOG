@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=CELL11_FP Pin=C11_D1-1
+Removed Pin From Net: NetName=CELL11_FN Pin=C11_D2-2
+Removed Pin From Net: NetName=CELL12_FP Pin=C12_D1-1
+Removed Pin From Net: NetName=CELL12_FN Pin=C12_D2-2
+Added Pin To Net: NetName=CELL11 Pin=C11_D1-1
+Added Pin To Net: NetName=CELL10 Pin=C11_D2-2
+Added Pin To Net: NetName=CELL12 Pin=C12_D1-1
+Added Pin To Net: NetName=CELL11 Pin=C12_D2-2

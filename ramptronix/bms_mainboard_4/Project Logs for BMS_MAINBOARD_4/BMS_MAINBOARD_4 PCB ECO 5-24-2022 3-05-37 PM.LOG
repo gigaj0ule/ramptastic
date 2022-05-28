@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=CELL11 Pin=C12_R8-2
+Removed Pin From Net: NetName=NetC12_D5_2 Pin=C12_R10-1
+Removed Pin From Net: NetName=CELL11 Pin=C12_R11-1
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C12_R8
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C12_R10
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C12_R11
+Change Component DesignItemId : Designator=C12_R9 Old DesignItemId=0402WGF1000TCE New DesignItemId=1206W4F100JT5E
+Change Component Footprint: Designator=C12_R9 Old Footprint=R_0402 New Footprint=R_1206
+Change Component Comment : Designator=C12_R9 Old Comment=0402WGF1000TCE New Comment=1206W4F100JT5E
+Change Component Description : Designator=C12_R9 Old Description=R - RESISTOR - SMD - 100R - 1% - 0402 New Description=R - RESISTOR - SMD - 10R - 1% - 1206
+Change component parameters: Designator = "C12_R9"; Footprint = "R_1206"; UniqueID = "\PKFCKPWA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C17903"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=CELL11 Pin=C12_R9-2

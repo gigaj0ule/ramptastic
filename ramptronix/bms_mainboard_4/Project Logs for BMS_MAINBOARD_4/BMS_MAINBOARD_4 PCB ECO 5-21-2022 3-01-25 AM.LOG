@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=CELL12 Pin=C212-2
+Removed Pin From Net: NetName=CELL12 Pin=C213-2
+Removed Pin From Net: NetName=CELL12 Pin=C215-2
+Removed Pin From Net: NetName=GQBD Pin=QBD_7A-1
+Removed Pin From Net: NetName=PACK+ Pin=QBD_7A-2
+Removed Pin From Net: NetName=GQS Pin=QBD_7A-3
+Removed Pin From Net: NetName=GQBD Pin=QBD_7B-1
+Removed Pin From Net: NetName=CELL12 Pin=QBD_7B-2
+Removed Pin From Net: NetName=GQS Pin=QBD_7B-3
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=QBD_7A
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=QBD_7B
+Added Pin To Net: NetName=CELL14 Pin=C212-2
+Added Pin To Net: NetName=CELL14 Pin=C213-2
+Added Pin To Net: NetName=CELL14 Pin=C215-2
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component QBD_1B NCE60P12K

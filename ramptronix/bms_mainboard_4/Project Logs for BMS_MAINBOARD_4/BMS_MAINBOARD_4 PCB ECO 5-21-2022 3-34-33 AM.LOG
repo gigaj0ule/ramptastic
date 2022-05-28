@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=CELL14 Pin=C212-2
+Removed Pin From Net: NetName=CELL14 Pin=C213-2
+Removed Pin From Net: NetName=CELL14 Pin=C214-2
+Removed Pin From Net: NetName=CELL14 Pin=C215-2
+Added Pin To Net: NetName=CELL12 Pin=C212-2
+Added Pin To Net: NetName=CELL12 Pin=C213-2
+Added Pin To Net: NetName=CELL12 Pin=C214-2
+Added Pin To Net: NetName=CELL12 Pin=C215-2

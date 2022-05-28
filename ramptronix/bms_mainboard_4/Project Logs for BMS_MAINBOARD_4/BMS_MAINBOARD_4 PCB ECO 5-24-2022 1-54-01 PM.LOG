@@ -1,0 +1,67 @@
+Removed Pin From Net: NetName=NetQ200_3 Pin=Ron_d-1
+Removed Pin From Net: NetName=NetRon_b_1 Pin=Ron_d-2
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=Ron_d
+Change Component DesignItemId : Designator=R203 Old DesignItemId=0402WGF1002TCE New DesignItemId=0402WGF1502TCE
+Change Component DesignItemId : Designator=R205 Old DesignItemId=0402WGF1002TCE New DesignItemId=0402WGF2202TCE
+Change Component DesignItemId : Designator=GQBDR Old DesignItemId=0402WGF1003TCE New DesignItemId=0402WGF1002TCE
+Change Component DesignItemId : Designator=R204 Old DesignItemId=0402WGF1003TCE New DesignItemId=0402WGF1002TCE
+Change Component DesignItemId : Designator=R_QHTR3 Old DesignItemId=0402WGF1003TCE New DesignItemId=0402WGF1002TCE
+Change Component DesignItemId : Designator=RBEN Old DesignItemId=0402WGF1003TCE New DesignItemId=0402WGF2202TCE
+Change Component DesignItemId : Designator=Ron_c Old DesignItemId=0402WGF1003TCE New DesignItemId=0402WGF4702TCE
+Change Component DesignItemId : Designator=R202 Old DesignItemId=0402WGF3301TCE New DesignItemId=0402WGF3901TCE
+Change Component Comment : Designator=R203 Old Comment=0402WGF1002TCE New Comment=0402WGF1502TCE
+Change Component Comment : Designator=R205 Old Comment=0402WGF1002TCE New Comment=0402WGF2202TCE
+Change Component Comment : Designator=GQBDR Old Comment=0402WGF1003TCE New Comment=0402WGF1002TCE
+Change Component Comment : Designator=R204 Old Comment=0402WGF1003TCE New Comment=0402WGF1002TCE
+Change Component Comment : Designator=R_QHTR3 Old Comment=0402WGF1003TCE New Comment=0402WGF1002TCE
+Change Component Comment : Designator=RBEN Old Comment=0402WGF1003TCE New Comment=0402WGF2202TCE
+Change Component Comment : Designator=Ron_c Old Comment=0402WGF1003TCE New Comment=0402WGF4702TCE
+Change Component Comment : Designator=R202 Old Comment=0402WGF3301TCE New Comment=0402WGF3901TCE
+Change Component Description : Designator=R202 Old Description=R - RESISTOR - SMD - 3.3k - 1% - 0402 New Description=R - RESISTOR - SMD - 3.9k - 1% - 0402
+Change Component Description : Designator=R203 Old Description=R - RESISTOR - SMD - 10k - 1% - 0402 New Description=R - RESISTOR - SMD - 15k - 1% - 0402
+Change Component Description : Designator=R205 Old Description=R - RESISTOR - SMD - 10k - 1% - 0402 New Description=R - RESISTOR - SMD - 22k - 1% - 0402
+Change Component Description : Designator=GQBDR Old Description=R - RESISTOR - SMD - 100k - 1% -  0402 New Description=R - RESISTOR - SMD - 10k - 1% - 0402
+Change Component Description : Designator=R204 Old Description=R - RESISTOR - SMD - 100k - 1% -  0402 New Description=R - RESISTOR - SMD - 10k - 1% - 0402
+Change Component Description : Designator=R_QHTR3 Old Description=R - RESISTOR - SMD - 100k - 1% -  0402 New Description=R - RESISTOR - SMD - 10k - 1% - 0402
+Change Component Description : Designator=RBEN Old Description=R - RESISTOR - SMD - 100k - 1% -  0402 New Description=R - RESISTOR - SMD - 22k - 1% - 0402
+Change Component Description : Designator=Ron_c Old Description=R - RESISTOR - SMD - 100k - 1% -  0402 New Description=R - RESISTOR - SMD - 47k - 1% - 0402
+Change component parameters: Designator = "GQBDR"; Footprint = "R_0402"; UniqueID = "\WOGNSLRG"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C25744"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R202"; Footprint = "R_0402"; UniqueID = "\UJJTJVTS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C51721"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "3.9k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R203"; Footprint = "R_0402"; UniqueID = "\HQKGETGK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C25756"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "15k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R204"; Footprint = "R_0402"; UniqueID = "\UDREIGNX"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C25744"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R205"; Footprint = "R_0402"; UniqueID = "\NINJCJVV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C25768"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "22k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R_QHTR3"; Footprint = "R_0402"; UniqueID = "\NWSKRHEV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C25744"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "RBEN"; Footprint = "R_0402"; UniqueID = "\EQVWOXSO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C25768"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "22k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Ron_c"; Footprint = "R_0402"; UniqueID = "\KUJAVDMQ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C25792"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "47k"; VariantName = "[No Variations]"

@@ -1,0 +1,10 @@
+Change Physical Footprint: Designator=C2_Q1 Old Footprint=TO-236AB New Footprint=TO-236AB
+Change Physical Footprint: Designator=J1 Old Footprint=Keystone 1048 New Footprint=Keystone 1048
+Change Physical Footprint: Designator=J2 Old Footprint=Keystone 1048 New Footprint=Keystone 1048
+Change Physical Footprint: Designator=J3 Old Footprint=Keystone 1048 New Footprint=Keystone 1048
+Change Physical Footprint: Designator=J4 Old Footprint=Keystone 1048 New Footprint=Keystone 1048
+Change Physical Footprint: Designator=J5 Old Footprint=Keystone 1048 New Footprint=Keystone 1048
+Change Physical Footprint: Designator=J6 Old Footprint=Keystone 1048 New Footprint=Keystone 1048
+Change Physical Footprint: Designator=J7 Old Footprint=Keystone 1048 New Footprint=Keystone 1048
+Change Physical Footprint: Designator=U0 Old Footprint=QFP-64-P0.5MM New Footprint=QFP-64-P0.5MM
+Change Physical Footprint: Designator=U100 Old Footprint=QFP-48-P0.5MM New Footprint=QFP-48-P0.5MM

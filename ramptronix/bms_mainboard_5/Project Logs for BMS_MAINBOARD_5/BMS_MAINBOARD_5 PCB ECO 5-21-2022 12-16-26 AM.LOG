@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=GND Pin=C301-1
+Removed Pin From Net: NetName=CELL_SUM_V_FILTER Pin=C301-2
+Removed Pin From Net: NetName=CELL_SUM_V_FILTER Pin=R300-1
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C301
+Change Component Comment : Designator=R900 Old Comment=0402WGF1001TCE New Comment=0402WGF1000TCE
+Change component parameters: Designator = "R900"; Footprint = "R_0402"; UniqueID = "\BBHULUKC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C25076"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3V3_SW Pin=R300-2
+Added Pin To Net: NetName=NetR300_1 Pin=R300-1
+Added Pin To Net: NetName=NetR300_1 Pin=U300-1
+Added Net: Name=NetR300_1

@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=CELL_14_SUM_V Pin=U300-18
+Change Net Name : Old Net Name=CELL_13_SUM_V New Net Name=VREF_SAMPLE
+Added Pin To Net: NetName=VREF_ACTUAL Pin=U300-18
+Added Net: Name=VREF_ACTUAL

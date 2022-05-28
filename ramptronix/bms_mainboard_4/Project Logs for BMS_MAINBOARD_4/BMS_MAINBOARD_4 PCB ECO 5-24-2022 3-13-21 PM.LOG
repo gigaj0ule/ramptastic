@@ -1,0 +1,38 @@
+Removed Pin From Net: NetName=NetC9_D5_2 Pin=C9_R10-1
+Removed Pin From Net: NetName=NetC9_R8_1 Pin=C9_R10-2
+Removed Pin From Net: NetName=CELL8 Pin=C9_R11-1
+Removed Pin From Net: NetName=NetC9_R8_1 Pin=C9_R11-2
+Removed Pin From Net: NetName=CELL9 Pin=C10_R8-2
+Removed Pin From Net: NetName=NetC10_D5_2 Pin=C10_R10-1
+Removed Pin From Net: NetName=CELL9 Pin=C10_R11-1
+Removed Pin From Net: NetName=CELL10 Pin=C11_R8-2
+Removed Pin From Net: NetName=NetC11_D5_2 Pin=C11_R10-1
+Removed Pin From Net: NetName=CELL10 Pin=C11_R11-1
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C9_R10
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C9_R11
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C10_R8
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C10_R10
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C10_R11
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C11_R8
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C11_R10
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C11_R11
+Change Component DesignItemId : Designator=C10_R9 Old DesignItemId=0402WGF1000TCE New DesignItemId=1206W4F100JT5E
+Change Component DesignItemId : Designator=C11_R9 Old DesignItemId=0402WGF1000TCE New DesignItemId=1206W4F100JT5E
+Change Component Footprint: Designator=C10_R9 Old Footprint=R_0402 New Footprint=R_1206
+Change Component Footprint: Designator=C11_R9 Old Footprint=R_0402 New Footprint=R_1206
+Change Component Comment : Designator=C10_R9 Old Comment=0402WGF1000TCE New Comment=1206W4F100JT5E
+Change Component Comment : Designator=C11_R9 Old Comment=0402WGF1000TCE New Comment=1206W4F100JT5E
+Change Component Description : Designator=C10_R9 Old Description=R - RESISTOR - SMD - 100R - 1% - 0402 New Description=R - RESISTOR - SMD - 10R - 1% - 1206
+Change Component Description : Designator=C11_R9 Old Description=R - RESISTOR - SMD - 100R - 1% - 0402 New Description=R - RESISTOR - SMD - 10R - 1% - 1206
+Change component parameters: Designator = "C10_R9"; Footprint = "R_1206"; UniqueID = "\NMUCOBTL"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C17903"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C11_R9"; Footprint = "R_1206"; UniqueID = "\DRTUVJWB"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C17903"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=CELL9 Pin=C10_R9-2
+Added Pin To Net: NetName=CELL10 Pin=C11_R9-2

@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=EN_V_ADC Pin=U0-56
+Removed Pin From Net: NetName=EN_V_ADC Pin=U100-40
+Added Pin To Net: NetName=EN_BAL Pin=U0-56
+Added Pin To Net: NetName=EN_V_ADC Pin=U0-57
+Added Pin To Net: NetName=TS_EN_a Pin=U100-40
+Added Pin To Net: NetName=TS_EN_b Pin=U100-41
