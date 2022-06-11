@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=SRP Pin=U100-42
+Removed Pin From Net: NetName=SRN Pin=U100-43
+Added Pin To Net: NetName=SRN_1 Pin=U100-43
+Added Net: Name=SRN_1
+Added Pin To Net: NetName=SRP_1 Pin=U100-42
+Added Net: Name=SRP_1
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component U100 BQ7694002DBTR

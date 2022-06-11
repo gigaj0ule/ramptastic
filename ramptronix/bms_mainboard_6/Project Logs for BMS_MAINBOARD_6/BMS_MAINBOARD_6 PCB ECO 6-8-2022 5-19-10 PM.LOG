@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=A_GND Pin=C501-1
+Removed Pin From Net: NetName=TS_MULTIPLEXED Pin=R500-2
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C501
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=R500
+Added Pin To Net: NetName=TS_MULTIPLEXED Pin=U0-26
+Added Pin To Net: NetName=TS_MULTIPLEXED Pin=U100-18

@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=BAT Pin=10x_D1-1
+Removed Pin From Net: NetName=Net10x_D1_2 Pin=10x_D1-2
+Change Component Footprint: Designator=10x_D1 Old Footprint=DO-213AA New Footprint=SOD-323
+Change Component Comment : Designator=10x_D1 Old Comment=ZMM5V6-M New Comment=1N4148WS
+Change component parameters: Designator = "10x_D1"; Footprint = "SOD-323"; UniqueID = "\DOXPPYLG"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "If"; Value = "150mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C2128"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PIV"; Value = "100V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Trr"; Value = "4ns"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Net10x_D1_2 Pin=10x_D1-1
+Added Pin To Net: NetName=VC10x Pin=10x_D1-2
+Change Net Name : Old Net Name=Net10x_D1_2 New Net Name=Net10x_D1_1

@@ -1,0 +1,11 @@
+Change Component Designator: OldDesignator=U? NewDesignator=U100
+Added Component: Designator=R10(R_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C25744"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=AFE_WAKE Pin=R10-1
+Added Pin To Net: NetName=GND Pin=R10-2
+Added Pin To Net: NetName=VC5x Pin=U100-13
+Added Pin To Net: NetName=VC10x Pin=U100-18
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component R10 0402WGF1002TCE

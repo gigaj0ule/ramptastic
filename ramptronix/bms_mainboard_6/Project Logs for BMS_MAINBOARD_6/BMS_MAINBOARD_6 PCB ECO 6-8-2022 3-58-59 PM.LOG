@@ -1,0 +1,88 @@
+Removed Pin From Net: NetName=CELL2_FP Pin=C_C3-1
+Removed Pin From Net: NetName=CELL2_FP Pin=R_C3-2
+Removed Pin From Net: NetName=CELL2_FP Pin=R_C3B-1
+Removed Pin From Net: NetName=CELL2_FP Pin=R_C4-2
+Removed Pin From Net: NetName=NetR_C6_1 Pin=R_C6-1
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=NT_CSHORT?
+Change Component Designator: OldDesignator=CC? NewDesignator=R_C15
+Change Component Designator: OldDesignator=R_C6 NewDesignator=R_C5X
+Change Component Designator: OldDesignator=RC? NewDesignator=R_C6
+Change Component Designator: OldDesignator=RC? NewDesignator=R_C7
+Change Component Designator: OldDesignator=RC? NewDesignator=R_C8
+Change Component Designator: OldDesignator=RC? NewDesignator=R_C9
+Change Component Designator: OldDesignator=RC? NewDesignator=R_C10
+Change Component Designator: OldDesignator=RC? NewDesignator=R_C10X
+Change Component Designator: OldDesignator=RC? NewDesignator=R_C11
+Change Component Designator: OldDesignator=RC? NewDesignator=R_C12
+Change Component Designator: OldDesignator=RC? NewDesignator=R_C13
+Change Component Designator: OldDesignator=RC? NewDesignator=R_C14
+Added Pin To Net: NetName=CELL4_FP Pin=C_C5-2
+Added Pin To Net: NetName=CELL5_FP Pin=C_C6-2
+Added Pin To Net: NetName=CELL6_FP Pin=C_C7-2
+Added Pin To Net: NetName=CELL7_FP Pin=C_C8-2
+Added Pin To Net: NetName=CELL8_FP Pin=C_C9-2
+Added Pin To Net: NetName=CELL9_FP Pin=C_C10-2
+Added Pin To Net: NetName=CELL10_FP Pin=C_C11-2
+Added Pin To Net: NetName=CELL11_FP Pin=C_C12-2
+Added Pin To Net: NetName=CELL4_FP Pin=R_C5A-1
+Added Pin To Net: NetName=NetR_C6_1 Pin=R_C6-1
+Added Pin To Net: NetName=CELL5_FP Pin=R_C6-2
+Added Pin To Net: NetName=CELL5_FP Pin=R_C6A-1
+Added Pin To Net: NetName=CELL6_FP Pin=R_C7-2
+Added Pin To Net: NetName=CELL6_FP Pin=R_C7A-1
+Added Pin To Net: NetName=CELL7_FP Pin=R_C8-2
+Added Pin To Net: NetName=CELL7_FP Pin=R_C8A-1
+Added Pin To Net: NetName=CELL7_FP Pin=R_C9-2
+Added Pin To Net: NetName=CELL8_FP Pin=R_C9A-1
+Added Pin To Net: NetName=CELL8_FP Pin=R_C10-2
+Added Pin To Net: NetName=CELL9_FP Pin=R_C10A-1
+Added Pin To Net: NetName=CELL8_FP Pin=R_C10X-2
+Added Pin To Net: NetName=CELL9_FP Pin=R_C11-2
+Added Pin To Net: NetName=CELL10_FP Pin=R_C11A-1
+Added Pin To Net: NetName=CELL10_FP Pin=R_C12-2
+Added Pin To Net: NetName=CELL11_FP Pin=R_C12A-1
+Added Pin To Net: NetName=CELL11_FP Pin=R_C13-2
+Added Pin To Net: NetName=CELL11_FP Pin=R_C14-2
+Added Pin To Net: NetName=CELL12_FP Pin=R_C15-2
+Added Pin To Net: NetName=CELL3_FP Pin=C_C3-1
+Added Pin To Net: NetName=CELL3_FP Pin=C_C4-2
+Added Pin To Net: NetName=CELL3_FP Pin=R_C3-2
+Added Pin To Net: NetName=CELL3_FP Pin=R_C3B-1
+Added Pin To Net: NetName=CELL3_FP Pin=R_C4-2
+Added Pin To Net: NetName=CELL3_FP Pin=R_C4A-1
+Added Net: Name=CELL3_FP
+Added Pin To Net: NetName=NetDC_BAT_2 Pin=DC_BAT-2
+Added Pin To Net: NetName=NetDC_BAT_2 Pin=R_C15-1
+Added Net: Name=NetDC_BAT_2
+Added Pin To Net: NetName=NetR_C5_1 Pin=R_C5-1
+Added Net: Name=NetR_C5_1
+Added Pin To Net: NetName=NetR_C5X_1 Pin=R_C5X-1
+Added Net: Name=NetR_C5X_1
+Added Pin To Net: NetName=NetR_C7_1 Pin=R_C7-1
+Added Net: Name=NetR_C7_1
+Added Pin To Net: NetName=NetR_C8_1 Pin=R_C8-1
+Added Net: Name=NetR_C8_1
+Added Pin To Net: NetName=NetR_C9_1 Pin=R_C9-1
+Added Net: Name=NetR_C9_1
+Added Pin To Net: NetName=NetR_C10_1 Pin=R_C10-1
+Added Net: Name=NetR_C10_1
+Added Pin To Net: NetName=NetR_C10X_1 Pin=R_C10X-1
+Added Net: Name=NetR_C10X_1
+Added Pin To Net: NetName=NetR_C11_1 Pin=R_C11-1
+Added Net: Name=NetR_C11_1
+Added Pin To Net: NetName=NetR_C12_1 Pin=R_C12-1
+Added Net: Name=NetR_C12_1
+Added Pin To Net: NetName=NetR_C13_1 Pin=R_C13-1
+Added Net: Name=NetR_C13_1
+Added Pin To Net: NetName=NetR_C14_1 Pin=R_C14-1
+Added Net: Name=NetR_C14_1
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component CR? CL05A105KA5NQNC
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component R_C7 0402WGF1001TCE
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component R_C8 0402WGF1001TCE
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component R_C9 0402WGF1001TCE
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component R_C10 0402WGF1001TCE
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component R_C10X 0402WGF1001TCE
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component R_C11 0402WGF1001TCE
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component R_C12 0402WGF1001TCE
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component R_C13 0402WGF1001TCE
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component R_C14 0402WGF1001TCE

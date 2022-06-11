@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=VC10 Pin=5x_Q1-2
+Removed Pin From Net: NetName=VC10 Pin=5x_R1-1
+Added Pin To Net: NetName=VC10x Pin=5x_Q1-2
+Added Pin To Net: NetName=VC10x Pin=5x_R1-1

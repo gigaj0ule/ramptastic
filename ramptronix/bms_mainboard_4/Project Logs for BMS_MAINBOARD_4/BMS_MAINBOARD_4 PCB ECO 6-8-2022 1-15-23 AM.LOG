@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=TS_15 Pin=NT2-1
+Removed Pin From Net: NetName=VDDA Pin=NT2-2
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=NT2
+Added Component: Designator=R_NT(R_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C17168"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=TS_15 Pin=R_NT-1
+Added Pin To Net: NetName=VDDA Pin=R_NT-2
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component R_NT 0402WGF0000TCE

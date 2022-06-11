@@ -1,0 +1,37 @@
+Change Component Designator: OldDesignator=RC? NewDesignator=R_C0
+Change Component Designator: OldDesignator=RC? NewDesignator=R_C1
+Change Component Designator: OldDesignator=RC? NewDesignator=R_C2
+Change Component Designator: OldDesignator=RC? NewDesignator=R_C3
+Added Pin To Net: NetName=CELL1_FP Pin=C_C2-2
+Added Pin To Net: NetName=CELL2_FP Pin=C_C3-2
+Added Pin To Net: NetName=CELL1_FN Pin=R_C0-2
+Added Pin To Net: NetName=CELL1_FP Pin=R_C1-2
+Added Pin To Net: NetName=CELL2_FP Pin=R_C2-2
+Added Pin To Net: NetName=CELL1_FP Pin=R_C2A-1
+Added Pin To Net: NetName=CELL3_FP Pin=R_C3-2
+Added Pin To Net: NetName=CELL2_FP Pin=R_C3A-1
+Added Pin To Net: NetName=NetR_C0_1 Pin=R_C0-1
+Added Net: Name=NetR_C0_1
+Added Pin To Net: NetName=NetR_C1_1 Pin=R_C1-1
+Added Net: Name=NetR_C1_1
+Added Pin To Net: NetName=NetR_C2_1 Pin=R_C2-1
+Added Net: Name=NetR_C2_1
+Added Pin To Net: NetName=NetR_C3_1 Pin=R_C3-1
+Added Net: Name=NetR_C3_1
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component CR? CL05A105KA5NQNC
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component R_C1 0402WGF1001TCE
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component R_C2 0402WGF1001TCE
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component R_C3 0402WGF1001TCE
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component RC? 0402WGF1001TCE
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component RC? 0402WGF1001TCE
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component RC? 0402WGF1001TCE
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component RC? 0402WGF1001TCE
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component RC? 0402WGF1001TCE
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component RC? 0402WGF1001TCE
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component RC? 0402WGF1001TCE
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component RC? 0402WGF1001TCE
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component RC? 0402WGF1001TCE
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component RC? 0402WGF1001TCE
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component RC? 0402WGF1001TCE
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component RC? 0402WGF1001TCE
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component RC? 0402WGF1001TCE

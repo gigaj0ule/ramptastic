@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=GND Pin=C1008-1
+Removed Pin From Net: NetName=V_EXCITER Pin=C1008-2
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C1008

@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=TS_EN_b Pin=TSQ1b-1
+Added Pin To Net: NetName=TS_A_GND Pin=TSQ1b-1

@@ -1,0 +1,16 @@
+Added Pin To Net: NetName=CELL2_FP Pin=C_C3-1
+Added Pin To Net: NetName=CELL2_FP Pin=R_C3-2
+Added Pin To Net: NetName=CELL2_FP Pin=R_C3B-1
+Added Pin To Net: NetName=CELL2_FP Pin=R_C4-2
+Added Pin To Net: NetName=CELL4_FP Pin=R_C5-2
+Added Pin To Net: NetName=CELL4_FP Pin=R_C6-2
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component CR? CL05A105KA5NQNC
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component RC? 0402WGF1001TCE
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component RC? 0402WGF1001TCE
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component RC? 0402WGF1001TCE
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component RC? 0402WGF1001TCE
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component RC? 0402WGF1001TCE
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component RC? 0402WGF1001TCE
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component RC? 0402WGF1001TCE
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component RC? 0402WGF1001TCE
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component RC? 0402WGF1001TCE

@@ -1,0 +1,43 @@
+Removed Pin From Net: NetName=GND Pin=C1000-1
+Removed Pin From Net: NetName=+12V Pin=C1000-2
+Removed Pin From Net: NetName=GND Pin=C1004-1
+Removed Pin From Net: NetName=GND Pin=C1005-1
+Removed Pin From Net: NetName=GND Pin=C1006-1
+Removed Pin From Net: NetName=GND Pin=C1007-1
+Removed Pin From Net: NetName=EXCITER Pin=Q_EX_1-2
+Removed Pin From Net: NetName=GND Pin=Q_EX_1-3
+Removed Pin From Net: NetName=EXCITER Pin=Q_EX_2-2
+Removed Pin From Net: NetName=EXCITER_DRV Pin=Q_EX_3-1
+Removed Pin From Net: NetName=GND Pin=Q_EX_3-2
+Removed Pin From Net: NetName=GND Pin=R1002-1
+Removed Pin From Net: NetName=+12V Pin=U1000-3
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C1000
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C1004
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C1005
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C1006
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C1007
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=Q_EX_1
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=Q_EX_2
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=Q_EX_3
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=R1001
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=R1002
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=R1003
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=R_EX_1
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=U1000
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component CR? CL05A105KA5NQNC
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component RC? 0402WGF1001TCE
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component RC? 0402WGF1001TCE
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component RC? 0402WGF1001TCE
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component RC? 0402WGF1001TCE
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component RC? 0402WGF1001TCE
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component RC? 0402WGF1001TCE
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component RC? 0402WGF1001TCE
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component RC? 0402WGF1001TCE
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component RC? 0402WGF1001TCE
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component RC? 0402WGF1001TCE
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component RC? 0402WGF1001TCE
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component RC? 0402WGF1001TCE
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component RC? 0402WGF1001TCE
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component RC? 0402WGF1001TCE
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component RC? 0402WGF1001TCE
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component RC? 0402WGF1001TCE

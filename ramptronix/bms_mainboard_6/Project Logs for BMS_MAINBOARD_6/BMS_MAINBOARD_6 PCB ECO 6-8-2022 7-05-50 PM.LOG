@@ -1,0 +1,46 @@
+Added Component: Designator=QSHUNT?(TO-236AB)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C8545"; VariantName = "[No Variations]"
+Added Component: Designator=REGSRC_D1(SOD-323)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "If"; Value = "150mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C2128"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PIV"; Value = "100V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Trr"; Value = "4ns"; VariantName = "[No Variations]"
+Added Component: Designator=REGSRC_R1(R_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C25741"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Added Component: Designator=REGSRC_R2(R_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C25076"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100R"; VariantName = "[No Variations]"
+Added Component: Designator=REGSRC_R3(R_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C25741"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=REGSRC Pin=REGSRC_R2-1
+Added Pin To Net: NetName=VC5x Pin=REGSRC_R3-1
+Added Pin To Net: NetName=C15 Pin=QSHUNT?-3
+Added Net: Name=C15
+Added Pin To Net: NetName=NetQSHUNT?_1 Pin=QSHUNT?-1
+Added Pin To Net: NetName=NetQSHUNT?_1 Pin=REGSRC_R3-2
+Added Net: Name=NetQSHUNT?_1
+Added Pin To Net: NetName=NetQSHUNT?_2 Pin=QSHUNT?-2
+Added Pin To Net: NetName=NetQSHUNT?_2 Pin=REGSRC_D1-2
+Added Pin To Net: NetName=NetQSHUNT?_2 Pin=REGSRC_R1-2
+Added Net: Name=NetQSHUNT?_2
+Added Pin To Net: NetName=NetREGSRC_D1_1 Pin=REGSRC_D1-1
+Added Pin To Net: NetName=NetREGSRC_D1_1 Pin=REGSRC_R1-1
+Added Pin To Net: NetName=NetREGSRC_D1_1 Pin=REGSRC_R2-2
+Added Net: Name=NetREGSRC_D1_1
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component QSHUNT? 2N7002
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component REGSRC_D1 N4148WS
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component REGSRC_R1 0402WGF1003TCE
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component REGSRC_R2 0402WGF1000TCE
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component REGSRC_R3 0402WGF1003TCE

@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=VDDA Pin=NT2-1
+Removed Pin From Net: NetName=VDDA Pin=U500-16
+Added Pin To Net: NetName=TS_15 Pin=NT2-1
+Added Pin To Net: NetName=TS_15 Pin=U500-16

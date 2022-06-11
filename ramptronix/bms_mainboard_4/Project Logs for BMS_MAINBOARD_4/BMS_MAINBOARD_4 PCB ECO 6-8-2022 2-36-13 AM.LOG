@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=+5V Pin=D_USB-1
+Removed Pin From Net: NetName=VCC_USB Pin=D_USB-2
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=D_USB

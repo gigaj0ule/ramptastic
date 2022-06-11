@@ -1,0 +1,7 @@
+Change Component Designator: OldDesignator=CR? NewDesignator=C_R1
+Change Component Designator: OldDesignator=CR? NewDesignator=C_R2
+Added Pin To Net: NetName=+3V3 Pin=R_SCL-1
+Added Pin To Net: NetName=B_SCL Pin=R_SCL-2
+Added Pin To Net: NetName=+3V3 Pin=R_SDA-1
+Added Pin To Net: NetName=B_SDA Pin=R_SDA-2
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component C_R2 CL05A105KA5NQNC

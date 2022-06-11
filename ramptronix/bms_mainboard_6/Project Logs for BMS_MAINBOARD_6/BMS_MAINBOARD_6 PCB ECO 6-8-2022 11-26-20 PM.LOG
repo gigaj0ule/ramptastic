@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=VC5x Pin=U100-13
+Removed Pin From Net: NetName=VC10x Pin=U100-18
+Added Component: Designator=R11(R_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C25744"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R13(R_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C25744"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VC5x Pin=R11-2
+Added Pin To Net: NetName=VC10x Pin=R13-2
+Added Pin To Net: NetName=NetR11_1 Pin=R11-1
+Added Pin To Net: NetName=NetR11_1 Pin=U100-13
+Added Net: Name=NetR11_1
+Added Pin To Net: NetName=NetR13_1 Pin=R13-1
+Added Pin To Net: NetName=NetR13_1 Pin=U100-18
+Added Net: Name=NetR13_1
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component R11 0402WGF1002TCE
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component R13 0402WGF1002TCE
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component U100 BQ7694002DBTR

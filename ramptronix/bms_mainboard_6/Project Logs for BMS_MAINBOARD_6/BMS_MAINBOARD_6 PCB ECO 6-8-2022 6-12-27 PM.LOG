@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=GND Pin=C600-1
+Removed Pin From Net: NetName=+12V Pin=C600-2
+Removed Pin From Net: NetName=GND Pin=C601-1
+Removed Pin From Net: NetName=GND Pin=C602-1
+Removed Pin From Net: NetName=GND Pin=C603-1
+Removed Pin From Net: NetName=+12V Pin=U600-1
+Removed Pin From Net: NetName=GND Pin=U600-2
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C600
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C601
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C602
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C603
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=R3V0
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=U600
+Added Pin To Net: NetName=+12V Pin=C700-2
+Added Pin To Net: NetName=+12V Pin=C701-2
+Added Pin To Net: NetName=+12V Pin=C702-2
+Added Pin To Net: NetName=+12V Pin=U700-3

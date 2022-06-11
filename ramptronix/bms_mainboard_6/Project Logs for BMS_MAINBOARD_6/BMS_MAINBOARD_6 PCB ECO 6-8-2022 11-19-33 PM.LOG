@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=AFE_ALERT Pin=U100-40
+Added Pin To Net: NetName=AFE_ALERT Pin=U0-4
+Added Pin To Net: NetName=AFE_RESET Pin=U0-56
+Added Pin To Net: NetName=AFE_ALERT Pin=U100-4
+Added Pin To Net: NetName=AFE_RESET Pin=U100-40
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component U100 BQ7694002DBTR

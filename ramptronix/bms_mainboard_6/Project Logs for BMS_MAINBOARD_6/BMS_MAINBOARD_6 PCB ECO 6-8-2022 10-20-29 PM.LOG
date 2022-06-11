@@ -1,0 +1,22 @@
+Added Component: Designator=5x_D2(SOD-323)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "If"; Value = "150mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C2128"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PIV"; Value = "100V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Trr"; Value = "4ns"; VariantName = "[No Variations]"
+Added Component: Designator=10x_D2(SOD-323)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "If"; Value = "150mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C2128"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PIV"; Value = "100V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Trr"; Value = "4ns"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Net5x_D2_2 Pin=5x_D2-2
+Added Pin To Net: NetName=Net5x_D2_2 Pin=5x_R2-2
+Added Net: Name=Net5x_D2_2
+Added Pin To Net: NetName=Net10x_D2_2 Pin=10x_D2-2
+Added Pin To Net: NetName=Net10x_D2_2 Pin=10x_R2-2
+Added Net: Name=Net10x_D2_2
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component 5x_D2 1N4148WS
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component 10x_D2 1N4148WS

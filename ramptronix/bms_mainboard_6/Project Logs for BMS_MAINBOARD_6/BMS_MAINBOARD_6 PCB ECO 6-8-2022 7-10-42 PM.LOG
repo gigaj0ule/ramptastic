@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=QSHUNT? NewDesignator=REGSRC_Q1
+Added Pin To Net: NetName=CELL12 Pin=REGSRC_Q1-3
+Change Net Name : Old Net Name=NetQSHUNT?_1 New Net Name=NetREGSRC_Q1_1
+Change Net Name : Old Net Name=NetQSHUNT?_2 New Net Name=NetREGSRC_D1_2

@@ -1,0 +1,21 @@
+Change Component Designator: OldDesignator=RC? NewDesignator=R_C4
+Change Component Designator: OldDesignator=RC? NewDesignator=R_C5
+Change Component Designator: OldDesignator=RC? NewDesignator=R_C6
+Added Pin To Net: NetName=CELL3_FP Pin=R_C4-2
+Added Pin To Net: NetName=NetR_C4_1 Pin=R_C4-1
+Added Net: Name=NetR_C4_1
+Added Pin To Net: NetName=NetR_C6_1 Pin=R_C6-1
+Added Net: Name=NetR_C6_1
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component CR? CL05A105KA5NQNC
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component R_C5 0402WGF1001TCE
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component R_C6 0402WGF1001TCE
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component RC? 0402WGF1001TCE
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component RC? 0402WGF1001TCE
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component RC? 0402WGF1001TCE
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component RC? 0402WGF1001TCE
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component RC? 0402WGF1001TCE
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component RC? 0402WGF1001TCE
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component RC? 0402WGF1001TCE
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component RC? 0402WGF1001TCE
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component RC? 0402WGF1001TCE
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component RC? 0402WGF1001TCE

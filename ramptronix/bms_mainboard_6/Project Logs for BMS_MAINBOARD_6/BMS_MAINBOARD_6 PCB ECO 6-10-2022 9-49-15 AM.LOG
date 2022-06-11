@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=SRP Pin=U100-42
+Added Pin To Net: NetName=SRN Pin=U100-43
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component U100 BQ7694002DBTR

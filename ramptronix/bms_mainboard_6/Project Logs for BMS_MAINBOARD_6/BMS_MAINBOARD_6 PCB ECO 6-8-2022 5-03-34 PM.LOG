@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GND Pin=C_R2-2
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C_R2
+Added Pin To Net: NetName=REGOUT Pin=C_R1-1
+Added Pin To Net: NetName=REGOUT Pin=U?-8
+Added Net: Name=REGOUT

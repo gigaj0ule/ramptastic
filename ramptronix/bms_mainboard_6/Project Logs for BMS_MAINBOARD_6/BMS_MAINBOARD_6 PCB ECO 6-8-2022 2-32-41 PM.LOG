@@ -1,0 +1,623 @@
+Removed Pin From Net: NetName=GND Pin=C1_C4-1
+Removed Pin From Net: NetName=CELL1_FP Pin=C1_D1-1
+Removed Pin From Net: NetName=CELL1_FN Pin=C1_D2-2
+Removed Pin From Net: NetName=GND Pin=C1_D4-2
+Removed Pin From Net: NetName=EXCITER Pin=C1_R5-2
+Removed Pin From Net: NetName=GND Pin=C1_R6-2
+Removed Pin From Net: NetName=GND Pin=C1_R7-2
+Removed Pin From Net: NetName=B- Pin=C1_R9-2
+Removed Pin From Net: NetName=GND Pin=C2_C4-1
+Removed Pin From Net: NetName=CELL2_FP Pin=C2_D1-1
+Removed Pin From Net: NetName=CELL2_FN Pin=C2_D2-2
+Removed Pin From Net: NetName=GND Pin=C2_D4-2
+Removed Pin From Net: NetName=EXCITER Pin=C2_R5-2
+Removed Pin From Net: NetName=GND Pin=C2_R6-2
+Removed Pin From Net: NetName=GND Pin=C2_R7-2
+Removed Pin From Net: NetName=CELL1 Pin=C2_R9-2
+Removed Pin From Net: NetName=GND Pin=C3_C4-1
+Removed Pin From Net: NetName=CELL3_FP Pin=C3_D1-1
+Removed Pin From Net: NetName=CELL3_FN Pin=C3_D2-2
+Removed Pin From Net: NetName=GND Pin=C3_D4-2
+Removed Pin From Net: NetName=EXCITER Pin=C3_R5-2
+Removed Pin From Net: NetName=GND Pin=C3_R6-2
+Removed Pin From Net: NetName=GND Pin=C3_R7-2
+Removed Pin From Net: NetName=CELL2 Pin=C3_R9-2
+Removed Pin From Net: NetName=GND Pin=C4_C4-1
+Removed Pin From Net: NetName=CELL4_FP Pin=C4_D1-1
+Removed Pin From Net: NetName=CELL4_FN Pin=C4_D2-2
+Removed Pin From Net: NetName=GND Pin=C4_D4-2
+Removed Pin From Net: NetName=EXCITER Pin=C4_R5-2
+Removed Pin From Net: NetName=GND Pin=C4_R6-2
+Removed Pin From Net: NetName=GND Pin=C4_R7-2
+Removed Pin From Net: NetName=CELL3 Pin=C4_R9-2
+Removed Pin From Net: NetName=GND Pin=C5_C4-1
+Removed Pin From Net: NetName=CELL5_FP Pin=C5_D1-1
+Removed Pin From Net: NetName=CELL5_FN Pin=C5_D2-2
+Removed Pin From Net: NetName=GND Pin=C5_D4-2
+Removed Pin From Net: NetName=EXCITER Pin=C5_R5-2
+Removed Pin From Net: NetName=GND Pin=C5_R6-2
+Removed Pin From Net: NetName=GND Pin=C5_R7-2
+Removed Pin From Net: NetName=CELL4 Pin=C5_R9-2
+Removed Pin From Net: NetName=GND Pin=C6_C4-1
+Removed Pin From Net: NetName=CELL6_FP Pin=C6_D1-1
+Removed Pin From Net: NetName=CELL6_FN Pin=C6_D2-2
+Removed Pin From Net: NetName=GND Pin=C6_D4-2
+Removed Pin From Net: NetName=EXCITER Pin=C6_R5-2
+Removed Pin From Net: NetName=GND Pin=C6_R6-2
+Removed Pin From Net: NetName=GND Pin=C6_R7-2
+Removed Pin From Net: NetName=CELL5 Pin=C6_R9-2
+Removed Pin From Net: NetName=GND Pin=C7_C4-1
+Removed Pin From Net: NetName=CELL7_FP Pin=C7_D1-1
+Removed Pin From Net: NetName=CELL7_FN Pin=C7_D2-2
+Removed Pin From Net: NetName=GND Pin=C7_D4-2
+Removed Pin From Net: NetName=EXCITER Pin=C7_R5-2
+Removed Pin From Net: NetName=GND Pin=C7_R6-2
+Removed Pin From Net: NetName=GND Pin=C7_R7-2
+Removed Pin From Net: NetName=CELL6 Pin=C7_R9-2
+Removed Pin From Net: NetName=GND Pin=C8_C4-1
+Removed Pin From Net: NetName=CELL8_FP Pin=C8_D1-1
+Removed Pin From Net: NetName=CELL8_FN Pin=C8_D2-2
+Removed Pin From Net: NetName=GND Pin=C8_D4-2
+Removed Pin From Net: NetName=EXCITER Pin=C8_R5-2
+Removed Pin From Net: NetName=GND Pin=C8_R6-2
+Removed Pin From Net: NetName=GND Pin=C8_R7-2
+Removed Pin From Net: NetName=CELL7 Pin=C8_R9-2
+Removed Pin From Net: NetName=GND Pin=C9_C4-1
+Removed Pin From Net: NetName=CELL9_FP Pin=C9_D1-1
+Removed Pin From Net: NetName=CELL9_FN Pin=C9_D2-2
+Removed Pin From Net: NetName=GND Pin=C9_D4-2
+Removed Pin From Net: NetName=EXCITER Pin=C9_R5-2
+Removed Pin From Net: NetName=GND Pin=C9_R6-2
+Removed Pin From Net: NetName=GND Pin=C9_R7-2
+Removed Pin From Net: NetName=CELL8 Pin=C9_R9-2
+Removed Pin From Net: NetName=GND Pin=C10_C4-1
+Removed Pin From Net: NetName=CELL10_FP Pin=C10_D1-1
+Removed Pin From Net: NetName=CELL10_FN Pin=C10_D2-2
+Removed Pin From Net: NetName=GND Pin=C10_D4-2
+Removed Pin From Net: NetName=EXCITER Pin=C10_R5-2
+Removed Pin From Net: NetName=GND Pin=C10_R6-2
+Removed Pin From Net: NetName=GND Pin=C10_R7-2
+Removed Pin From Net: NetName=CELL9 Pin=C10_R9-2
+Removed Pin From Net: NetName=GND Pin=C11_C4-1
+Removed Pin From Net: NetName=CELL11_FP Pin=C11_D1-1
+Removed Pin From Net: NetName=CELL11_FN Pin=C11_D2-2
+Removed Pin From Net: NetName=GND Pin=C11_D4-2
+Removed Pin From Net: NetName=EXCITER Pin=C11_R5-2
+Removed Pin From Net: NetName=GND Pin=C11_R6-2
+Removed Pin From Net: NetName=GND Pin=C11_R7-2
+Removed Pin From Net: NetName=CELL10 Pin=C11_R9-2
+Removed Pin From Net: NetName=GND Pin=C12_C4-1
+Removed Pin From Net: NetName=CELL12_FP Pin=C12_D1-1
+Removed Pin From Net: NetName=CELL12_FN Pin=C12_D2-2
+Removed Pin From Net: NetName=GND Pin=C12_D4-2
+Removed Pin From Net: NetName=EXCITER Pin=C12_R5-2
+Removed Pin From Net: NetName=GND Pin=C12_R6-2
+Removed Pin From Net: NetName=GND Pin=C12_R7-2
+Removed Pin From Net: NetName=CELL11 Pin=C12_R9-2
+Removed Pin From Net: NetName=GND Pin=C300-1
+Removed Pin From Net: NetName=+5V Pin=C300-2
+Removed Pin From Net: NetName=GND Pin=C900-1
+Removed Pin From Net: NetName=+5V Pin=C900-2
+Removed Pin From Net: NetName=CELL1 Pin=QB_1-2
+Removed Pin From Net: NetName=CELL2 Pin=QB_2-2
+Removed Pin From Net: NetName=CELL3 Pin=QB_3-2
+Removed Pin From Net: NetName=CELL4 Pin=QB_4-2
+Removed Pin From Net: NetName=CELL5 Pin=QB_5-2
+Removed Pin From Net: NetName=CELL6 Pin=QB_6-2
+Removed Pin From Net: NetName=CELL7 Pin=QB_7-2
+Removed Pin From Net: NetName=CELL8 Pin=QB_8-2
+Removed Pin From Net: NetName=CELL9 Pin=QB_9-2
+Removed Pin From Net: NetName=CELL10 Pin=QB_10-2
+Removed Pin From Net: NetName=CELL11 Pin=QB_11-2
+Removed Pin From Net: NetName=CELL12 Pin=QB_12-2
+Removed Pin From Net: NetName=GND Pin=QBG_1-2
+Removed Pin From Net: NetName=GND Pin=QBG_2-2
+Removed Pin From Net: NetName=GND Pin=QBG_3-2
+Removed Pin From Net: NetName=GND Pin=QBG_4-2
+Removed Pin From Net: NetName=GND Pin=QBG_5-2
+Removed Pin From Net: NetName=GND Pin=QBG_6-2
+Removed Pin From Net: NetName=GND Pin=QBG_7-2
+Removed Pin From Net: NetName=GND Pin=QBG_8-2
+Removed Pin From Net: NetName=GND Pin=QBG_9-2
+Removed Pin From Net: NetName=GND Pin=QBG_10-2
+Removed Pin From Net: NetName=GND Pin=QBG_11-2
+Removed Pin From Net: NetName=GND Pin=QBG_12-2
+Removed Pin From Net: NetName=CELL_SUM_V_HALVED Pin=R300-1
+Removed Pin From Net: NetName=GND Pin=R301-1
+Removed Pin From Net: NetName=CELL_SUM_V_HALVED Pin=R301-2
+Removed Pin From Net: NetName=+5V Pin=R900-2
+Removed Pin From Net: NetName=CELL1 Pin=RBS_1-1
+Removed Pin From Net: NetName=CELL2 Pin=RBS_2-1
+Removed Pin From Net: NetName=CELL3 Pin=RBS_3-1
+Removed Pin From Net: NetName=CELL4 Pin=RBS_4-1
+Removed Pin From Net: NetName=CELL5 Pin=RBS_5-1
+Removed Pin From Net: NetName=CELL6 Pin=RBS_6-1
+Removed Pin From Net: NetName=CELL7 Pin=RBS_7-1
+Removed Pin From Net: NetName=CELL8 Pin=RBS_8-1
+Removed Pin From Net: NetName=CELL9 Pin=RBS_9-1
+Removed Pin From Net: NetName=CELL10 Pin=RBS_10-1
+Removed Pin From Net: NetName=CELL11 Pin=RBS_11-1
+Removed Pin From Net: NetName=CELL12 Pin=RBS_12-1
+Removed Pin From Net: NetName=DATA_BUS_A0 Pin=U300-10
+Removed Pin From Net: NetName=DATA_BUS_A1 Pin=U300-11
+Removed Pin From Net: NetName=GND Pin=U300-12
+Removed Pin From Net: NetName=DATA_BUS_A3 Pin=U300-13
+Removed Pin From Net: NetName=DATA_BUS_A2 Pin=U300-14
+Removed Pin From Net: NetName=GND Pin=U300-15
+Removed Pin From Net: NetName=VREF_ACTUAL Pin=U300-18
+Removed Pin From Net: NetName=VREF_SAMPLE Pin=U300-19
+Removed Pin From Net: NetName=+5V Pin=U300-24
+Removed Pin From Net: NetName=DATA_BUS_A0 Pin=U900-10
+Removed Pin From Net: NetName=DATA_BUS_A1 Pin=U900-11
+Removed Pin From Net: NetName=GND Pin=U900-12
+Removed Pin From Net: NetName=DATA_BUS_A3 Pin=U900-13
+Removed Pin From Net: NetName=DATA_BUS_A2 Pin=U900-14
+Removed Pin From Net: NetName=EN_BAL Pin=U900-15
+Removed Pin From Net: NetName=+5V Pin=U900-24
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C1_C2
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C1_C3
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C1_C4
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C1_D1
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C1_D2
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C1_D3
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C1_D4
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C1_D5
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C1_R5
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C1_R6
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C1_R7
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C1_R9
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C2_C2
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C2_C3
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C2_C4
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C2_D1
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C2_D2
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C2_D3
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C2_D4
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C2_D5
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C2_R5
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C2_R6
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C2_R7
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C2_R9
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C3_C2
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C3_C3
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C3_C4
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C3_D1
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C3_D2
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C3_D3
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C3_D4
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C3_D5
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C3_R5
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C3_R6
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C3_R7
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C3_R9
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C4_C2
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C4_C3
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C4_C4
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C4_D1
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C4_D2
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C4_D3
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C4_D4
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C4_D5
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C4_R5
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C4_R6
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C4_R7
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C4_R9
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C5_C2
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C5_C3
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C5_C4
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C5_D1
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C5_D2
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C5_D3
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C5_D4
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C5_D5
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C5_R5
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C5_R6
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C5_R7
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C5_R9
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C6_C2
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C6_C3
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C6_C4
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C6_D1
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C6_D2
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C6_D3
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C6_D4
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C6_D5
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C6_R5
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C6_R6
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C6_R7
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C6_R9
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C7_C2
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C7_C3
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C7_C4
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C7_D1
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C7_D2
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C7_D3
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C7_D4
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C7_D5
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C7_R5
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C7_R6
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C7_R7
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C7_R9
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C8_C2
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C8_C3
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C8_C4
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C8_D1
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C8_D2
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C8_D3
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C8_D4
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C8_D5
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C8_R5
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C8_R6
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C8_R7
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C8_R9
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C9_C2
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C9_C3
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C9_C4
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C9_D1
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C9_D2
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C9_D3
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C9_D4
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C9_D5
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C9_R5
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C9_R6
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C9_R7
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C9_R9
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C10_C2
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C10_C3
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C10_C4
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C10_D1
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C10_D2
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C10_D3
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C10_D4
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C10_D5
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C10_R5
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C10_R6
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C10_R7
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C10_R9
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C11_C2
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C11_C3
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C11_C4
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C11_D1
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C11_D2
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C11_D3
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C11_D4
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C11_D5
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C11_R5
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C11_R6
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C11_R7
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C11_R9
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C12_C2
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C12_C3
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C12_C4
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C12_D1
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C12_D2
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C12_D3
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C12_D4
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C12_D5
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C12_R5
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C12_R6
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C12_R7
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C12_R9
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C300
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=C900
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=QB_1
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=QB_2
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=QB_3
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=QB_4
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=QB_5
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=QB_6
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=QB_7
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=QB_8
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=QB_9
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=QB_10
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=QB_11
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=QB_12
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=QBG_1
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=QBG_2
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=QBG_3
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=QBG_4
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=QBG_5
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=QBG_6
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=QBG_7
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=QBG_8
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=QBG_9
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=QBG_10
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=QBG_11
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=QBG_12
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=R300
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=R301
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=R900
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=RBG_1
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=RBG_2
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=RBG_3
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=RBG_4
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=RBG_5
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=RBG_6
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=RBG_7
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=RBG_8
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=RBG_9
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=RBG_10
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=RBG_11
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=RBG_12
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=RBS_1
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=RBS_2
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=RBS_3
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=RBS_4
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=RBS_5
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=RBS_6
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=RBS_7
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=RBS_8
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=RBS_9
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=RBS_10
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=RBS_11
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=RBS_12
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=U300
+Removed Member From Class: ClassName=BMS_MAINBOARD Member=U900
+Added Component: Designator=CAP1(C_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C52923"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "WVDC"; Value = "16"; VariantName = "[No Variations]"
+Added Component: Designator=CAP2(C_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C52923"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "WVDC"; Value = "16"; VariantName = "[No Variations]"
+Added Component: Designator=CAP3(C_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C52923"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "WVDC"; Value = "16"; VariantName = "[No Variations]"
+Added Component: Designator=CAP_SRC(C_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C52923"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "WVDC"; Value = "16"; VariantName = "[No Variations]"
+Added Component: Designator=CC?(R_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C11702"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Added Component: Designator=CR?(C_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C52923"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "WVDC"; Value = "16"; VariantName = "[No Variations]"
+Added Component: Designator=CR?(C_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C52923"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "WVDC"; Value = "16"; VariantName = "[No Variations]"
+Added Component: Designator=DC_5x(SOD-323)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "If"; Value = "150mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C2128"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PIV"; Value = "100V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Trr"; Value = "4ns"; VariantName = "[No Variations]"
+Added Component: Designator=DC_10x(SOD-323)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "If"; Value = "150mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C2128"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PIV"; Value = "100V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Trr"; Value = "4ns"; VariantName = "[No Variations]"
+Added Component: Designator=DC_BAT(SOD-323)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "If"; Value = "150mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C2128"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PIV"; Value = "100V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Trr"; Value = "4ns"; VariantName = "[No Variations]"
+Added Component: Designator=NT_CSHORT?(NET_TIE)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R_SCL(R_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C25744"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R_SDA(R_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C25744"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=RC?(R_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C11702"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Added Component: Designator=RC?(R_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C11702"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Added Component: Designator=RC?(R_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C11702"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Added Component: Designator=RC?(R_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C11702"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Added Component: Designator=RC?(R_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C11702"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Added Component: Designator=RC?(R_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C11702"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Added Component: Designator=RC?(R_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C11702"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Added Component: Designator=RC?(R_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C11702"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Added Component: Designator=RC?(R_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C11702"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Added Component: Designator=RC?(R_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C11702"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Added Component: Designator=RC?(R_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C11702"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Added Component: Designator=RC?(R_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C11702"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Added Component: Designator=RC?(R_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C11702"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Added Component: Designator=RC?(R_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C11702"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Added Component: Designator=RC?(R_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C11702"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Added Component: Designator=RC?(R_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C11702"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Added Component: Designator=RC?(R_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C11702"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=CAP1-2
+Added Pin To Net: NetName=GND Pin=CAP_SRC-2
+Added Pin To Net: NetName=GND Pin=CR?-2
+Added Pin To Net: NetName=GND Pin=CR?-2
+Added Net: Name=AFE_ALERT
+Added Pin To Net: NetName=AFE_SCL Pin=R_SCL-2
+Added Net: Name=AFE_SCL
+Added Pin To Net: NetName=AFE_SDA Pin=R_SDA-2
+Added Net: Name=AFE_SDA
+Added Net: Name=AFE_WAKE
+Added Pin To Net: NetName=C0 Pin=RC?-2
+Added Net: Name=C0
+Added Pin To Net: NetName=C1 Pin=RC?-2
+Added Net: Name=C1
+Added Pin To Net: NetName=C2 Pin=RC?-2
+Added Net: Name=C2
+Added Pin To Net: NetName=C3 Pin=RC?-2
+Added Net: Name=C3
+Added Pin To Net: NetName=C4 Pin=RC?-2
+Added Net: Name=C4
+Added Pin To Net: NetName=C5 Pin=RC?-2
+Added Pin To Net: NetName=C5 Pin=RC?-2
+Added Net: Name=C5
+Added Pin To Net: NetName=C6 Pin=RC?-2
+Added Net: Name=C6
+Added Pin To Net: NetName=C7 Pin=RC?-2
+Added Net: Name=C7
+Added Pin To Net: NetName=C8 Pin=RC?-2
+Added Net: Name=C8
+Added Pin To Net: NetName=C9 Pin=RC?-2
+Added Net: Name=C9
+Added Pin To Net: NetName=C10 Pin=RC?-2
+Added Pin To Net: NetName=C10 Pin=RC?-2
+Added Net: Name=C10
+Added Pin To Net: NetName=C11 Pin=RC?-2
+Added Net: Name=C11
+Added Pin To Net: NetName=C12 Pin=RC?-2
+Added Net: Name=C12
+Added Pin To Net: NetName=C13 Pin=NT_CSHORT?-2
+Added Pin To Net: NetName=C13 Pin=RC?-2
+Added Net: Name=C13
+Added Pin To Net: NetName=C14 Pin=NT_CSHORT?-1
+Added Pin To Net: NetName=C14 Pin=RC?-2
+Added Net: Name=C14
+Added Pin To Net: NetName=C15 Pin=CC?-2
+Added Net: Name=C15
+Added Pin To Net: NetName=NetCAP1_1 Pin=CAP1-1
+Added Net: Name=NetCAP1_1
+Added Pin To Net: NetName=NetCAP2_1 Pin=CAP2-1
+Added Net: Name=NetCAP2_1
+Added Pin To Net: NetName=NetCAP3_1 Pin=CAP3-1
+Added Net: Name=NetCAP3_1
+Added Pin To Net: NetName=NetCC?_1 Pin=CC?-1
+Added Pin To Net: NetName=NetCC?_1 Pin=DC_BAT-2
+Added Net: Name=NetCC?_1
+Added Pin To Net: NetName=NetDC_5x_2 Pin=DC_5x-2
+Added Pin To Net: NetName=NetDC_5x_2 Pin=RC?-1
+Added Net: Name=NetDC_5x_2
+Added Pin To Net: NetName=NetDC_10x_2 Pin=DC_10x-2
+Added Pin To Net: NetName=NetDC_10x_2 Pin=RC?-1
+Added Net: Name=NetDC_10x_2
+Added Pin To Net: NetName=NetDC_BAT_1 Pin=DC_BAT-1
+Added Net: Name=NetDC_BAT_1
+Added Pin To Net: NetName=NetRC?_1 Pin=RC?-1
+Added Net: Name=NetRC?_1
+Added Pin To Net: NetName=REGSRC Pin=CAP_SRC-1
+Added Net: Name=REGSRC
+Added Pin To Net: NetName=VC5x Pin=CAP2-2
+Added Pin To Net: NetName=VC5x Pin=DC_5x-1
+Added Net: Name=VC5x
+Added Pin To Net: NetName=VC10x Pin=CAP3-2
+Added Pin To Net: NetName=VC10x Pin=DC_10x-1
+Added Net: Name=VC10x
+Added Pin To Net: NetName=VCC_3V3_2 Pin=CR?-1
+Added Pin To Net: NetName=VCC_3V3_2 Pin=CR?-1
+Added Net: Name=VCC_3V3_2
+Added Pin To Net: NetName=VCC_3V3_SW Pin=R_SCL-1
+Added Pin To Net: NetName=VCC_3V3_SW Pin=R_SDA-1
+Added Net: Name=VCC_3V3_SW
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component CAP1 CL05A105KA5NQNC
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component CAP2 CL05A105KA5NQNC
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component CAP3 CL05A105KA5NQNC
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component CAP_SRC CL05A105KA5NQNC
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component CC? 0402WGF1001TCE
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component CR? CL05A105KA5NQNC
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component CR? CL05A105KA5NQNC
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component DC_5x N4148WS
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component DC_10x N4148WS
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component DC_BAT N4148WS
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component NT_CSHORT? 0
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component R_SCL 0402WGF1002TCE
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component R_SDA 0402WGF1002TCE
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component RC? 0402WGF1001TCE
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component RC? 0402WGF1001TCE
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component RC? 0402WGF1001TCE
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component RC? 0402WGF1001TCE
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component RC? 0402WGF1001TCE
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component RC? 0402WGF1001TCE
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component RC? 0402WGF1001TCE
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component RC? 0402WGF1001TCE
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component RC? 0402WGF1001TCE
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component RC? 0402WGF1001TCE
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component RC? 0402WGF1001TCE
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component RC? 0402WGF1001TCE
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component RC? 0402WGF1001TCE
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component RC? 0402WGF1001TCE
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component RC? 0402WGF1001TCE
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component RC? 0402WGF1001TCE
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component RC? 0402WGF1001TCE

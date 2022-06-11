@@ -1,0 +1,118 @@
+Change component parameters: Designator = "Q201"; Footprint = "TO-236AB"; UniqueID = "\MWVJIDDX"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C8545"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q_HTR2"; Footprint = "TO-236AB"; UniqueID = "\KMSMGJDH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C8545"; VariantName = "[No Variations]"
+Change component parameters: Designator = "QBD_2A"; Footprint = "TO-252AA"; UniqueID = "\IUYBTNLS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Extended"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C326372"; VariantName = "[No Variations]"
+Change component parameters: Designator = "QBD_2B"; Footprint = "TO-252AA"; UniqueID = "\QOCGEXYI"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Extended"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C326372"; VariantName = "[No Variations]"
+Change component parameters: Designator = "QBD_3A"; Footprint = "TO-252AA"; UniqueID = "\QFQEGRPG"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Extended"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C326372"; VariantName = "[No Variations]"
+Change component parameters: Designator = "QBD_3B"; Footprint = "TO-252AA"; UniqueID = "\CPKNECQG"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Extended"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C326372"; VariantName = "[No Variations]"
+Change component parameters: Designator = "QBD_4A"; Footprint = "TO-252AA"; UniqueID = "\IWVORAKD"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Extended"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C326372"; VariantName = "[No Variations]"
+Change component parameters: Designator = "QBD_4B"; Footprint = "TO-252AA"; UniqueID = "\PPGJHBOQ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Extended"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C326372"; VariantName = "[No Variations]"
+Change component parameters: Designator = "QBD_5A"; Footprint = "TO-252AA"; UniqueID = "\JQRFURTW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Extended"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C326372"; VariantName = "[No Variations]"
+Change component parameters: Designator = "QBD_5B"; Footprint = "TO-252AA"; UniqueID = "\YNTAOJNJ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Extended"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C326372"; VariantName = "[No Variations]"
+Change component parameters: Designator = "QBD_6A"; Footprint = "TO-252AA"; UniqueID = "\HBHQSCPV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Extended"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C326372"; VariantName = "[No Variations]"
+Change component parameters: Designator = "QBD_6B"; Footprint = "TO-252AA"; UniqueID = "\OUUKYBXE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Extended"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C326372"; VariantName = "[No Variations]"
+Change component parameters: Designator = "QBD_7A"; Footprint = "TO-252AA"; UniqueID = "\KQEHYKDT"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Extended"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C326372"; VariantName = "[No Variations]"
+Change component parameters: Designator = "QBD_7B"; Footprint = "TO-252AA"; UniqueID = "\UNBMDTHA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Extended"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C326372"; VariantName = "[No Variations]"
+Change component parameters: Designator = "QBEN"; Footprint = "TO-236AB"; UniqueID = "\RMGSYMHJ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C8545"; VariantName = "[No Variations]"
+Change component parameters: Designator = "TSQ1a"; Footprint = "TO-236AB"; UniqueID = "\CGJWGRPR"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C8545"; VariantName = "[No Variations]"
+Change component parameters: Designator = "TSQ1b"; Footprint = "TO-236AB"; UniqueID = "\JGJCUJPP"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part #"; Value = "C8545"; VariantName = "[No Variations]"
+Added Component: Designator=U?(TSSOP-44-P0.5MM-W4MM)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=U?-3
+Added Pin To Net: NetName=B_SDA Pin=U?-4
+Added Pin To Net: NetName=B_SCL Pin=U?-5
+Added Pin To Net: NetName=AFE_WAKE Pin=U?-6
+Added Pin To Net: NetName=NetCAP1_1 Pin=U?-7
+Added Pin To Net: NetName=VCC_3V3_2 Pin=U?-8
+Added Pin To Net: NetName=REGSRC Pin=U?-9
+Added Pin To Net: NetName=VC5x Pin=U?-10
+Added Pin To Net: NetName=NetCAP2_1 Pin=U?-11
+Added Pin To Net: NetName=NetCAP2_1 Pin=U?-12
+Added Pin To Net: NetName=NetCAP2_1 Pin=U?-14
+Added Pin To Net: NetName=VC10x Pin=U?-15
+Added Pin To Net: NetName=NetCAP3_1 Pin=U?-16
+Added Pin To Net: NetName=NetCAP3_1 Pin=U?-17
+Added Pin To Net: NetName=NetCAP3_1 Pin=U?-19
+Added Pin To Net: NetName=NetDC_BAT_1 Pin=U?-20
+Added Pin To Net: NetName=NetDC_BAT_2 Pin=U?-24
+Added Pin To Net: NetName=NetR_C14_1 Pin=U?-25
+Added Pin To Net: NetName=NetR_C13_1 Pin=U?-26
+Added Pin To Net: NetName=NetR_C12_1 Pin=U?-27
+Added Pin To Net: NetName=NetR_C11_1 Pin=U?-28
+Added Pin To Net: NetName=NetR_C10X_1 Pin=U?-29
+Added Pin To Net: NetName=NetR_C10_1 Pin=U?-30
+Added Pin To Net: NetName=NetR_C9_1 Pin=U?-31
+Added Pin To Net: NetName=NetR_C8_1 Pin=U?-32
+Added Pin To Net: NetName=NetR_C7_1 Pin=U?-33
+Added Pin To Net: NetName=NetR_C6_1 Pin=U?-34
+Added Pin To Net: NetName=NetR_C5X_1 Pin=U?-35
+Added Pin To Net: NetName=NetR_C5_1 Pin=U?-36
+Added Pin To Net: NetName=NetR_C4_1 Pin=U?-37
+Added Pin To Net: NetName=NetR_C3_1 Pin=U?-38
+Added Pin To Net: NetName=NetR_C2_1 Pin=U?-39
+Added Pin To Net: NetName=NetR_C1_1 Pin=U?-40
+Added Pin To Net: NetName=NetR_C0_1 Pin=U?-41
+Added Pin To Net: NetName=AFE_ALERT Pin=U?-44
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component U? BQ7694002DBTR
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0.508mm New=0.762mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0.508mm New=0.762mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0.508mm New=0.762mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0.508mm New=0.762mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0.508mm New=0.762mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0.508mm New=0.762mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0.508mm New=0.762mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0.508mm New=0.762mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0.508mm New=0.762mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0.508mm New=0.762mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0.508mm New=0.762mm
+PCB-ECO: Change Pad Pin/Pkg Length: Old=0.508mm New=0.762mm

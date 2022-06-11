@@ -1,0 +1,38 @@
+Removed Pin From Net: NetName=AFE_ALERT Pin=U0-56
+Added Component: Designator=10x_D1(DO-213AA)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "BASIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C8062"; VariantName = "[No Variations]"
+Added Component: Designator=10x_Q1(TO-236AB)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Extended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C700960"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "WVDC"; Value = "100"; VariantName = "[No Variations]"
+Added Component: Designator=10x_R2(R_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C25768"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22k"; VariantName = "[No Variations]"
+Added Component: Designator=R10x_R1(R_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C25744"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VC10x Pin=10x_Q1-3
+Change Net Name : Old Net Name=NetR_C0_1 New Net Name=VC0
+Change Net Name : Old Net Name=NetR_C6_1 New Net Name=VC6
+Added Pin To Net: NetName=BAT Pin=10x_D1-1
+Added Pin To Net: NetName=BAT Pin=10x_Q1-2
+Added Pin To Net: NetName=BAT Pin=DC_BAT-1
+Added Pin To Net: NetName=BAT Pin=R10x_R1-1
+Added Pin To Net: NetName=BAT Pin=U?-20
+Added Net: Name=BAT
+Added Pin To Net: NetName=Net10x_D1_2 Pin=10x_D1-2
+Added Pin To Net: NetName=Net10x_D1_2 Pin=10x_Q1-1
+Added Pin To Net: NetName=Net10x_D1_2 Pin=10x_R2-1
+Added Pin To Net: NetName=Net10x_D1_2 Pin=R10x_R1-2
+Added Net: Name=Net10x_D1_2
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component 10x_D1 ZMM5V6-M
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component 10x_Q1 HSS0127
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component 10x_R2 0402WGF2202TCE
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component R10x_R1 0402WGF1002TCE

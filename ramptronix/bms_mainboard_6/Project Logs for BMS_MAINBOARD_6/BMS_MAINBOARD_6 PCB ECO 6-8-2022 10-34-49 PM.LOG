@@ -1,0 +1,25 @@
+Added Component: Designator=RST_Q1(TO-236AB)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C8545"; VariantName = "[No Variations]"
+Added Component: Designator=RST_Q2(TO-236AB)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C8545"; VariantName = "[No Variations]"
+Added Component: Designator=RST_R1(R_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C25744"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=RST_Q1-2
+Added Pin To Net: NetName=Net5x_D2_1 Pin=RST_Q1-3
+Added Pin To Net: NetName=GND Pin=RST_Q2-2
+Added Pin To Net: NetName=VC5x Pin=RST_Q2-3
+Added Pin To Net: NetName=GND Pin=RST_R1-2
+Added Pin To Net: NetName=AFE_RESET Pin=RST_Q1-1
+Added Pin To Net: NetName=AFE_RESET Pin=RST_Q2-1
+Added Pin To Net: NetName=AFE_RESET Pin=RST_R1-1
+Added Net: Name=AFE_RESET
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component RST_Q1 2N7002
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component RST_Q2 2N7002
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component RST_R1 0402WGF1002TCE

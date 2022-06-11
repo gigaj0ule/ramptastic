@@ -1,0 +1,9 @@
+Added Component: Designator=REGSRC_OR(R_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C17168"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=REGSRC Pin=REGSRC_OR-1
+Added Pin To Net: NetName=+12V Pin=REGSRC_OR-2
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component REGSRC_OR 0402WGF0000TCE
+Added Member To Class: ClassName=BMS_MAINBOARD Member=Component U100 BQ7694002DBTR

@@ -1,0 +1,8 @@
+Added Pin To Net: NetName=NetDC_5x_2 Pin=DC_5x-2
+Added Pin To Net: NetName=NetDC_5x_2 Pin=R_C5-1
+Added Pin To Net: NetName=NetDC_5x_2 Pin=U?-36
+Added Net: Name=NetDC_5x_2
+Added Pin To Net: NetName=NetDC_10x_2 Pin=DC_10x-2
+Added Pin To Net: NetName=NetDC_10x_2 Pin=R_C10-1
+Added Pin To Net: NetName=NetDC_10x_2 Pin=U?-30
+Added Net: Name=NetDC_10x_2
