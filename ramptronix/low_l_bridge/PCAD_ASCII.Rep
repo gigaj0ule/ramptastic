@@ -1,0 +1,113 @@
+Export log for : PCAD_ASCII.Rep
+AddingPadStyle (Default)
+AddingPadStyle P:SX79Y71D351
+AddingPadStyle EF47X59TOP1
+AddingPadStyle EF24X24TOP1
+AddingPadStyle P:EX118Y79D391
+AddingPadStyle P:SX157Y157D1101
+AddingPadStyle EF114X213TOP1
+AddingPadStyle EF87X71TOP1
+AddingPadStyle EF58X19TOP1
+AddingPadStyle EF35X67TOP1
+AddingPadStyle EF35X98TOP1
+AddingPadStyle EF102X67TOP1
+AddingPadStyle EF59X59TOP1
+AddingPadStyle EF181X98TOP1
+AddingPadStyle EF37X39TOP1
+AddingPadStyle EF18X39TOP1
+AddingPadStyle EF177X49TOP1
+AddingPadStyle EF374X400TOP1
+AddingPadStyle EF134X71TOP1
+AddingPadStyle EF71X63TOP1
+AddingPadStyle EF26X102TOP1
+AddingPadStyle EF28X102TOP1
+Adding ViaStyle (Default)
+Adding ViaStyle V:EX19Y19D101
+Adding ViaStyle V:EX39Y39D241
+Adding TextStyle (Default)
+Adding TextStyle T:H44W6
+Adding TextStyle T:H44W61
+Adding TextStyle T:H60W8
+Adding TextStyle T:H60W81
+Adding TextStyle T:H60W10
+Adding TextStyle T:H30W6
+Adding TextStyle T:H79W12
+Adding TextStyle T:H31W7
+Adding TextStyle T:H20W4
+Adding PatternDef C_1206_1
+Adding PatternDef R_0402_1
+Adding PatternDef XT60PW_M_1
+Adding PatternDef C_0402_1
+Adding PatternDef SRR1260_1
+Adding PatternDef DO-214AC_1
+Adding PatternDef SOP65P490X110-8N_1
+Adding PatternDef SOT-223-3_1
+Adding PatternDef C_1206_2
+Adding PatternDef C_1206_3
+Adding PatternDef C_CAN_1010_1
+Adding PatternDef C_1206_4
+Adding PatternDef C_0603_1
+Adding PatternDef SOD-323_1
+Adding PatternDef DO-214AC_2
+Adding PatternDef TO-263-3_1
+Adding PatternDef TO-263-3_2
+Adding PatternDef R_2512_1
+Adding PatternDef R_0603_1
+Adding PatternDef R_1206_1
+Adding PatternDef R_0402_2
+Adding PatternDef M28B_M_1
+Adding CompDef C_1206_1
+Adding CompDef R_0402_1
+Adding CompDef XT60PW_M_1
+Adding CompDef C_0402_1
+Adding CompDef SRR1260_1
+Adding CompDef DO-214AC_1
+Adding CompDef SOP65P490X110-8N_1
+Adding CompDef SOT-223-3_1
+Adding CompDef C_1206_2
+Adding CompDef C_1206_3
+Adding CompDef C_CAN_1010_1
+Adding CompDef C_1206_4
+Adding CompDef C_0603_1
+Adding CompDef SOD-323_1
+Adding CompDef DO-214AC_2
+Adding CompDef TO-263-3_1
+Adding CompDef TO-263-3_2
+Adding CompDef R_2512_1
+Adding CompDef R_0603_1
+Adding CompDef R_1206_1
+Adding CompDef R_0402_2
+Adding CompDef M28B_M_1
+      Warning: Unexpected Poly Region Object Found On Layer TopLayer.
+      Warning: Unexpected Poly Region Object Found On Layer TopLayer.
+      Warning: Unexpected Poly Region Object Found On Layer TopLayer.
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Unexpected Poly Region Object Found On Layer BottomLayer.
+      Warning: Unexpected Poly Region Object Found On Layer BottomLayer.
+      Warning: Unexpected Poly Region Object Found On Layer Mechanical9.
+      Warning: Unexpected Poly Region Object Found On Layer Mechanical9.
+      Warning: Unexpected Poly Region Object Found On Layer Mechanical9.
+      Warning: Unexpected Poly Region Object Found On Layer Mechanical9.
+      Warning: Unexpected Poly Region Object Found On Layer Mechanical9.
+      Warning: Unexpected Poly Region Object Found On Layer Mechanical9.
+      Warning: Unexpected Poly Region Object Found On Layer Mechanical9.
+      Warning: Unexpected Poly Region Object Found On Layer Mechanical9.
+      Warning: Unexpected Poly Region Object Found On Layer Mechanical9.
+      Warning: Unexpected Poly Region Object Found On Layer Mechanical9.
+      Warning: Unexpected Poly Region Object Found On Layer Mechanical9.
+      Warning: Unexpected Poly Region Object Found On Layer Mechanical9.
+      Warning: Unexpected Poly Region Object Found On Layer Mechanical9.
+      Warning: Unexpected Poly Region Object Found On Layer Mechanical9.
+      Warning: Unexpected Poly Region Object Found On Layer Mechanical9.
+      Warning: Unexpected Poly Region Object Found On Layer Mechanical9.
+      Warning: Unexpected Poly Region Object Found On Layer Mechanical9.
+      Warning: Unexpected Poly Region Object Found On Layer Mechanical9.
+      Warning: Unexpected Poly Region Object Found On Layer Mechanical9.
+      Warning: Unexpected Poly Region Object Found On Layer Mechanical9.
+      Warning: Unexpected Poly Region Object Found On Layer Mechanical9.
+      Warning: Unexpected Poly Region Object Found On Layer Mechanical9.
+      Warning: Unexpected Poly Region Object Found On Layer Mechanical9.
+      Warning: Unexpected Poly Region Object Found On Layer Mechanical9.
+ 
+EndLog
