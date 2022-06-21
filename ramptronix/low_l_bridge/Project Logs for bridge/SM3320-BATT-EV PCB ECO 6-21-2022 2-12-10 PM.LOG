@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=+5V Pin=Rpm-1
+Removed Member From Class: ClassName=SM3320-BATT-EV Member=R160
+Removed Member From Class: ClassName=SM3320-BATT-EV Member=Rpm

@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=GND Pin=Rvoutb-1
+Removed Pin From Net: NetName=VOUT_N Pin=Rvoutt-2
+Removed Member From Class: ClassName=SM3320-BATT-EV Member=Rvoutb
+Removed Member From Class: ClassName=SM3320-BATT-EV Member=Rvoutt

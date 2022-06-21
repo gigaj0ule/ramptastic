@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=NetRon_c_1 Pin=Rpsu2-1
+Removed Pin From Net: NetName=VOUT_N Pin=Rpsu2-2
+Removed Member From Class: ClassName=SM3320-BATT-EV Member=Rpsu2

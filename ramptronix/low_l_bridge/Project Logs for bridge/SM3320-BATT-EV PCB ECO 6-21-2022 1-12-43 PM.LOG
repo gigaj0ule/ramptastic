@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=GND Pin=Cref-1
+Removed Pin From Net: NetName=GND Pin=Creset-1
+Removed Pin From Net: NetName=+5V Pin=Rrst-2
+Removed Pin From Net: NetName=GND Pin=SWrst-2
+Removed Pin From Net: NetName=GND Pin=SWrst-2
+Removed Pin From Net: NetName=GND Pin=Urst-4
+Removed Pin From Net: NetName=nRST Pin=Urst-5
+Removed Pin From Net: NetName=+5V Pin=Urst-7
+Removed Pin From Net: NetName=+5V Pin=Urst-8
+Removed Member From Class: ClassName=SM3320-BATT-EV Member=Cref
+Removed Member From Class: ClassName=SM3320-BATT-EV Member=Creset
+Removed Member From Class: ClassName=SM3320-BATT-EV Member=Rrst
+Removed Member From Class: ClassName=SM3320-BATT-EV Member=SWrst
+Removed Member From Class: ClassName=SM3320-BATT-EV Member=Urst

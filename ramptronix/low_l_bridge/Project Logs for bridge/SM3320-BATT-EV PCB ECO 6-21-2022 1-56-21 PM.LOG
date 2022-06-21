@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=SOB Pin=Ugd-13
+Removed Pin From Net: NetName=SIB Pin=Ugd-14
+Added Pin To Net: NetName=SIB Pin=Ugd-1
+Added Pin To Net: NetName=SOB Pin=Ugd-2
+Change Net Name : Old Net Name=SIB New Net Name=SIA
+Change Net Name : Old Net Name=SOB New Net Name=SOA
+Added Pin To Net: NetName=SIB Pin=Riinsns1-1
+Added Pin To Net: NetName=SIB Pin=Ugd-14
+Added Net: Name=SIB
+Added Pin To Net: NetName=SOB Pin=Riinsns2-1
+Added Pin To Net: NetName=SOB Pin=Ugd-13
+Added Net: Name=SOB

@@ -1,0 +1,15 @@
+Removed Member From Class: ClassName=SM3320-BATT-EV Member=Rioutsns1
+Removed Member From Class: ClassName=SM3320-BATT-EV Member=Rioutsns2
+Added Component: Designator=R160(R_0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "JLC Availability"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part #"; Value = "C17168"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=D8 Pin=R160-1
+Added Pin To Net: NetName=D10 Pin=R160-2
+Added Pin To Net: NetName=CSN Pin=Ugd-13
+Added Pin To Net: NetName=CSP Pin=Ugd-14
+Change Net Name : Old Net Name=CSN New Net Name=SOB
+Change Net Name : Old Net Name=CSP New Net Name=SIB
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component C1 1206B105K101NT
+Added Member To Class: ClassName=SM3320-BATT-EV Member=Component R160 0402WGF0000TCE
