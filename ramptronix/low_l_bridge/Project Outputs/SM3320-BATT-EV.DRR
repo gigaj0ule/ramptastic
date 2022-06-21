@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: SM3320-BATT-EV.PcbDoc   6/21/2022  3:42:52 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : SM3320-BATT-EV-RoundHoles.TXT
+ASCII SlotHoles File : SM3320-BATT-EV-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.254mm (10mil)                                           Round             50        PTH        0.00mm (0.00inch)
+T2      0.6mm (24mil)                                             Round             220       PTH        0.00mm (0.00inch)
+T3      0.9mm (35mil)                                             Round             10        PTH        0.00mm (0.00inch)
+T4      1mm (39mil)                                               Slot              2         PTH        0.00mm (0.00inch)
+T5      2.8mm (110mil)                                            Round             2         PTH        0.00mm (0.00inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              284
+
+Total Processing Time (hh:mm:ss) : 00:00:00
