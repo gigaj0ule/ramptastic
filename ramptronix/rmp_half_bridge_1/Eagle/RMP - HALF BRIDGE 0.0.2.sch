@@ -20915,7 +20915,7 @@ Details see: &lt;a href="https://katalog.we-online.de/en/em/SMSI_SMT_STEEL_SPACE
 <attribute name="CISS" value="4050pF"/>
 <attribute name="COSS" value="1480pF"/>
 <attribute name="CRSS" value="58pF"/>
-<attribute name="LCSC_PART" value="DNP"/>
+<attribute name="LCSC_PART" value="C604524"/>
 <attribute name="MODEL" value="SQM10250E_GE3"/>
 <attribute name="QGC" value="75nC"/>
 <attribute name="RDSON" value="30mOhm"/>
@@ -20942,7 +20942,7 @@ Details see: &lt;a href="https://katalog.we-online.de/en/em/SMSI_SMT_STEEL_SPACE
 <attribute name="CISS" value="4050pF"/>
 <attribute name="COSS" value="1480pF"/>
 <attribute name="CRSS" value="58pF"/>
-<attribute name="LCSC_PART" value="DNP"/>
+<attribute name="LCSC_PART" value="C604524"/>
 <attribute name="MODEL" value="SQM10250E_GE3"/>
 <attribute name="QGC" value="75nC"/>
 <attribute name="RDSON" value="30mOhm"/>
@@ -20963,7 +20963,7 @@ Details see: &lt;a href="https://katalog.we-online.de/en/em/SMSI_SMT_STEEL_SPACE
 <attribute name="CISS" value="4050pF"/>
 <attribute name="COSS" value="1480pF"/>
 <attribute name="CRSS" value="58pF"/>
-<attribute name="LCSC_PART" value="DNP"/>
+<attribute name="LCSC_PART" value="C604524"/>
 <attribute name="MODEL" value="SQM10250E_GE3"/>
 <attribute name="QGC" value="75nC"/>
 <attribute name="RDSON" value="30mOhm"/>
@@ -20990,7 +20990,7 @@ Details see: &lt;a href="https://katalog.we-online.de/en/em/SMSI_SMT_STEEL_SPACE
 <attribute name="CISS" value="4050pF"/>
 <attribute name="COSS" value="1480pF"/>
 <attribute name="CRSS" value="58pF"/>
-<attribute name="LCSC_PART" value="DNP"/>
+<attribute name="LCSC_PART" value="C604524"/>
 <attribute name="MODEL" value="SQM10250E_GE3"/>
 <attribute name="QGC" value="75nC"/>
 <attribute name="RDSON" value="30mOhm"/>
@@ -21015,7 +21015,7 @@ Details see: &lt;a href="https://katalog.we-online.de/en/em/SMSI_SMT_STEEL_SPACE
 <pinmap gate="G$1" pin="2" pinorder="2"/>
 </pinmapping>
 </spice>
-<attribute name="LCSC_PART" value="C342270"/>
+<attribute name="LCSC_PART" value="DNP/C342270"/>
 </part>
 <part name="CHV2" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C2220K" package3d_urn="urn:adsk.eagle:package:23687/2" value="3.3uF, 100V">
 <spice>
@@ -21024,7 +21024,7 @@ Details see: &lt;a href="https://katalog.we-online.de/en/em/SMSI_SMT_STEEL_SPACE
 <pinmap gate="G$1" pin="2" pinorder="2"/>
 </pinmapping>
 </spice>
-<attribute name="LCSC_PART" value="C342270"/>
+<attribute name="LCSC_PART" value="DNP/C342270"/>
 </part>
 <part name="CVH3" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C2220K" package3d_urn="urn:adsk.eagle:package:23687/2" value="3.3uF, 100V">
 <spice>
@@ -21033,7 +21033,7 @@ Details see: &lt;a href="https://katalog.we-online.de/en/em/SMSI_SMT_STEEL_SPACE
 <pinmap gate="G$1" pin="2" pinorder="2"/>
 </pinmapping>
 </spice>
-<attribute name="LCSC_PART" value="C342270"/>
+<attribute name="LCSC_PART" value="DNP/C342270"/>
 </part>
 <part name="CVH4" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="C-EU" device="C2220K" package3d_urn="urn:adsk.eagle:package:23687/2" value="3.3uF, 100V">
 <spice>
@@ -21042,38 +21042,14 @@ Details see: &lt;a href="https://katalog.we-online.de/en/em/SMSI_SMT_STEEL_SPACE
 <pinmap gate="G$1" pin="2" pinorder="2"/>
 </pinmapping>
 </spice>
-<attribute name="LCSC_PART" value="C342270"/>
+<attribute name="LCSC_PART" value="DNP/C342270"/>
 </part>
 <part name="FRAME4" library="frames" library_urn="urn:adsk.eagle:library:24925482" deviceset="A4L-LOC" device=""/>
-<part name="DZ24V22" library="Diode" library_urn="urn:adsk.eagle:library:16378169" deviceset="ZENER_" device="DO-219-AB(SOD123F)" package3d_urn="urn:adsk.eagle:package:9427153/2" technology="MMSZ5240BT" value="NZH15B,115">
-<attribute name="LCSC_PART" value="C266572"/>
-<attribute name="MODEL" value="BZT52C24"/>
-</part>
-<part name="DZ24V23" library="Diode" library_urn="urn:adsk.eagle:library:16378169" deviceset="ZENER_" device="DO-219-AB(SOD123F)" package3d_urn="urn:adsk.eagle:package:9427153/2" technology="MMSZ5240BT" value="NZH15B,115">
-<attribute name="LCSC_PART" value="C266572"/>
-<attribute name="MODEL" value="BZT52C24"/>
-</part>
-<part name="DZ24V24" library="Diode" library_urn="urn:adsk.eagle:library:16378169" deviceset="ZENER_" device="DO-219-AB(SOD123F)" package3d_urn="urn:adsk.eagle:package:9427153/2" technology="MMSZ5240BT" value="NZH15B,115">
-<attribute name="LCSC_PART" value="C266572"/>
-<attribute name="MODEL" value="BZT52C24"/>
-</part>
 <part name="DOV3" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="DIODE" device="SMA" package3d_urn="urn:adsk.eagle:package:6240747/1">
 <attribute name="I_AVG" value="1A"/>
 <attribute name="LCSC_PART" value="C110531"/>
 <attribute name="VF" value="1.3V"/>
 <attribute name="VR" value="400V"/>
-</part>
-<part name="DZ24V17" library="Diode" library_urn="urn:adsk.eagle:library:16378169" deviceset="ZENER_" device="DO-219-AB(SOD123F)" package3d_urn="urn:adsk.eagle:package:9427153/2" technology="MMSZ5240BT" value="NZH15B,115">
-<attribute name="LCSC_PART" value="C266572"/>
-<attribute name="MODEL" value="BZT52C24"/>
-</part>
-<part name="DZ24V18" library="Diode" library_urn="urn:adsk.eagle:library:16378169" deviceset="ZENER_" device="DO-219-AB(SOD123F)" package3d_urn="urn:adsk.eagle:package:9427153/2" technology="MMSZ5240BT" value="NZH15B,115">
-<attribute name="LCSC_PART" value="C266572"/>
-<attribute name="MODEL" value="BZT52C24"/>
-</part>
-<part name="DZ24V19" library="Diode" library_urn="urn:adsk.eagle:library:16378169" deviceset="ZENER_" device="DO-219-AB(SOD123F)" package3d_urn="urn:adsk.eagle:package:9427153/2" technology="MMSZ5240BT" value="NZH15B,115">
-<attribute name="LCSC_PART" value="C266572"/>
-<attribute name="MODEL" value="BZT52C24"/>
 </part>
 <part name="DOV4" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="DIODE" device="SMA" package3d_urn="urn:adsk.eagle:package:6240747/1">
 <attribute name="I_AVG" value="1A"/>
@@ -21141,38 +21117,6 @@ Details see: &lt;a href="https://katalog.we-online.de/en/em/SMSI_SMT_STEEL_SPACE
 <part name="MS3" library="Eagle_WA-SMSI (rev20d) (1)" deviceset="WA-SMSI_9774XXX151" device="_9774060151" package3d_urn="urn:adsk.eagle:package:14321873/3" value=" 9774060151 ">
 <attribute name="LCSC_PART" value="DNP"/>
 </part>
-<part name="DZ24V1" library="Diode" library_urn="urn:adsk.eagle:library:16378169" deviceset="ZENER_" device="DO-219-AB(SOD123F)" package3d_urn="urn:adsk.eagle:package:9427153/2" technology="MMSZ5240BT" value="NZH15B,115">
-<attribute name="LCSC_PART" value="C266572"/>
-<attribute name="MODEL" value="BZT52C24"/>
-</part>
-<part name="DZ24V2" library="Diode" library_urn="urn:adsk.eagle:library:16378169" deviceset="ZENER_" device="DO-219-AB(SOD123F)" package3d_urn="urn:adsk.eagle:package:9427153/2" technology="MMSZ5240BT" value="NZH15B,115">
-<attribute name="LCSC_PART" value="C266572"/>
-<attribute name="MODEL" value="BZT52C24"/>
-</part>
-<part name="DZ24V3" library="Diode" library_urn="urn:adsk.eagle:library:16378169" deviceset="ZENER_" device="DO-219-AB(SOD123F)" package3d_urn="urn:adsk.eagle:package:9427153/2" technology="MMSZ5240BT" value="NZH15B,115">
-<attribute name="LCSC_PART" value="C266572"/>
-<attribute name="MODEL" value="BZT52C24"/>
-</part>
-<part name="DZ24V4" library="Diode" library_urn="urn:adsk.eagle:library:16378169" deviceset="ZENER_" device="DO-219-AB(SOD123F)" package3d_urn="urn:adsk.eagle:package:9427153/2" technology="MMSZ5240BT" value="NZH15B,115">
-<attribute name="LCSC_PART" value="C266572"/>
-<attribute name="MODEL" value="BZT52C24"/>
-</part>
-<part name="DZ24V9" library="Diode" library_urn="urn:adsk.eagle:library:16378169" deviceset="ZENER_" device="DO-219-AB(SOD123F)" package3d_urn="urn:adsk.eagle:package:9427153/2" technology="MMSZ5240BT" value="NZH15B,115">
-<attribute name="LCSC_PART" value="C266572"/>
-<attribute name="MODEL" value="BZT52C24"/>
-</part>
-<part name="DZ24V10" library="Diode" library_urn="urn:adsk.eagle:library:16378169" deviceset="ZENER_" device="DO-219-AB(SOD123F)" package3d_urn="urn:adsk.eagle:package:9427153/2" technology="MMSZ5240BT" value="NZH15B,115">
-<attribute name="LCSC_PART" value="C266572"/>
-<attribute name="MODEL" value="BZT52C24"/>
-</part>
-<part name="DZ24V11" library="Diode" library_urn="urn:adsk.eagle:library:16378169" deviceset="ZENER_" device="DO-219-AB(SOD123F)" package3d_urn="urn:adsk.eagle:package:9427153/2" technology="MMSZ5240BT" value="NZH15B,115">
-<attribute name="LCSC_PART" value="C266572"/>
-<attribute name="MODEL" value="BZT52C24"/>
-</part>
-<part name="DZ24V12" library="Diode" library_urn="urn:adsk.eagle:library:16378169" deviceset="ZENER_" device="DO-219-AB(SOD123F)" package3d_urn="urn:adsk.eagle:package:9427153/2" technology="MMSZ5240BT" value="NZH15B,115">
-<attribute name="LCSC_PART" value="C266572"/>
-<attribute name="MODEL" value="BZT52C24"/>
-</part>
 <part name="INL" library="KVRLABS-Test Points" deviceset="KEYSTONE_5190_SMT" device=""/>
 <part name="INH" library="KVRLABS-Test Points" deviceset="KEYSTONE_5190_SMT" device=""/>
 <part name="SRC1" library="KVRLABS-Test Points" deviceset="KEYSTONE_5190_SMT" device=""/>
@@ -21182,6 +21126,26 @@ Details see: &lt;a href="https://katalog.we-online.de/en/em/SMSI_SMT_STEEL_SPACE
 <part name="GND3" library="KVRLABS-Test Points" deviceset="KEYSTONE_5190_SMT" device=""/>
 <part name="GND4" library="KVRLABS-Test Points" deviceset="KEYSTONE_5190_SMT" device=""/>
 <part name="GND5" library="KVRLABS-Test Points" deviceset="KEYSTONE_5190_SMT" device=""/>
+<part name="DZ1" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="DIODE" device="SMA" package3d_urn="urn:adsk.eagle:package:6240747/1">
+<attribute name="LCSC_PART" value="C362303"/>
+<attribute name="MODEL" value="BZG03C180"/>
+<attribute name="VZ_NOM" value="180V"/>
+</part>
+<part name="DZ2" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="DIODE" device="SMA" package3d_urn="urn:adsk.eagle:package:6240747/1">
+<attribute name="LCSC_PART" value="C362303"/>
+<attribute name="MODEL" value="BZG03C180"/>
+<attribute name="VZ_NOM" value="180V"/>
+</part>
+<part name="DZ3" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="DIODE" device="SMA" package3d_urn="urn:adsk.eagle:package:6240747/1">
+<attribute name="LCSC_PART" value="C362303"/>
+<attribute name="MODEL" value="BZG03C180"/>
+<attribute name="VZ_NOM" value="180V"/>
+</part>
+<part name="DZ4" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="DIODE" device="SMA" package3d_urn="urn:adsk.eagle:package:6240747/1">
+<attribute name="LCSC_PART" value="C362303"/>
+<attribute name="MODEL" value="BZG03C180"/>
+<attribute name="VZ_NOM" value="180V"/>
+</part>
 </parts>
 <sheets>
 <sheet>
@@ -21446,43 +21410,13 @@ Current Nom: 5.6A</text>
 <attribute name="VALUE" x="107.95" y="112.522" size="1.778" layer="96" rot="R180"/>
 <attribute name="LCSC_PART" x="109.22" y="114.3" size="1.778" layer="96" rot="R270" display="off"/>
 </instance>
-<instance part="DZ24V22" gate="G$1" x="24.13" y="138.43" smashed="yes" rot="R90">
-<attribute name="NAME" x="17.78" y="139.065" size="1.016" layer="95" rot="R180" align="center"/>
-<attribute name="LCSC_PART" x="24.13" y="138.43" size="1.778" layer="96" rot="R90" display="off"/>
-<attribute name="MODEL" x="24.13" y="138.43" size="1.778" layer="96" rot="R90" display="off"/>
-</instance>
-<instance part="DZ24V23" gate="G$1" x="24.13" y="144.78" smashed="yes" rot="R90">
-<attribute name="NAME" x="17.78" y="145.415" size="1.016" layer="95" rot="R180" align="center"/>
-<attribute name="LCSC_PART" x="24.13" y="144.78" size="1.778" layer="96" rot="R90" display="off"/>
-<attribute name="MODEL" x="24.13" y="144.78" size="1.778" layer="96" rot="R90" display="off"/>
-</instance>
-<instance part="DZ24V24" gate="G$1" x="24.13" y="151.13" smashed="yes" rot="R90">
-<attribute name="NAME" x="17.78" y="151.765" size="1.016" layer="95" rot="R180" align="center"/>
-<attribute name="LCSC_PART" x="24.13" y="151.13" size="1.778" layer="96" rot="R90" display="off"/>
-<attribute name="MODEL" x="24.13" y="151.13" size="1.778" layer="96" rot="R90" display="off"/>
-</instance>
-<instance part="DOV3" gate="G$1" x="24.13" y="158.75" smashed="yes" rot="R270">
-<attribute name="NAME" x="27.1526" y="161.29" size="1.778" layer="95" rot="R270"/>
-<attribute name="VALUE" x="21.8186" y="156.21" size="1.778" layer="96" rot="R270"/>
-<attribute name="I_AVG" x="24.13" y="158.75" size="1.778" layer="96" rot="R270" display="off"/>
-<attribute name="LCSC_PART" x="24.13" y="158.75" size="1.778" layer="96" rot="R270" display="off"/>
-<attribute name="VF" x="24.13" y="158.75" size="1.778" layer="96" rot="R270" display="off"/>
-<attribute name="VR" x="24.13" y="158.75" size="1.778" layer="96" rot="R270" display="off"/>
-</instance>
-<instance part="DZ24V17" gate="G$1" x="53.34" y="66.04" smashed="yes" rot="R90">
-<attribute name="NAME" x="46.99" y="66.675" size="1.016" layer="95" rot="R180" align="center"/>
-<attribute name="LCSC_PART" x="53.34" y="66.04" size="1.778" layer="96" rot="R90" display="off"/>
-<attribute name="MODEL" x="53.34" y="66.04" size="1.778" layer="96" rot="R90" display="off"/>
-</instance>
-<instance part="DZ24V18" gate="G$1" x="53.34" y="72.39" smashed="yes" rot="R90">
-<attribute name="NAME" x="46.99" y="73.025" size="1.016" layer="95" rot="R180" align="center"/>
-<attribute name="LCSC_PART" x="53.34" y="72.39" size="1.778" layer="96" rot="R90" display="off"/>
-<attribute name="MODEL" x="53.34" y="72.39" size="1.778" layer="96" rot="R90" display="off"/>
-</instance>
-<instance part="DZ24V19" gate="G$1" x="53.34" y="78.74" smashed="yes" rot="R90">
-<attribute name="NAME" x="46.99" y="79.375" size="1.016" layer="95" rot="R180" align="center"/>
-<attribute name="LCSC_PART" x="53.34" y="78.74" size="1.778" layer="96" rot="R90" display="off"/>
-<attribute name="MODEL" x="53.34" y="78.74" size="1.778" layer="96" rot="R90" display="off"/>
+<instance part="DOV3" gate="G$1" x="40.64" y="158.75" smashed="yes" rot="R270">
+<attribute name="NAME" x="43.6626" y="161.29" size="1.778" layer="95" rot="R270"/>
+<attribute name="VALUE" x="38.3286" y="156.21" size="1.778" layer="96" rot="R270"/>
+<attribute name="I_AVG" x="40.64" y="158.75" size="1.778" layer="96" rot="R270" display="off"/>
+<attribute name="LCSC_PART" x="40.64" y="158.75" size="1.778" layer="96" rot="R270" display="off"/>
+<attribute name="VF" x="40.64" y="158.75" size="1.778" layer="96" rot="R270" display="off"/>
+<attribute name="VR" x="40.64" y="158.75" size="1.778" layer="96" rot="R270" display="off"/>
 </instance>
 <instance part="DOV4" gate="G$1" x="53.34" y="86.36" smashed="yes" rot="R270">
 <attribute name="NAME" x="56.3626" y="88.9" size="1.778" layer="95" rot="R270"/>
@@ -21499,46 +21433,6 @@ Current Nom: 5.6A</text>
 <instance part="TP-OUTAL" gate="G$1" x="22.86" y="63.5" smashed="yes">
 <attribute name="NAME" x="13.97" y="66.675" size="1.778" layer="95" font="vector"/>
 <attribute name="LCSC_PART" x="22.86" y="63.5" size="1.778" layer="96" align="center" display="off"/>
-</instance>
-<instance part="DZ24V1" gate="G$1" x="40.64" y="138.43" smashed="yes" rot="R90">
-<attribute name="NAME" x="42.545" y="138.43" size="1.016" layer="95" rot="R270" align="center"/>
-<attribute name="LCSC_PART" x="40.64" y="138.43" size="1.778" layer="96" rot="R90" display="off"/>
-<attribute name="MODEL" x="40.64" y="138.43" size="1.778" layer="96" rot="R90" display="off"/>
-</instance>
-<instance part="DZ24V2" gate="G$1" x="33.02" y="151.13" smashed="yes" rot="R270">
-<attribute name="NAME" x="34.925" y="151.13" size="1.016" layer="95" rot="R90" align="center"/>
-<attribute name="LCSC_PART" x="33.02" y="151.13" size="1.778" layer="96" rot="R270" display="off"/>
-<attribute name="MODEL" x="33.02" y="151.13" size="1.778" layer="96" rot="R270" display="off"/>
-</instance>
-<instance part="DZ24V3" gate="G$1" x="33.02" y="144.78" smashed="yes" rot="R270">
-<attribute name="NAME" x="34.925" y="144.78" size="1.016" layer="95" rot="R90" align="center"/>
-<attribute name="LCSC_PART" x="33.02" y="144.78" size="1.778" layer="96" rot="R270" display="off"/>
-<attribute name="MODEL" x="33.02" y="144.78" size="1.778" layer="96" rot="R270" display="off"/>
-</instance>
-<instance part="DZ24V4" gate="G$1" x="33.02" y="138.43" smashed="yes" rot="R270">
-<attribute name="NAME" x="34.925" y="138.43" size="1.016" layer="95" rot="R90" align="center"/>
-<attribute name="LCSC_PART" x="33.02" y="138.43" size="1.778" layer="96" rot="R270" display="off"/>
-<attribute name="MODEL" x="33.02" y="138.43" size="1.778" layer="96" rot="R270" display="off"/>
-</instance>
-<instance part="DZ24V9" gate="G$1" x="39.37" y="66.04" smashed="yes" rot="MR90">
-<attribute name="NAME" x="37.465" y="66.04" size="1.016" layer="95" rot="MR270" align="center"/>
-<attribute name="LCSC_PART" x="39.37" y="66.04" size="1.778" layer="96" rot="MR90" display="off"/>
-<attribute name="MODEL" x="39.37" y="66.04" size="1.778" layer="96" rot="MR90" display="off"/>
-</instance>
-<instance part="DZ24V10" gate="G$1" x="45.72" y="78.74" smashed="yes" rot="MR270">
-<attribute name="NAME" x="43.815" y="78.74" size="1.016" layer="95" rot="MR90" align="center"/>
-<attribute name="LCSC_PART" x="45.72" y="78.74" size="1.778" layer="96" rot="MR270" display="off"/>
-<attribute name="MODEL" x="45.72" y="78.74" size="1.778" layer="96" rot="MR270" display="off"/>
-</instance>
-<instance part="DZ24V11" gate="G$1" x="45.72" y="72.39" smashed="yes" rot="MR270">
-<attribute name="NAME" x="43.815" y="72.39" size="1.016" layer="95" rot="MR90" align="center"/>
-<attribute name="LCSC_PART" x="45.72" y="72.39" size="1.778" layer="96" rot="MR270" display="off"/>
-<attribute name="MODEL" x="45.72" y="72.39" size="1.778" layer="96" rot="MR270" display="off"/>
-</instance>
-<instance part="DZ24V12" gate="G$1" x="45.72" y="66.04" smashed="yes" rot="MR270">
-<attribute name="NAME" x="43.815" y="66.04" size="1.016" layer="95" rot="MR90" align="center"/>
-<attribute name="LCSC_PART" x="45.72" y="66.04" size="1.778" layer="96" rot="MR270" display="off"/>
-<attribute name="MODEL" x="45.72" y="66.04" size="1.778" layer="96" rot="MR270" display="off"/>
 </instance>
 <instance part="SRC1" gate="G$1" x="81.28" y="107.95" smashed="yes">
 <attribute name="NAME" x="77.978" y="112.141" size="1.27" layer="94"/>
@@ -21560,6 +21454,34 @@ Current Nom: 5.6A</text>
 </instance>
 <instance part="GND5" gate="G$1" x="196.85" y="52.07" smashed="yes">
 <attribute name="NAME" x="193.548" y="56.261" size="1.27" layer="94"/>
+</instance>
+<instance part="DZ1" gate="G$1" x="40.64" y="139.7" smashed="yes" rot="R90">
+<attribute name="NAME" x="38.1" y="137.16" size="1.27" layer="95" rot="R90"/>
+<attribute name="VALUE" x="44.45" y="137.16" size="1.27" layer="96" rot="R90"/>
+<attribute name="LCSC_PART" x="40.64" y="139.7" size="1.778" layer="96" rot="R90" display="off"/>
+<attribute name="VZ_NOM" x="40.64" y="139.7" size="1.778" layer="96" rot="R90" display="off"/>
+<attribute name="MODEL" x="40.64" y="139.7" size="1.778" layer="96" rot="R90" display="off"/>
+</instance>
+<instance part="DZ2" gate="G$1" x="40.64" y="147.32" smashed="yes" rot="R90">
+<attribute name="NAME" x="38.1" y="144.78" size="1.27" layer="95" rot="R90"/>
+<attribute name="VALUE" x="44.45" y="144.78" size="1.27" layer="96" rot="R90"/>
+<attribute name="LCSC_PART" x="40.64" y="147.32" size="1.778" layer="96" rot="R90" display="off"/>
+<attribute name="VZ_NOM" x="40.64" y="147.32" size="1.778" layer="96" rot="R90" display="off"/>
+<attribute name="MODEL" x="40.64" y="147.32" size="1.778" layer="96" rot="R90" display="off"/>
+</instance>
+<instance part="DZ3" gate="G$1" x="53.34" y="66.04" smashed="yes" rot="R90">
+<attribute name="NAME" x="50.8" y="63.5" size="1.27" layer="95" rot="R90"/>
+<attribute name="VALUE" x="57.15" y="63.5" size="1.27" layer="96" rot="R90"/>
+<attribute name="LCSC_PART" x="53.34" y="66.04" size="1.778" layer="96" rot="R90" display="off"/>
+<attribute name="VZ_NOM" x="53.34" y="66.04" size="1.778" layer="96" rot="R90" display="off"/>
+<attribute name="MODEL" x="53.34" y="66.04" size="1.778" layer="96" rot="R90" display="off"/>
+</instance>
+<instance part="DZ4" gate="G$1" x="53.34" y="73.66" smashed="yes" rot="R90">
+<attribute name="NAME" x="50.8" y="71.12" size="1.27" layer="95" rot="R90"/>
+<attribute name="VALUE" x="57.15" y="71.12" size="1.27" layer="96" rot="R90"/>
+<attribute name="LCSC_PART" x="53.34" y="73.66" size="1.778" layer="96" rot="R90" display="off"/>
+<attribute name="VZ_NOM" x="53.34" y="73.66" size="1.778" layer="96" rot="R90" display="off"/>
+<attribute name="MODEL" x="53.34" y="73.66" size="1.778" layer="96" rot="R90" display="off"/>
 </instance>
 </instances>
 <busses>
@@ -21634,11 +21556,13 @@ Current Nom: 5.6A</text>
 <wire x1="40.64" y1="127" x2="39.37" y2="127" width="0.1524" layer="91"/>
 <wire x1="46.99" y1="123.19" x2="46.99" y2="127" width="0.1524" layer="91"/>
 <pinref part="TP-OUTAH" gate="G$1" pin="P$1"/>
-<pinref part="DZ24V1" gate="G$1" pin="A"/>
-<wire x1="40.64" y1="135.89" x2="40.64" y2="127" width="0.1524" layer="91"/>
+<wire x1="40.64" y1="135.89" x2="40.64" y2="134.62" width="0.1524" layer="91"/>
 <junction x="40.64" y="127"/>
 <pinref part="OUTH" gate="G$1" pin="P$1"/>
 <junction x="52.07" y="127"/>
+<pinref part="DZ1" gate="G$1" pin="A"/>
+<wire x1="40.64" y1="134.62" x2="40.64" y2="127" width="0.1524" layer="91"/>
+<wire x1="40.64" y1="137.16" x2="40.64" y2="135.89" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="OUTA_L" class="0">
@@ -21651,25 +21575,23 @@ Current Nom: 5.6A</text>
 <wire x1="58.42" y1="83.82" x2="58.42" y2="58.42" width="0.1524" layer="91"/>
 <junction x="58.42" y="58.42"/>
 <label x="17.78" y="58.42" size="1.27" layer="95" rot="R180" xref="yes"/>
-<wire x1="53.34" y1="58.42" x2="39.37" y2="58.42" width="0.1524" layer="91"/>
+<wire x1="53.34" y1="58.42" x2="29.21" y2="58.42" width="0.1524" layer="91"/>
 <junction x="53.34" y="58.42"/>
 <pinref part="DZ15V3" gate="G$1" pin="A"/>
-<wire x1="39.37" y1="58.42" x2="29.21" y2="58.42" width="0.1524" layer="91"/>
 <wire x1="29.21" y1="58.42" x2="22.86" y2="58.42" width="0.1524" layer="91"/>
 <wire x1="22.86" y1="58.42" x2="17.78" y2="58.42" width="0.1524" layer="91"/>
 <wire x1="53.34" y1="53.34" x2="53.34" y2="58.42" width="0.1524" layer="91"/>
 <pinref part="TP-OUTAL" gate="G$1" pin="P$1"/>
 <junction x="22.86" y="58.42"/>
-<pinref part="DZ24V9" gate="G$1" pin="A"/>
-<wire x1="39.37" y1="63.5" x2="39.37" y2="58.42" width="0.1524" layer="91"/>
-<junction x="39.37" y="58.42"/>
 <pinref part="OUTL" gate="G$1" pin="P$1"/>
 <junction x="29.21" y="58.42"/>
+<pinref part="DZ3" gate="G$1" pin="A"/>
+<wire x1="53.34" y1="63.5" x2="53.34" y2="58.42" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="VDDA" class="0">
 <segment>
-<wire x1="24.13" y1="161.29" x2="86.36" y2="161.29" width="0.1524" layer="91"/>
+<wire x1="40.64" y1="161.29" x2="86.36" y2="161.29" width="0.1524" layer="91"/>
 <pinref part="QA_H5" gate="G$1" pin="D"/>
 <wire x1="86.36" y1="161.29" x2="86.36" y2="142.24" width="0.1524" layer="91"/>
 <pinref part="QA_H6" gate="G$1" pin="D"/>
@@ -21678,8 +21600,8 @@ Current Nom: 5.6A</text>
 <label x="21.59" y="161.29" size="1.27" layer="95" rot="R180" xref="yes"/>
 <junction x="86.36" y="161.29"/>
 <pinref part="DOV3" gate="G$1" pin="A"/>
-<wire x1="24.13" y1="161.29" x2="21.59" y2="161.29" width="0.1524" layer="91"/>
-<junction x="24.13" y="161.29"/>
+<wire x1="40.64" y1="161.29" x2="21.59" y2="161.29" width="0.1524" layer="91"/>
+<junction x="40.64" y="161.29"/>
 <label x="114.3" y="162.56" size="1.778" layer="95"/>
 </segment>
 </net>
@@ -21756,104 +21678,32 @@ Current Nom: 5.6A</text>
 <junction x="81.28" y="105.41"/>
 </segment>
 </net>
-<net name="N$40" class="0">
-<segment>
-<pinref part="DZ24V23" gate="G$1" pin="A"/>
-<pinref part="DZ24V22" gate="G$1" pin="C"/>
-<wire x1="24.13" y1="142.24" x2="24.13" y2="140.97" width="0.1524" layer="91"/>
-</segment>
-</net>
-<net name="N$42" class="0">
-<segment>
-<pinref part="DZ24V24" gate="G$1" pin="A"/>
-<pinref part="DZ24V23" gate="G$1" pin="C"/>
-<wire x1="24.13" y1="148.59" x2="24.13" y2="147.32" width="0.1524" layer="91"/>
-</segment>
-</net>
 <net name="N$47" class="0">
 <segment>
 <pinref part="DOV3" gate="G$1" pin="C"/>
-<pinref part="DZ24V24" gate="G$1" pin="C"/>
-<wire x1="24.13" y1="156.21" x2="24.13" y2="153.67" width="0.1524" layer="91"/>
-</segment>
-</net>
-<net name="N$34" class="0">
-<segment>
-<pinref part="DZ24V18" gate="G$1" pin="A"/>
-<pinref part="DZ24V17" gate="G$1" pin="C"/>
-<wire x1="53.34" y1="69.85" x2="53.34" y2="68.58" width="0.1524" layer="91"/>
-</segment>
-</net>
-<net name="N$35" class="0">
-<segment>
-<pinref part="DZ24V19" gate="G$1" pin="A"/>
-<pinref part="DZ24V18" gate="G$1" pin="C"/>
-<wire x1="53.34" y1="76.2" x2="53.34" y2="74.93" width="0.1524" layer="91"/>
-</segment>
-</net>
-<net name="N$36" class="0">
-<segment>
-<pinref part="DOV4" gate="G$1" pin="C"/>
-<pinref part="DZ24V19" gate="G$1" pin="C"/>
-<wire x1="53.34" y1="83.82" x2="53.34" y2="81.28" width="0.1524" layer="91"/>
+<wire x1="40.64" y1="156.21" x2="40.64" y2="149.86" width="0.1524" layer="91"/>
+<pinref part="DZ2" gate="G$1" pin="C"/>
 </segment>
 </net>
 <net name="N$1" class="0">
 <segment>
-<pinref part="DZ24V2" gate="G$1" pin="C"/>
-<pinref part="DZ24V3" gate="G$1" pin="A"/>
-<wire x1="33.02" y1="148.59" x2="33.02" y2="147.32" width="0.1524" layer="91"/>
+<pinref part="DZ1" gate="G$1" pin="C"/>
+<pinref part="DZ2" gate="G$1" pin="A"/>
+<wire x1="40.64" y1="142.24" x2="40.64" y2="144.78" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$2" class="0">
 <segment>
-<pinref part="DZ24V3" gate="G$1" pin="C"/>
-<pinref part="DZ24V4" gate="G$1" pin="A"/>
-<wire x1="33.02" y1="142.24" x2="33.02" y2="140.97" width="0.1524" layer="91"/>
+<pinref part="DZ4" gate="G$1" pin="C"/>
+<pinref part="DOV4" gate="G$1" pin="C"/>
+<wire x1="53.34" y1="76.2" x2="53.34" y2="83.82" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$3" class="0">
 <segment>
-<pinref part="DZ24V1" gate="G$1" pin="C"/>
-<wire x1="40.64" y1="140.97" x2="40.64" y2="153.67" width="0.1524" layer="91"/>
-<pinref part="DZ24V2" gate="G$1" pin="A"/>
-<wire x1="40.64" y1="153.67" x2="33.02" y2="153.67" width="0.1524" layer="91"/>
-</segment>
-</net>
-<net name="N$4" class="0">
-<segment>
-<pinref part="DZ24V22" gate="G$1" pin="A"/>
-<pinref part="DZ24V4" gate="G$1" pin="C"/>
-<wire x1="24.13" y1="135.89" x2="33.02" y2="135.89" width="0.1524" layer="91"/>
-</segment>
-</net>
-<net name="N$25" class="0">
-<segment>
-<pinref part="DZ24V10" gate="G$1" pin="C"/>
-<pinref part="DZ24V11" gate="G$1" pin="A"/>
-<wire x1="45.72" y1="76.2" x2="45.72" y2="74.93" width="0.1524" layer="91"/>
-</segment>
-</net>
-<net name="N$26" class="0">
-<segment>
-<pinref part="DZ24V11" gate="G$1" pin="C"/>
-<pinref part="DZ24V12" gate="G$1" pin="A"/>
-<wire x1="45.72" y1="69.85" x2="45.72" y2="68.58" width="0.1524" layer="91"/>
-</segment>
-</net>
-<net name="N$33" class="0">
-<segment>
-<pinref part="DZ24V9" gate="G$1" pin="C"/>
-<wire x1="39.37" y1="68.58" x2="39.37" y2="81.28" width="0.1524" layer="91"/>
-<pinref part="DZ24V10" gate="G$1" pin="A"/>
-<wire x1="39.37" y1="81.28" x2="45.72" y2="81.28" width="0.1524" layer="91"/>
-</segment>
-</net>
-<net name="N$5" class="0">
-<segment>
-<pinref part="DZ24V17" gate="G$1" pin="A"/>
-<pinref part="DZ24V12" gate="G$1" pin="C"/>
-<wire x1="45.72" y1="63.5" x2="53.34" y2="63.5" width="0.1524" layer="91"/>
+<pinref part="DZ4" gate="G$1" pin="A"/>
+<pinref part="DZ3" gate="G$1" pin="C"/>
+<wire x1="53.34" y1="71.12" x2="53.34" y2="68.58" width="0.1524" layer="91"/>
 </segment>
 </net>
 </nets>

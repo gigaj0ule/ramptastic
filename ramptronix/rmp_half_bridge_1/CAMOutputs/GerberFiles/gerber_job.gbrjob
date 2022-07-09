@@ -1,7 +1,7 @@
 {
     "Header": {
         "Comment": "All values are metric (mm)",
-        "CreationDate": "2022-02-02T23:17:03Z",
+        "CreationDate": "2022-07-09T19:13:58Z",
         "GenerationSoftware": {
             "Application": "EAGLE",
             "Vendor": "Autodesk",
@@ -13,7 +13,7 @@
         "BoardThickness": 1.99,
         "LayerNumber": 4,
         "Name": {
-            "ProjectId": "RMP - HALF BRIDGE 0.0.1"
+            "ProjectId": "RMP - HALF BRIDGE 0.0.2"
         },
         "Owner": "Alec Korver <alec@kiteboat.com>",
         "Size": {
