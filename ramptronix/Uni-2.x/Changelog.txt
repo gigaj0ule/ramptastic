@@ -1,0 +1,12 @@
+Changelog
+
+2.3 - > 2.4
+
+-Change from Si output Diodes to SiC Diodes for better recovery characteristics (see, none!)
+-Removed Auxilary DC-DC converter
+-Removed Solder bridge/solder jumper from 95T to output, since it lowers effective current capability, and has too many turns
+-Added output PI filter to auxilary buck converter to help reduce noise
+-Changed both buck converter inductors (different part num, smaller, since larger size was unnecessary)
+-Changed buck converter IC to BD9G101G, which lacks PFM, and also runs at a higher frequency
+-Confirmed output frequency of UCC38083, which runs at 35 kHz (meaning, effective 70 kHz to the transformer) with 470k RT.
+-Added warning about TL431 pinout
